@@ -1,0 +1,1802 @@
+[
+  {
+    "sequence": "MIRIEGGGSTDQMLDNIAKVHTQISQMPTVMNQMMQSLSPDERLAMEDLVRPDEIVAKVKGGPGGGKAPNFGNGKAAAMLTPGGKVTKGSDMLSHAL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.7306266065763847,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.6151808665376926,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 97,
+      "created_at": "2026-07-28T04:35:32.478047",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MLYGVASSARPSRHGLWPGLQVGLSGRYLGVRRTLGVGHFWLDARDRTDRVVEGRFLTPNDTTVEQPLDYRVLRRVELFTVRVAVRW",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.7239576806375425,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.6499888048516618,
+      "comp_score": 0.896551724137931,
+      "diversity_score": 0.5,
+      "length": 87,
+      "created_at": "2026-07-28T04:35:47.187153",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MEHSTTVKPPQRMILEISKISGVSQGFLYRLFQKEGMIADQWSIEKIQEHHQSFSE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.7167415091743395,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.6183041967796687,
+      "comp_score": 0.9464285714285714,
+      "diversity_score": 0.5,
+      "length": 56,
+      "created_at": "2026-07-28T04:35:59.212033",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MQQRLLAPRLESPLDWDDLVDAESPHARGATILTVSHTPPPNLPILFPGSIQQDTRRMILEDDMRERIAKLTREIQDVEERLLNLEMARRLSTAR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6927044189133468,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5745401473198187,
+      "comp_score": 0.968421052631579,
+      "diversity_score": 0.5,
+      "length": 95,
+      "created_at": "2026-07-28T04:35:44.395059",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "KNGKYYLGRPAEMEIALEKLKMRHFIAVPLKSVTSPELATALNTGASERIHRLRQELQVPEGEGAGDERTA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6915128483617048,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5593040690881497,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 71,
+      "created_at": "2026-07-28T04:35:52.776461",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MKLDTKLLAATAEPQLLPKPFTSNPLDAKKIILTLEGLGGNVDAQFFIPIGGGIDPESRTS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6837522341426655,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.548217477346665,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 61,
+      "created_at": "2026-07-28T04:35:29.391047",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MKRHDGRVVNLLAVEGTGQSVDTQGQPIVGSVGEKGSSLLKSHTDGEPIPAVHADVGAVAVVEVEEDDMEFMLLVNQLLDIMFDNPDVLDDIVDPSWKLIQDALASNPAPFIYQQWIPL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6770676001179654,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.560276643625905,
+      "comp_score": 0.9495798319327731,
+      "diversity_score": 0.5,
+      "length": 119,
+      "created_at": "2026-07-28T04:34:57.851653",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "DAEAELKLSHLKRRMIEMREEEDRVKYKVGYSFKDLKRRNEEEEKKLLEDQKRYKLFSVGENIGAVQRAFGKVSFTATCTKLSAGKSPRLSASFDISPTSPVPFPATMHSVPPDLPHVTADLETYNRWN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6765283973952296,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5578312653818897,
+      "comp_score": 0.9534883720930233,
+      "diversity_score": 0.5,
+      "length": 129,
+      "created_at": "2026-07-28T04:35:23.967717",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MTDEVPGQESTPSNPTSVQKPVPFDTAKLDFFTSTTYLQSAAYEIRSCKIERLSSLHNGLSLALPVGELVKLAEIEFGLPEAVMHPAAPIAQSRAYAITREPSITAPSVTVPTITTAAAVAPATMKKRSLFGAQHLRHLATLLMDVVMLKALRDFGIYCGALKRESLDL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6739128220426953,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5493767280237997,
+      "comp_score": 0.9644970414201184,
+      "diversity_score": 0.5,
+      "length": 169,
+      "created_at": "2026-07-28T04:35:49.436545",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "DMRPALETLPTLISIMESKKSLLVLSELAKLKEEDHAIKKCIPSTSSTKELMLSRYAKKNNFKLYYIDDEVKSYYNTDSLVLRSLLGKNNTELFQLPFAKTENTGL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6735975537381358,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.545840171108388,
+      "comp_score": 0.9716981132075472,
+      "diversity_score": 0.5,
+      "length": 106,
+      "created_at": "2026-07-28T04:34:36.088850",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MPSACSLLLQPASLPVILPSSLSAAAAAATGVRRNSQPKPAGSARRHISMSAINRSDAISLATPEISKLAFEAKTSLSGLSMHSSVSMDDIPWGDVGLSVGSATAPEDHCMYALRIPKEGAINRAKILFEGLESVETLNSIEVASALGKRKWPV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6733271373210268,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5667196581395002,
+      "comp_score": 0.922077922077922,
+      "diversity_score": 0.5,
+      "length": 154,
+      "created_at": "2026-07-28T04:35:55.821076",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "IYGNRLTKSFLILTSISKAQKKANSQASADFIKQKKSTDAETNSYNCGECPGPYCFCKEYSSVKHFYSSLPNRMKSEATVKSSLSNVPDVKSDITAITTTTIVSTGVEGTEEAETGKKEAGIKMNVELEVIKDVEIGGAEMEGI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6678601965494562,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5612288522135088,
+      "comp_score": 0.9166666666666666,
+      "diversity_score": 0.5,
+      "length": 144,
+      "created_at": "2026-07-28T04:35:57.604206",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MQSDNDGLRSELTTVDLPLVTRVTQVTLSNEATAKLVLRYSPKKSYIEFESPFAEGLKVGRLFFAGGDRGRRGELVMNALLRGLGQKIAARPDLEAPANIDITKYSPRNFDPSDFISLFESFKCAAQVEPDQVLASTDDRICALLGAVASLARAGALRG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6628771034556054,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5345683688179808,
+      "comp_score": 0.9622641509433962,
+      "diversity_score": 0.5,
+      "length": 159,
+      "created_at": "2026-07-28T04:35:54.375397",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MNRSHNFYKSASGAIRDRARHMQELFGEDDEINISIAGEPNHSSLIRRWQRPYRFNFQLMFYSMTILASIIAVLVLTGLFAGHFNISLPYSGRMIRVQNVQWLWDGDLPLIISVAKALELEGSNPSDALGVAAVHEIGVQRALLGLTRTEPAP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6627542035959583,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5434303748849825,
+      "comp_score": 0.9411764705882353,
+      "diversity_score": 0.5,
+      "length": 153,
+      "created_at": "2026-07-28T04:34:45.019207",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MIDLLIEQVRNSVSWAAHQTASRLQEAVGTANATDAAVTHDGKNVVHVAIKPGAHHINGAKIIVRPDILHIRLGAVGAGLTAFSFWYDITRGSLSSRSPGSIAHASGPGVAGRILFARRRGVDVGRPAEKLFLALGLFAAYRVGNDDLFDAPYINDRIVVILLGPTVTHLLRQPPEY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6626807227333256,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5326431632267847,
+      "comp_score": 0.9661016949152542,
+      "diversity_score": 0.5,
+      "length": 177,
+      "created_at": "2026-07-28T04:35:11.797417",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MRPYELNGRRPGEYIRDDERIDIDYMAAVKEGRFWSRPGELPRHPKDPGTGRPAEWAVR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6625990410091991,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5615821651221005,
+      "comp_score": 0.8983050847457628,
+      "diversity_score": 0.5,
+      "length": 59,
+      "created_at": "2026-07-28T04:34:23.763923",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "PPTPENGQAAISPSTPPGELQLSPPPLNEDAPIVMNVGEVVAVGGRGLFLSTNLKPGDTSEYELTVSDDAPYACGQLELKLHLPSAYRKFWAA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6616348634868588,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.544271003137909,
+      "comp_score": 0.935483870967742,
+      "diversity_score": 0.5,
+      "length": 93,
+      "created_at": "2026-07-28T04:34:47.797816",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MFLQKLETEITNMTLERAPLDNNPLSPQTVNGLNVSGSKKYLPGFGDDPGGSFGGGLGPGAHRYLDCILKDTQHPRLPLPEPGLTMILRTLQEPSPGKKMAEAETERRCRAAQERRLLMDLLDRGIVAFGKPVKQGGRQS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.657185382196212,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5286321786476499,
+      "comp_score": 0.9571428571428572,
+      "diversity_score": 0.5,
+      "length": 140,
+      "created_at": "2026-07-28T04:35:21.331196",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MSARNTRGKNAKSRRAAEVTRRVHVVNEGQTLRTSPHIHKGRDIRMIREAKNVDLKALCSEYGASGMFSRMTRPGMDDIISVLESKPKKKNIKDKRSAPFQQVCMNKKDRSTNVENEPMEVDLDINVNSHEPESAHEFPDSSSS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6562188672949667,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5267412389928097,
+      "comp_score": 0.9583333333333334,
+      "diversity_score": 0.5,
+      "length": 144,
+      "created_at": "2026-07-28T04:35:25.651757",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MKPCTFEEYAALCAAVIQPVEHRYILLLGGVFAVERHAASIPSLTSPERLRPGMLSGCVAGRVDLVKLESVIASGQTPRSLAGFLAGIYGARVHHYEEILGGCVIGRSGLDELRVNRFSHPLDLIFAYRLLIHNAQIRNLKSPGKWTAESLADADEPMAMLGVEGARLAGFYGTP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6525271301352908,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5403448797851094,
+      "comp_score": 0.9142857142857143,
+      "diversity_score": 0.5,
+      "length": 175,
+      "created_at": "2026-07-28T04:34:42.222971",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "AGGGIGWPFSIEGDSIGYMDKLETRLGAVGPLVEELETRVADGNGSLAQGAYKLVPLVIDSTETDVGQVPSRDAANRHGLSVGVVIEDHNDTVDEEDKVLVTSFVHEVGMKPNTADPSKSSQPLFRKRKQQIPVETTSTLTSQANKSSLGRHGQTGQTVMLVLF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6504116629795064,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5084278112250789,
+      "comp_score": 0.9817073170731707,
+      "diversity_score": 0.5,
+      "length": 164,
+      "created_at": "2026-07-28T04:35:02.353942",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MSIKITNQGCLLDDEIGWNIAHSQNNEPIKLILRQPLTTFGGAVIPDGIYAILHLRGQDTNNPLTVVLDLVYYD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6482591868384708,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5322621588039932,
+      "comp_score": 0.9189189189189189,
+      "diversity_score": 0.5,
+      "length": 74,
+      "created_at": "2026-07-28T04:35:47.646928",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MNHSVPPITEITGLVALKSVEIRALRDVQTYFQPVTDLAASCGIRLTLMFPAAERESASLLSYIGNGSMFLEEDDSQLQMVVLQSAPDGVLWELDRDRIIPAGLTKQHSYIPLYAIIRKEETPGNHFYVVDYKGELITLVEVEIPMDL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6469919999356089,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5130773744253873,
+      "comp_score": 0.9594594594594594,
+      "diversity_score": 0.5,
+      "length": 148,
+      "created_at": "2026-07-28T04:35:52.324903",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "ETLLTLPPNAPVVPLLLNGKADCDPYAGANAGKPSIVTTDTIQTILEMAGENAMPVEAKMHELGEQLKIEAMAHE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6451159793072283,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.510165684724612,
+      "comp_score": 0.96,
+      "diversity_score": 0.5,
+      "length": 75,
+      "created_at": "2026-07-28T04:34:36.563190",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "VYGGSLVGLVHSGGMSQTCSSISIAANIPSMLDTEKVRDALTNLFTSTIPSIEAELEILLEEERVQTERWLFQNEPEFDGWPAVTDAGTLHYVGRVLVLFSNRFTSDRVPRLVTELNKIAQKFVDTLSDTHPAI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6383721789754676,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5121734752954442,
+      "comp_score": 0.9328358208955224,
+      "diversity_score": 0.5,
+      "length": 134,
+      "created_at": "2026-07-28T04:34:56.905187",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MSRLTDTQPAWYGDLSEFGSTPGHAVYLQGKVVVPDVILDQLFYGTPTLANAQLVSFLMELHQANRLDAELVGSLDHYCTSTQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6365837680625743,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5118150215007518,
+      "comp_score": 0.927710843373494,
+      "diversity_score": 0.5,
+      "length": 83,
+      "created_at": "2026-07-28T04:35:26.823050",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MIETDADADNGRTDHQGVDLGGSLWQICLFQEKAGGQNLKIRQFSPKSQLGEAVLNSSFKNR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.635879563076692,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5213026016302975,
+      "comp_score": 0.9032258064516129,
+      "diversity_score": 0.5,
+      "length": 62,
+      "created_at": "2026-07-28T04:34:33.158106",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "ATTQRVKIAVRKRKKARKSLKDMYEQRMGEMVLQLLAGQARDAKLRGVLDDDEGQGQETKCTLEVMEYLDKGGIQFGDPDGLLSALQTAHNTFPPLVPSLIH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6354952517235926,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49188397305051035,
+      "comp_score": 0.9705882352941176,
+      "diversity_score": 0.5,
+      "length": 102,
+      "created_at": "2026-07-28T04:35:37.490546",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MFGFALSDEDSKGSDPITELLEHHIGNRWFGFGNFDGEVAYEREVNDNGTDLPLMVLGDELFNLGAKYGRLDLALTSVNLTLQKTLVAVKHSILHKTRQLFDVIDEIATLTSDFRRVYTA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6351478634559893,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48949694779427055,
+      "comp_score": 0.975,
+      "diversity_score": 0.5,
+      "length": 120,
+      "created_at": "2026-07-28T04:35:27.777054",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "VGEPITPEEQARVPDIPWAGMHKKTLAGAWTAKKLGCPADGVDPDAYRSQPVAEAQVAQALGKAGAVWRAAKGDKIAPVFL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6341878555225169,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5409032856670877,
+      "comp_score": 0.8518518518518519,
+      "diversity_score": 0.5,
+      "length": 81,
+      "created_at": "2026-07-28T04:35:18.468360",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MKIGLKTIGNLESSHKARIGNLKHISAHISHLLDSLYEVAKAQSGNIMEGINIEEFPLPEDHEQGDEFYGRDEGASDESTADIGVAEENTHIVIEKHGEEPVKALSYVVNHKAIKSKRFVRLTPPIFGTPIRELEKDPFDWTYETGETADGIRHVPDPGYYYTN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6333816762164453,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48409925870642,
+      "comp_score": 0.9817073170731707,
+      "diversity_score": 0.5,
+      "length": 164,
+      "created_at": "2026-07-28T04:34:39.797066",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MLDEDLQWLAGFLNNSQSESLAECLDTGNYALNTMCCASTQPLESALVMGLSQATASALFQADTVLSMIGLHYWAFPDLDLNLIPTLGEESVTASPSSTSTSSDSKE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6316700749802672,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5338944996380319,
+      "comp_score": 0.8598130841121495,
+      "diversity_score": 0.5,
+      "length": 107,
+      "created_at": "2026-07-28T04:35:38.275785",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "KIAQKWDIVANKIGLGEEQEKGIQLWWKGDSLTLVHYPNTFTKGRTKTIELFINCPRKCIKMSRGFFIRVGNVAGKRTEGLQAERDQSDMAEAALASALEEDDAETAAEGIDIQNEGFDNEALFDLLHQHNYPQNQQQQEPAPKEPPQEEEPVVAGDD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6316361165299427,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5144530416973866,
+      "comp_score": 0.9050632911392404,
+      "diversity_score": 0.5,
+      "length": 158,
+      "created_at": "2026-07-28T04:35:42.051511",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "TLLILEAGYPFIGLNFINFTERVSAIYGGPETPTVPFKRVLQPMLVESHILVFLDCCNTTEQSNLYTRLIKTKEDMVEDEVKVINLHKPNRSCTSLVVGNTMVLALVTKDGFEIVDLLHVQALTRQKSLIICKEEFFKVSAAKNQLSLLSSTAVPRFEYECPALQF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6310563325876065,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5116639518893519,
+      "comp_score": 0.9096385542168675,
+      "diversity_score": 0.5,
+      "length": 166,
+      "created_at": "2026-07-28T04:35:08.515004",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MVISHETRHAMDHFHDSTQEATKIESDAREIVIPHFRANDTFVRVNEPALLAILTLLLFCTSSSHGDKYSNDFSNPKTYCEINAAML",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6293154100443437,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5000072360239392,
+      "comp_score": 0.9310344827586207,
+      "diversity_score": 0.5,
+      "length": 87,
+      "created_at": "2026-07-28T04:35:33.058891",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "SVKGLEHGILNVEKVRYLAGFTDRLHTLFKAVEGQTERAIVFQPFFLTLMALVDFAWQDKFYHELPHPSKAAQRKVDIFMNGQTLRELIASYVGERLTGQHSVQAIRSTFPKLLAEERDGVCAYFLS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6289645446524156,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49019681856981756,
+      "comp_score": 0.952755905511811,
+      "diversity_score": 0.5,
+      "length": 127,
+      "created_at": "2026-07-28T04:35:50.963042",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "LVLIQAEARMASQPKEFYSNGRLKHRVRREGITAPILVRACLGLREALDEFVAPLLLARGLRDSGEQPGQHCRDAQNGFVPAQTSPMPILPSAKSSISSAEVAPGTMTMADLPLRLAGRIKSRYSIQHRRHRNFSQPLRRLLRNDMLLATSLDDYSKDTDALK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6288287273022888,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48553096012509267,
+      "comp_score": 0.9631901840490797,
+      "diversity_score": 0.5,
+      "length": 163,
+      "created_at": "2026-07-28T04:34:52.972567",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MRQPVMLNAENMITEAQVTYKVGNGSSGNIIAPTLLHPATGGQIITAEVAAESVSYGLDNEPVTLHPDGVKSKEPEKPFKKWSS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6285402797337183,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48464937921143436,
+      "comp_score": 0.9642857142857143,
+      "diversity_score": 0.5,
+      "length": 84,
+      "created_at": "2026-07-28T04:35:12.335360",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MVELEDWDYGGPSVARKGKATIAEFSRQKTDTTAQGGRIEIEGIKIIFRYLGLLQDNAKEGKPYYIHPDPADLGKFEPLLKNKSKTLKSHDLLSALTGKKQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6283083944096529,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4817418364268027,
+      "comp_score": 0.9702970297029703,
+      "diversity_score": 0.5,
+      "length": 101,
+      "created_at": "2026-07-28T04:35:05.698455",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MRLRSNVQSNRRIQPARPQRKDLRLFPELRKKKHKLIKDFPFTTIMVGSEQFKFNLFKMNESISEM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6277560997990748,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.468222999712964,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 66,
+      "created_at": "2026-07-28T04:35:17.937851",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MSLANENNLMQDDIPRVGIFSSFYGPLKSALSGMPALSEALVRIVGMPQVFFIVQGVQQKELGFRLAARFFSDQCVVALGQEQNNSKIRLLIGALVVDVAFVFIKAKG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6265093280389287,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4783466591032315,
+      "comp_score": 0.9722222222222222,
+      "diversity_score": 0.5,
+      "length": 108,
+      "created_at": "2026-07-28T04:35:35.310871",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MSCMDVTYELVLSAFNISLFAPKPLDKNAYKRIIFGILRTVCGRGLKRTHLSTGKIIRERFIRLPLTPSAAVNILKPYNSFTGTNDVSIEQFNIPKTV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6250854384349815,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49064683624822436,
+      "comp_score": 0.9387755102040817,
+      "diversity_score": 0.5,
+      "length": 98,
+      "created_at": "2026-07-28T04:35:22.006278",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MRNLLHGKEFGQSNSDVVLRALYKSVPRVRMGYGGYSSITQIRLFPSPKKNLVFVEHQQHDVSFIKHKSAFVIKPL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6247609433013114,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46394420471615916,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 76,
+      "created_at": "2026-07-28T04:34:40.273109",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MCWFVNLFEPTQIYRCEKCEVVVKPLKEKLSAPVAVGVRISRGVDTNRLQLYAEPIEDKDWKGTAGSFETINFSFEFMHTGPGYGAIVSGGEYHRGNRNYVEESRKKILEIAQAVYDNPGGKRPDGVEKTYDPINITFAEITNIR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6247467200739927,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5082588611894476,
+      "comp_score": 0.896551724137931,
+      "diversity_score": 0.5,
+      "length": 145,
+      "created_at": "2026-07-28T04:34:28.742020",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MTPSSEHGVPTASSSTSPIISSARRRENANTRSLAASHTHEGEQHKLGHDNRVSVSLMTIEMSEYEGDYCGKAGILCILGLRVFRTAAPILINTSRTCSSSAKATYATFCYISENDVYERDSAYAFPLTDS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6246614430877339,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5030605130260976,
+      "comp_score": 0.9083969465648855,
+      "diversity_score": 0.5,
+      "length": 131,
+      "created_at": "2026-07-28T04:34:32.786837",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "AAPSPSSAAALQPQIDHNEPNQGHWPDGMNREHIENHDTASPCAEKRGEPYRMKVMKQKAKFPRYFSGGTRNVNSVSFIAETTEPAEMNLFAFLDSTEDRRHHQVHRVPSTSSLDSVTAYVRSSFSPFCILSSPIGGDRLGALRPPSFTTPLFSFCNEGKEDKEHLTALSS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.623993031686707,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49292237609379197,
+      "comp_score": 0.9298245614035088,
+      "diversity_score": 0.5,
+      "length": 171,
+      "created_at": "2026-07-28T04:35:14.175230",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MFRFLRTQPYTTVKTQKAKTKAQRRKPWMVVQQHTKKRLQLELRVLTLIPFYGAGQSNEKLGE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6229665910452225,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48178900761562404,
+      "comp_score": 0.9523809523809523,
+      "diversity_score": 0.5,
+      "length": 63,
+      "created_at": "2026-07-28T04:35:40.529276",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MIQPALIKTRELVIMAYSYGMIITRSHAGVKSALSLDLTLVGPAINLRPSRETTLVHIAMADGDVNEVEH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6226225860626708,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4608894086609584,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 70,
+      "created_at": "2026-07-28T04:35:49.882692",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MQDHSDHIDTGCPKILPNNQVIFNVASAGSYAVWRNLVRVTAVKLNTLDGQASSDSSEVGIVEHVGEEKLNVYPSVHLLEREVEISLDGGFGIEGDLLDFDESIEDSEFGRQPAVHV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6224733608870248,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4826542518166288,
+      "comp_score": 0.9487179487179487,
+      "diversity_score": 0.5,
+      "length": 117,
+      "created_at": "2026-07-28T04:34:50.557904",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "EIRAVLLAIATLAMMTQKQLQLAQADLLATAATPTDFHHLMADFDFNEKNSDGAAKPYLVGDSLVFESNVREWVSAHNVGVLYDRQAPCLVLEIGNGEEEETNNVSDAKIFLEKLVSIWSRLGKEAQEIWREVFAPTGGRSAGKLSLVSVLRPT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6219123054478555,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.493269898320684,
+      "comp_score": 0.922077922077922,
+      "diversity_score": 0.5,
+      "length": 154,
+      "created_at": "2026-07-28T04:35:34.516500",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "ANLAGVIGDIAHLAVTTLPKSKHYSQRTIVHYTQGGNLTVQEGGDEGVRDHLLQQRG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6197728132083227,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45681830458331807,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 57,
+      "created_at": "2026-07-28T04:34:50.901816",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MYPYSLPETGVGENKIGKRDISPVWLLIPTLVGESAQEKRREIGSHQEVEIKEMNESSRCPTALASVILRHGAPTGGRKEAIGVWPTSKPNQQPPFQQFDCRPGRVQLKAVKGHKVDDDGGTLMNTGEKATSGKRRAKLEDVLPYIG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6189576328180155,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49063918390911854,
+      "comp_score": 0.9183673469387755,
+      "diversity_score": 0.5,
+      "length": 147,
+      "created_at": "2026-07-28T04:34:49.651053",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MRKESKGKHERPRRAPGNSHPGSISFRTQKGKLVSALAQLPCEKWKETAQGGARRKLIKIRMEAGVTLPIRVIDYRKIFGNKDMEISIPMVNPRIFTH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6189223207303693,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4818423823844926,
+      "comp_score": 0.9387755102040817,
+      "diversity_score": 0.5,
+      "length": 98,
+      "created_at": "2026-07-28T04:35:59.895095",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "TVQDKPSLTQATANAYVSYDHLDEEEIQEIAQIILETIQKLPKADDIDQQDKEDLLIGDWMTTLESNIDDLTASFDIVCKEIQAADEVLVGLELEPALGLPADDPALAQVEKPYWFQSFSPVKMDKAFVEGRIWSILSYIETLGAECDFQFEIGNTPDEVEREFDEVGP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6188950606406735,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4936032565365497,
+      "comp_score": 0.9112426035502958,
+      "diversity_score": 0.5,
+      "length": 169,
+      "created_at": "2026-07-28T04:36:01.681659",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "AGFIEGYTEESMNVPIASEVEGGTMVLLVLELTRGLSTWRSQGHQPAGVHKRSQIADGLNVDVPQSIEEPITDNSSATEHRRDTNEWALVITGLAGGNDIDGPAETTTEMTRHNEVEEVMLSIISLAAPNAVLALVNSTTGGNTSAGSGR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6186007872220476,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4722868388886394,
+      "comp_score": 0.96,
+      "diversity_score": 0.5,
+      "length": 150,
+      "created_at": "2026-07-28T04:35:00.691484",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "PSDVPMEVVHHDSPLVEADEGFNFEFPSPLNLLIHINDFIIISAPTLTSPFNACIIVLYGNEFASSSPQP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6163193015210449,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4702520633974111,
+      "comp_score": 0.9571428571428572,
+      "diversity_score": 0.5,
+      "length": 70,
+      "created_at": "2026-07-28T04:34:48.235564",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "QVGFRQFDELVFGVVSERRTEDGSVEMDGVEPMVRNLKPIVNASIEARQGEELNSENPQAAVTGIGALKWYSDPSGGVNPASQTENNVATREEAGENGGGKGSTKRGFEKMGGQPTKAESMLLDIYHDSKAAATKAFAGIAVHVGHIEIGLILLVL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6158942714243583,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45951928884798443,
+      "comp_score": 0.9807692307692307,
+      "diversity_score": 0.5,
+      "length": 156,
+      "created_at": "2026-07-28T04:34:47.169143",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "TTTNLRKIQKETVIGQAKKLTGNKKRRNDSKSTFECTFIKMKSLVCVVLRVTKPITQTDVDPQALQLRPVFRALVLKLRPELMVVVPVPEGLKHVSPDPSVRPPESDMKIPEFW",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6134155049184262,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48157102206391733,
+      "comp_score": 0.9210526315789473,
+      "diversity_score": 0.5,
+      "length": 114,
+      "created_at": "2026-07-28T04:35:04.984114",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MVDDVPGGVTNGLRLLKTGELFVIGDTYANEFLTWVAGRREELHREYSQFVLLRLDDSCIPHSFTFHTDSEAVDYGPLKAAIASAWTEDLVKSITPMRVTVGVAHELWRGRRQLMLPLQNEQQEGREWAFESEPG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6111898406642784,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.492175962853731,
+      "comp_score": 0.8888888888888888,
+      "diversity_score": 0.5,
+      "length": 135,
+      "created_at": "2026-07-28T04:35:58.810271",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MYEYKLSYPLGEIVAAPNYQYIVDLIKPLVTKTYAIIADGANSIVDRGRFNHIQVRDSAYATNSAFEGQASVPPQESRPVVPPLRQKARGMIENLASDQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6086961103683793,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4409944433833991,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 99,
+      "created_at": "2026-07-28T04:34:58.546576",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "ADYLVERQERYDTGILEIVNESVRTLKKPEIINNKALYEDAAEVLVPNFKNFGSVVEGYNNITTDQANKRKSVDRTQE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6082421994042236,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44034599914889094,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 78,
+      "created_at": "2026-07-28T04:34:43.513958",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "SEEQMPEVVIKGKLFASKADIGTQNIMIEDCEVNSPNLVLHLRKGGKIDEHYDEK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6054328881859795,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4597093207851656,
+      "comp_score": 0.9454545454545454,
+      "diversity_score": 0.5,
+      "length": 55,
+      "created_at": "2026-07-28T04:35:24.302902",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "GLGLRSHQLPGQSQCALDRGKPGWEGPTRVFKEEGGSLEKFVPSVTKTMALRARGVIEEPLKVRSAESPEEPLGWKQIYGDLSQEQKEFVQVPSTHQYTGLAYKSSQQQAGLPGLTNESAALLTELPVLDRSDAWAIFVAERVLANLEIPAGYGVKL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.603477840450731,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.466296823937805,
+      "comp_score": 0.9235668789808917,
+      "diversity_score": 0.5,
+      "length": 157,
+      "created_at": "2026-07-28T04:35:30.950042",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "DFLHKKTKLLRARGIAEPPNLLHEYMTIPRMGMNEDPYESIALAYDGTSHVMDLSTKSRQSILPYEARAQYQNSLTIKCRLPSGVPQGRVGGIVEFPQEGWPEAAAGQSVIRQTNLTKIPRKRLTSAAAIGASVAPAFTDLYVSEPLPGSVSSKFRVFLTSAVDNAVSGY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6028171391496582,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4477219634911084,
+      "comp_score": 0.9647058823529412,
+      "diversity_score": 0.5,
+      "length": 170,
+      "created_at": "2026-07-28T04:35:04.129823",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MIAPEAEKPESKEVPSFHIQATNFCECEIMNQADLEVWAFGTSTSESSSQPTADGEQVPDILFTSKTRPTMTANSTVGQITTFNRAVEEAMAPLKTLSDEYIMLHSSS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.599090577740634,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4629865396294772,
+      "comp_score": 0.9166666666666666,
+      "diversity_score": 0.5,
+      "length": 108,
+      "created_at": "2026-07-28T04:34:43.019112",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "VAPVDNHGKESEIHIDFTTVRSNILAEQLYKYLSESMRGTPFILFALSTQNRHVAFFDIVPKHPIDGYERQTYKLKAGRPLFRLGKSPGHRYLYKTKVVGEVIVSMSVEEQVKYIEKAQDLRIFKDIDNCRH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.59903650705148,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4369352698138028,
+      "comp_score": 0.9772727272727273,
+      "diversity_score": 0.5,
+      "length": 132,
+      "created_at": "2026-07-28T04:35:40.155640",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MSYPDLLDRGGQAIAGQKNNETYLNVLLRYKQATLQALDEQWGQENYRRCYELELVENAQGHRTPVLKRYIKGAKADQKASEHDLSHNLFEGLFALQEEGNGTGLSWTLLEAAIGRVMFCDAVQLQFDLDPKPEVVTRQPFITETEQPSQSIDWDYDAE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5986096933441676,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.467016543052315,
+      "comp_score": 0.9056603773584906,
+      "diversity_score": 0.5,
+      "length": 159,
+      "created_at": "2026-07-28T04:34:38.144885",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "KPYSFKRDEIIELERLALMLTDPANHIPVFDQIRQWDGSKATDFLLIEAVLVFQPKQEASGLAGTWGYVKATSKKIIGLLELPEKIRRKDSFVTGLHEPRNAAARKP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5985551177664481,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4505393538185575,
+      "comp_score": 0.9439252336448598,
+      "diversity_score": 0.5,
+      "length": 107,
+      "created_at": "2026-07-28T04:35:31.775067",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "FIALGTYLDKLSKRSYPPRTQILDELGLAVREVAKSQTNVFVGTSRVYEKIVEREMGVDRDRLSLIDPDPAMPSWRLLTYRLHELYCEDTYDEPTQSRSLSNGEARLKDMDMAVIMGQERAGECLE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5976875709931299,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45588020345957325,
+      "comp_score": 0.9285714285714286,
+      "diversity_score": 0.5,
+      "length": 126,
+      "created_at": "2026-07-28T04:35:43.751208",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MSEQAQILDQLSPSVVGRVSLNLAARSFALVYTVSVQYAQVVTFVAAEQEKGPGIIIVTMCRTCHDPSRCAKGTPAPPLDFSMGFDESTAR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5971143392374268,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4668352412967951,
+      "comp_score": 0.9010989010989011,
+      "diversity_score": 0.5,
+      "length": 91,
+      "created_at": "2026-07-28T04:35:26.271945",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MGDSDDMVNGVGRPKTIPSTREVILTDGDGSVCISSHDRELTEQIVHTQKLDFHPELIGKESGYSPLLTVLPVKVYRTLEGKREACHTLLFAARWLLAEEPTKISLLSVWKTATIGATVPGVQEGVIEDGGVAGKQMDKIVRIHTEQATHNLGRLSSHMGPSPQICT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5969961332402516,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.462774630035261,
+      "comp_score": 0.9101796407185628,
+      "diversity_score": 0.5,
+      "length": 167,
+      "created_at": "2026-07-28T04:34:34.896133",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "GGVYSTQWFAVDHTARGSRHFEWSSTTSDFVDLVKDVMNASGIPDTVIIAEAKGVAQRDNVLGVVPKEDMYRLDKVPGNAKDDLLRTALKDQLVLECYEEDKAKVPRTYGDNTYHSDHLFKKDEVECGIKMLADMVVIGQQMMDPII",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5961164804898835,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4580089662975013,
+      "comp_score": 0.9183673469387755,
+      "diversity_score": 0.5,
+      "length": 147,
+      "created_at": "2026-07-28T04:34:54.369891",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "RGVSETILSKELLFRAAFQYTHFPPAKTSLNLALERIKMGRRLRAWQEAICPDPYGDSTVGTGSRSPFRLGTHTSQVIAGGSLLPTDQNYQTAACKPLPTSLEV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5958948363896821,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45979482121602955,
+      "comp_score": 0.9134615384615384,
+      "diversity_score": 0.5,
+      "length": 104,
+      "created_at": "2026-07-28T04:35:39.031236",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MSPDEAIWLESKPKSTFMTKVVALKFFALLEGDEIRSPILQAAIKPNKASENSTEPRQLGTSVDITGQTKTQKKNQEERFTDYDARWMIGGKGPPLETDN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5934678602146187,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44495408602088393,
+      "comp_score": 0.94,
+      "diversity_score": 0.5,
+      "length": 100,
+      "created_at": "2026-07-28T04:35:42.747049",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MEVATDRAMRFEAGTPLMQFHFLVHEVEGAVHPVDAFTSRWGRGHRDKNDAPWKRAASLLQNLYIRL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5931048017940482,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4571006763369133,
+      "comp_score": 0.9104477611940298,
+      "diversity_score": 0.5,
+      "length": 67,
+      "created_at": "2026-07-28T04:34:35.312815",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "ISEDVMGDNWELENPKGEPIKLISKPCSSSIKVCNVGNTTLLVEAGAIRVITALYNKRGPANGAKIAIKI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5917290180367978,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47185778086889496,
+      "comp_score": 0.8714285714285714,
+      "diversity_score": 0.5,
+      "length": 70,
+      "created_at": "2026-07-28T04:34:26.828892",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MGDLVGTGKPEVNWPFGPSGQLDQSPNWFTTLQRLAFLEDMLARFANGGGDPYSIDEKSLDMARLLTESVLHAIYNDQLAFVKIWESTPILNGRNGALLKWGFVDKYHMLRTGVGSASESKFTLGEVGRVHPKHEHYDV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.589248313891984,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4502108492393193,
+      "comp_score": 0.9136690647482014,
+      "diversity_score": 0.5,
+      "length": 139,
+      "created_at": "2026-07-28T04:35:09.786965",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "GGRKEQGIDNQAARTTVPGPGTEPRPNAFDTFLYALLFQSCSGHAFNNENFGGLIAKALGAKKHLCPLTKVEWPDIPQPLRYKEFSIAKDVSESLLSDKDNYGLSMAELVKDLLGCEQDQKRGSQRDSTFLGVRPFSKEEMPERFVKFFTM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5885356232164243,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44625240402724764,
+      "comp_score": 0.9205298013245033,
+      "diversity_score": 0.5,
+      "length": 151,
+      "created_at": "2026-07-28T04:35:36.762783",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MSARITTVMLGGGLLIARMPKSEEWLLRKPMPLKGTDVVNGSDNTYGLGEVLDVKSRTYIVCSMA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.587727669023872,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45059996673739955,
+      "comp_score": 0.9076923076923077,
+      "diversity_score": 0.5,
+      "length": 65,
+      "created_at": "2026-07-28T04:34:51.303376",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MLPVTENRHVGSTIIEGIPIPIEEKVGNAQYLVGYIDNHPCAGQVARQLACDPALANVLLEPSIGINDAGLTQFGSDELTKYDPSILQKMVWLFCNFVPAHVGEDFARFFPFNIYRQLGFNERCSISGYNSASKFPSEFEGFIELC",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.585752045721777,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46105478155948576,
+      "comp_score": 0.8767123287671232,
+      "diversity_score": 0.5,
+      "length": 146,
+      "created_at": "2026-07-28T04:35:16.955329",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MGFILIGITFFTLSKWRVRAFNKGTEKFMAELAFFMGPDYRPPPTSRQPTAPLTRIPPRCNVECNPFAAADPELDVGPSKSLGNKIG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5848917582058643,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45132320137783566,
+      "comp_score": 0.896551724137931,
+      "diversity_score": 0.5,
+      "length": 87,
+      "created_at": "2026-07-28T04:35:17.529103",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "LAISDRDPLGPLVEEEWVVYKHITKNKGERPALGQDKQDAEQEVTRVALSIVDKQLDRGSIPVAWVERDYDLVSIDDINVRFRRKDDEMDPFIALEEFVIADSGKSNYNAFLMGLTVSIDSTLDGMK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5840368214843578,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4260143569011635,
+      "comp_score": 0.952755905511811,
+      "diversity_score": 0.5,
+      "length": 127,
+      "created_at": "2026-07-28T04:35:46.611480",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MFSAFPQLHGKQHWKSVLLEDPHGKAMQPDPKGVLLVTVVRLAAGYRLDGDINFEFHIDKAITSEATTGRTWSFWVYISGKQMTDVREEGYRLTHVLSRKQFTVSGQVAAKLVQPTGQLPIPATFSSWRQQPPK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5811867086277581,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44007482895649885,
+      "comp_score": 0.9104477611940298,
+      "diversity_score": 0.5,
+      "length": 134,
+      "created_at": "2026-07-28T04:34:31.642682",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MLDSQAEIDEDDSTLLFSDCLLKLDPAHHENSAGPQKVTSVKLESLANRPVCPQPATEWLPSREVLAEVPSQYKLDECGRLLLDGEDKSFAHYRGNGQRPSKYWLQGHEKSMPKDMLIWVVPHTLDWN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5776227633788866,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46691644768412377,
+      "comp_score": 0.8359375,
+      "diversity_score": 0.5,
+      "length": 128,
+      "created_at": "2026-07-28T04:35:45.488968",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MKTENSPGTNCKIEYNVREAFLIYLADVRKKSSLWLAGVSQNGLYLCCAKDEELI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5762475275524898,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4881458185814789,
+      "comp_score": 0.7818181818181819,
+      "diversity_score": 0.5,
+      "length": 55,
+      "created_at": "2026-07-28T04:35:28.104234",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "AWYRNIRYAEVSILGMFREALKEAQSYTKQHLTINQRRVRFMKLSLIFICRCSTLRRKLHFPGVSFHYKGLVLWETVRRRVHLVGLLLREYYFGNKKERNLFQLFLANIISAHKWELGTRFSKDIGRRKIT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5755336807634492,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4426926082880247,
+      "comp_score": 0.8854961832061069,
+      "diversity_score": 0.5,
+      "length": 131,
+      "created_at": "2026-07-28T04:35:06.839246",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MFWLIRPIGESAGGATGTGSSSMCLAGFVTGFFNRQPWNAPGAAAGWQVPTYRELSDWAAFYPGDRVEQWHAVLGYHSELGRDPLMNAMTIRKADKYFSLVGLWHEWYREAQISKQESTALANIL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5725126878090477,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47158955401292535,
+      "comp_score": 0.808,
+      "diversity_score": 0.5,
+      "length": 125,
+      "created_at": "2026-07-28T04:34:55.771488",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MAKNGCAEESLLSTFVNLRYVTIQTTVTSIQCCFSQMKSVLHELFAGQWKESAIFLVATYLQTVKSFKAGSSGVERSGADMQEPGTTPILQFKLPHDGSHVYQWNEDSEIPSEAGGQECFHVLAPLRCSVASSIKPQKILIK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5720946777785169,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45208696423087924,
+      "comp_score": 0.852112676056338,
+      "diversity_score": 0.5,
+      "length": 142,
+      "created_at": "2026-07-28T04:34:25.035983",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "VNQWIDIIRDDPKGTAAYEPWKLQFSGVIYNALIVESSDKSQLQVIPFSALPRNLSNQLAPPFKTPTFKQMLSYLYRGCSCQMAECVEKTMIDAQKYMEEGVKDWDDEAEQNNSFSIQGSNSKILQINPDFFCGLDDDIDVTDL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5682852431593701,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4457646330848146,
+      "comp_score": 0.8541666666666666,
+      "diversity_score": 0.5,
+      "length": 144,
+      "created_at": "2026-07-28T04:34:30.103411",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MFWHRRAADANKTLPQGDTATGVLCVNGCVLLVRDAGEWGELKRAANRESCKSEIAMLAVFIM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5673937203055148,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.484031845334409,
+      "comp_score": 0.7619047619047619,
+      "diversity_score": 0.5,
+      "length": 63,
+      "created_at": "2026-07-28T04:34:54.749107",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MEDSGFPWAQTIKTYTGGPDNPVDVTQYGMLAPATDPCLIPFREGASTLTQEDKLWTAIPDAWLNQRLIGPSELKQSFLSIFEPPKEKSEGKQVLGAIQKGRWTKTVQLVIALWGTYFDVPKEYKGIIQMIEAVLTESGEGSDQAYCLLVTTEI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5664195325508212,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43904089065701746,
+      "comp_score": 0.8636363636363636,
+      "diversity_score": 0.5,
+      "length": 154,
+      "created_at": "2026-07-28T04:35:15.635012",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "CNDANQSPRTADKIADYDVYNTPVVVADFEPYLRQLAGECASTFQTSLVWGESQHFIMLVTDIPQVRRMTAHAILRSRSIPPTS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5654270059865153,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4250998044705321,
+      "comp_score": 0.8928571428571429,
+      "diversity_score": 0.5,
+      "length": 84,
+      "created_at": "2026-07-28T04:34:27.387655",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "ISMSEARRSRQSEALIIYLVLDKYQAPFEAHAHMHVAYDDQLNTTEDDNRRINTGAANFVRPVSYYPYMVPPKVRKMYRYGLLPRHDNMFSLLFL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5652623895052781,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.37894627072182585,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 95,
+      "created_at": "2026-07-28T04:34:45.676005",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "GPSSETGVCDLPFQLYISYLDRIGKSYCDLRMPMSVYLALPYIHQHRPIMKCMGKGGYGWTFRNIAAADLNLLSNGEENQLTHGFHIRVPRSLLKKTMEKDEIYISNYDSYIDFNPASARWWKSLRNVILNKVDAGTHASAPSSR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5634341684663275,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.42953649682381767,
+      "comp_score": 0.8758620689655172,
+      "diversity_score": 0.5,
+      "length": 145,
+      "created_at": "2026-07-28T04:34:26.395737",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MLFKQIHVDYRKSDNGDGYRKVLLTIQDCKLTLEVDEHFYFRDANLLPTLKVKMCFEYTDQDFELPSTQRTSLPSALAVQECGAWITFVSGFIEINQHDADDEEHINWG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5625501963310828,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43404942857258244,
+      "comp_score": 0.8623853211009174,
+      "diversity_score": 0.5,
+      "length": 109,
+      "created_at": "2026-07-28T04:35:22.814878",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "DHCGPRMTFSEFTGDAVTHQNRGVSEALTNGQEFFADSRLGKLIVLTGDPLEFDVVCAQKKKAQLALVAYMRAGYKVKISDLEGYSTRFLHGCRLHSQHPE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5618003495002871,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4121900325251626,
+      "comp_score": 0.9108910891089109,
+      "diversity_score": 0.5,
+      "length": 101,
+      "created_at": "2026-07-28T04:34:59.275149",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "YVRCMFGQQCAYSLLIYFISTPLAPSPTEQPSLLIPATSGAFITPKPPPAPPAPNREGMGQVAHFTVKCEFSPLGVPDPPEVDAVDLDSSNYLLYTQIVPHMAALDDSSLVWCMFDVESLSNGAAHETTLWGEGNFAGDYIPVMDPIMRFQMSNCSSSSTHPIE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5575334071193655,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4227829160938671,
+      "comp_score": 0.8719512195121951,
+      "diversity_score": 0.5,
+      "length": 164,
+      "created_at": "2026-07-28T04:35:20.104789",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "PFKVLIVLITTCHYSNKANVTGIRELNFMGEQDTDGGVAIVEPQTSADILTSIQADALPSHDYYPVVVHV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5574701599727445,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.38618186118555353,
+      "comp_score": 0.9571428571428572,
+      "diversity_score": 0.5,
+      "length": 70,
+      "created_at": "2026-07-28T04:35:56.249277",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "MGIAYADWALASLGYYLHPAKDPMTHSSENACAQYALSQCSGKANGQIRALKHKNKGRCNG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5437414474557636,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4325112012834095,
+      "comp_score": 0.8032786885245902,
+      "diversity_score": 0.5,
+      "length": 61,
+      "created_at": "2026-07-28T04:34:30.483489",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  },
+  {
+    "sequence": "LGSDEPAMQKRGLPVDLASCGGFGVTDNKTPCRYLCLFVYNTEIPVSGMHSEPWVDGPAGDLKIVSKIGEFTITINTVLKKLPFKCEGEGSCQFQVCALYEKIEFRETPVISGKCLL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5192839448193112,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.40117486622538967,
+      "comp_score": 0.7948717948717948,
+      "diversity_score": 0.5,
+      "length": 117,
+      "created_at": "2026-07-28T04:35:29.025881",
+      "target": "diagnostic",
+      "target_name": "Diagnostic Enzymes"
+    }
+  }
+]

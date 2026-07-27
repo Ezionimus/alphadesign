@@ -1,0 +1,1802 @@
+[
+  {
+    "sequence": "MYVPGEMALLLDGDHVGDARVFSTHFMRELFGLDPKNVIKGREIVSRENLDTLRAVFQGVAEYQADAPVVREERGAAVPARPRRGLL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.7277409138837256,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.6110584484053224,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 87,
+      "created_at": "2026-07-28T04:39:27.811840",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MLYWYLDARRKFRRVFAGGLRKNGVFRRGLILLLIVLVLVLNVLILTMQAVDKGENVRRLKSALIEELKLEAALMGDDPQFSLADAQAVGDELRKQASVLHNKTQDVPSGFSTETTPLLPDAEGLSDDRLGIKDGGRSYLRIVSIYSGINLLPICERALKLDG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6880898533634943,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5701897116411005,
+      "comp_score": 0.9631901840490797,
+      "diversity_score": 0.5,
+      "length": 163,
+      "created_at": "2026-07-28T04:38:26.679442",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MLRVRLALASRILTYWSGYHRRPINMITGYEITSPVPSGESGKSVDPAAQEFTGDLARTQAVFQAAGGFESVKIIGDPYKIRALGKHLGNLADSLPGTNILVITPFSISMGKLVGDMQGKTVKGYSVVLKDDAHVGAGFYQVTFGETPASSGAAT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6792185152146986,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.550035666896574,
+      "comp_score": 0.9806451612903225,
+      "diversity_score": 0.5,
+      "length": 155,
+      "created_at": "2026-07-28T04:38:21.726411",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MEYLIEIQDAHCTDTGGIVVIRRPGLDVSGQHLERQTVCPALPLWRYSAIDEAARAYTKLLAQEALAQAARENGRPVRSIIDLE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6781316545171501,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5861064452285818,
+      "comp_score": 0.8928571428571429,
+      "diversity_score": 0.5,
+      "length": 84,
+      "created_at": "2026-07-28T04:39:24.025481",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MSSHVSFISSCSLTHTVLITFCGCLALAALAQADERQKMIDDGLTESFFERLMTQAAPTSDRLVTFDVDVRHKVPVFREVEMARAFGSK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6680522136464371,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5691275604258893,
+      "comp_score": 0.898876404494382,
+      "diversity_score": 0.5,
+      "length": 89,
+      "created_at": "2026-07-28T04:38:36.315309",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MNVPSLNRPNAVRTTVEMPVFGSKSFDKPLEVMLHGPLLPHELRPTVIAELLQNLAHGKRWRESQSLESDTFLEFTISWHADDAPPAQADVHWTHGPVDTMGPLSFLLHAPHPVALEEAAQLTIRWNGPADA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6597973658058244,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5529572758265024,
+      "comp_score": 0.9090909090909091,
+      "diversity_score": 0.5,
+      "length": 132,
+      "created_at": "2026-07-28T04:38:28.512750",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MLLYRSKDWLDYYAPLLELEPYAPPGTKPEGVPAEWVELLTSTYSPWTKATIVATRNAIDG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.658472049573098,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5753347780786646,
+      "comp_score": 0.8524590163934427,
+      "diversity_score": 0.5,
+      "length": 61,
+      "created_at": "2026-07-28T04:39:09.747294",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MTPQTILVEHGHTCEFCGAKHTVLKLLTPGVISVPAYAAEKANMITLLDESGLKEIERRYKPL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6576637119214296,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5517644864183688,
+      "comp_score": 0.9047619047619048,
+      "diversity_score": 0.5,
+      "length": 63,
+      "created_at": "2026-07-28T04:38:07.344919",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MNREAPDDDGRMGICKILGTDINCGSCGSSSSGRRLNCTLKIPEIVDGRLVVWLPDGSTGKVETPLHPPIQNTDGSITLPQEMPPMA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6567868564486915,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.58358713482818,
+      "comp_score": 0.8275862068965517,
+      "diversity_score": 0.5,
+      "length": 87,
+      "created_at": "2026-07-28T04:39:23.076981",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MGERFQSIIEQSLDEGECALVYAIRHDFEAEMRPIEDFLGEKIEFTAELETAWQEKLAKLTSLRGDIILDYIEPNPKHTAFYLYFSVTSVGDINAGSAHRVRVNFALCEETTELEDKIGVRLSEKVRHEQKLNANFGYISKSLFNEQTANADTDSTTAPQTTDAN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.654393943611915,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5296536856793592,
+      "comp_score": 0.9454545454545454,
+      "diversity_score": 0.5,
+      "length": 165,
+      "created_at": "2026-07-28T04:38:44.203397",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MLIKSRVFLSKDVIDAEPIDSVSVGLEGIGAPKKRKTTRADLHRLPPGLTGWVEAAADMLASRDRTLSIDLRPYIMQSDAADYQSLFGQLPGRVHGYDSRNPEILALHLICETCRRYGSLPEDEINEIKKALGGMGNHRME",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.652012313035488,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.530230356008144,
+      "comp_score": 0.9361702127659575,
+      "diversity_score": 0.5,
+      "length": 141,
+      "created_at": "2026-07-28T04:38:18.483795",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MTKDEAQTALKTRVRAGGSIQVGNFGAGASHALSRRLRVELSVGSGHHRNVRKAGFLSKADRVGVEPYLRKIAALDLRLIYFLGTGLASAFSDIQVEFGGLSFPTTLAVANSPPQCNYVKCYPYGELTDFLSLLKG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6517544842957241,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5214139691619589,
+      "comp_score": 0.9558823529411765,
+      "diversity_score": 0.5,
+      "length": 136,
+      "created_at": "2026-07-28T04:38:04.984386",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MPKEMRVSVIFDVAGESKSALAVTRLDTWVHTKKPPAPELPGRYDTSFWEGVIEELKREEG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6509965572492064,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5435782199578827,
+      "comp_score": 0.9016393442622951,
+      "diversity_score": 0.5,
+      "length": 61,
+      "created_at": "2026-07-28T04:39:12.544149",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "SSPLIASEGAAEKEAIWRNFVARLGPPASAAIGSELEGANVNKTISGSLRDAVGGERVGGSEFSEAEQSAYELPAIQLAVVRALPRVPEIQLPLVSIGHFPLKRPKLLEQIVRLLTLQSLAEHSIAEVSRLTMTAR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6509868147794327,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5108635169117945,
+      "comp_score": 0.9779411764705882,
+      "diversity_score": 0.5,
+      "length": 136,
+      "created_at": "2026-07-28T04:38:06.284859",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MDLNTKNMKPITIPPTVAPATLSAKIPFINKRLDLLKPGTILIRVDQRFASDSRGRILVDIGIDKSWFQTIDSAGQPETDHSYLKEKLDENGKFLAIHSHGPIYYHYVLDSQIPPSFFNVPAQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6507476228597446,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.511520994329252,
+      "comp_score": 0.975609756097561,
+      "diversity_score": 0.5,
+      "length": 123,
+      "created_at": "2026-07-28T04:38:45.849888",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MTDAAVGFMKTQAQIPSIGSIEVSTVKAPDKVQASTADRFIDIGSLTYPLIVEFARAIEAIFSL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6506896883558126,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5009852690797323,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 64,
+      "created_at": "2026-07-28T04:37:57.196667",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MISSYSLGSDMEQAKNGYRRGVKSVWSKLFPSKRRQLRLQVPASLAHHWCQEMLDHLGVTKPDLNDSVHYKIVLLDPATGEKSFSVVTDIKDYILGSTNGFHWVQSGVPYPMRNPTGLPDGFSIVHLHEQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6465061056458334,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5345691619116302,
+      "comp_score": 0.9076923076923077,
+      "diversity_score": 0.5,
+      "length": 130,
+      "created_at": "2026-07-28T04:39:14.249673",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MLRRSHEVGIKVLIADEIDHMEERGLMSRVQDTLTSQNAQPIWASPPAPNSIKSIRKALQNETPFLASSVWTTAAEQQEAQRTNKWPVDEKVVAMGL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6452269937415611,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5329457789827898,
+      "comp_score": 0.9072164948453608,
+      "diversity_score": 0.5,
+      "length": 97,
+      "created_at": "2026-07-28T04:39:16.507119",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MPGQFGFAESAKGTVYAWGFPTPSVIVEGAAQLVFRHPQGFQLRKIGDWIVLLKDAIFAGDQKVVADGYADVENEHDHIAEQYVRILRGQPRVDIQNKLQETTKKNATMKRELIGVVQALANVRLQKKRPKPVMPGAEMTYQVETGEWKIVT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.645069875052289,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5183329042100369,
+      "comp_score": 0.9407894736842105,
+      "diversity_score": 0.5,
+      "length": 152,
+      "created_at": "2026-07-28T04:39:21.959386",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "KKGKDGLSKAGSILALGGDYASTFAKEIVSKQIRFLGVPDLGHTCMLMEKPLEAITGINDI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.644227742279442,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5128312009144254,
+      "comp_score": 0.9508196721311475,
+      "diversity_score": 0.5,
+      "length": 61,
+      "created_at": "2026-07-28T04:39:07.379638",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "VSIPSQLLELNKFIALILEGSRGPIDPGTSLTPLRIGLTLPQVAAENAAAAFGYPGLWHSHPAANPEPQANDRHDNQIHDIETALLINIAPKYLAFQAVAQVIGFNLVWNNNDVAWVGPHLRKVPDYETLTSVCTRPDSVVEETTASEQAEVSPPIPEALHGA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6404335138318378,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5178848620034142,
+      "comp_score": 0.9263803680981595,
+      "diversity_score": 0.5,
+      "length": 163,
+      "created_at": "2026-07-28T04:39:25.741843",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MEYGVELILHTKNVHLYTLINGEFRKVNKYTYVIASGYISSQYIPIPDVTTGISIFTPGEVPSKTTKAVRATSGTVKLYLGGATSKELDDLWGKLAYYKGDLGTAVNLYPGVSVHFDTESQAIPIVRDPNWSIIARHPMADGFKVGARADTTQDTNKYSTSLPID",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.640067009717888,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5013944294671129,
+      "comp_score": 0.9636363636363636,
+      "diversity_score": 0.5,
+      "length": 165,
+      "created_at": "2026-07-28T04:38:16.524059",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MEKDGDSENEENQRNQLYISSGARYDGRLETIPMDSQDEFYLSQTYDVVQASLNVPEIEPDRREIRFNLQDPL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6385796747890907,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4836852496987011,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 73,
+      "created_at": "2026-07-28T04:38:17.028894",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MKDLKQLHNYGIYLSEANSPLTEWVSQYTKALSEEEQKLYMYSIIDHDGDGYILTIRPREPERVLNVSWQEVKNAFPSGHVDSYVIGQHVSAVDTLAEILRLGAYEFNIATLIGEKDEWEASLTTWTALVL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6354214003498955,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5184318805434713,
+      "comp_score": 0.9083969465648855,
+      "diversity_score": 0.5,
+      "length": 131,
+      "created_at": "2026-07-28T04:38:30.368612",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MSTKSDLGSSESLYDAFHSGIASSQGLTSSRKTTRSSPLHEFQGDDAQEMKSAKITHSGLSTRALMVKLKVKASDRIAHVTRVLPPYIVPPYLDPNIPFDSLQLAQELSGYTRPGLVHAVYAKDLGVILDVYWGEQHQLRNNFELQVSRKPPTITYRKDRLTMSHGQLRLDNYFSLDN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6350708283055952,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4858957258298232,
+      "comp_score": 0.9831460674157303,
+      "diversity_score": 0.5,
+      "length": 178,
+      "created_at": "2026-07-28T04:38:53.724744",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MRQAAMEGEGYGCYIPNPLQKRELDQRMFQLKQESFKNSGRYDWHDRVYGGDSTSTGTVSKAGQIQEIAEEFQSTLASDYRGRRRPEQAVQAATAQPSSLKERGYAGSGGTTKSPNTFIAAVELIEAPGGRL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6338841363476131,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4964578571199667,
+      "comp_score": 0.9545454545454546,
+      "diversity_score": 0.5,
+      "length": 132,
+      "created_at": "2026-07-28T04:38:37.508473",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MLDPLPFVRGRQHRPTPEGLEGPSDRDLERSSDLYRRGVFAGPMSADTSCAPCDV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6336448542214712,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5233887527839198,
+      "comp_score": 0.8909090909090909,
+      "diversity_score": 0.5,
+      "length": 55,
+      "created_at": "2026-07-28T04:38:33.752902",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MKRILSDEEVVTPPAYDYVLVNEIVPNDGELQFIEERYFSAIENQEVHLVDSNCRRYAGIGM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6332938350520856,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49687137726334807,
+      "comp_score": 0.9516129032258065,
+      "diversity_score": 0.5,
+      "length": 62,
+      "created_at": "2026-07-28T04:38:01.228680",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MELGTILGRIRKSAGYLDKGTGRATRYSADKGFALISNDRIKHTFAEYDRMISEDPAFRDKHGVLLEEKERAISPISRAEDELMGRLVEVSAAADAQVPLCYPPG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.632274720560797,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4869230701888938,
+      "comp_score": 0.9714285714285714,
+      "diversity_score": 0.5,
+      "length": 105,
+      "created_at": "2026-07-28T04:38:13.917997",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MHYSYLRGGREIDLYTGRLFAFESNGINASELSNLLGLIIGGTMIVLLLLGGIAIFSLSAFVQRINCWTKEMGDILSTPQYMYLERFDLGLAYESALKSIKHAMEKESIKLWETRMSVLLVMNTPAEVQAVGAFGIIVALSHQLKVAQIGVIQGSHQYSQGQYNDE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6305701923660516,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4954789322957365,
+      "comp_score": 0.9457831325301205,
+      "diversity_score": 0.5,
+      "length": 166,
+      "created_at": "2026-07-28T04:38:33.412807",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "RERAAMEVVNAENGWDETAQLSDDAWAKAITIELEKEDFEMKEAAKLAAEPALATAAGAVDTTAVAAEWDKILGSDGSKAEKAFDEHQEKYKVTREFEQFMEIKRNRILCRRLELAFCESIMPFIRVCKRNGANSHAITYLRILKD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6286965693824097,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5224041010746754,
+      "comp_score": 0.8767123287671232,
+      "diversity_score": 0.5,
+      "length": 146,
+      "created_at": "2026-07-28T04:38:20.017635",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MHDMLRSSSSRKPAAPKEHPGGNVSATSLLKCTKRGSPQYLPRSLHTTPENGRMCTKALTTAILDDGEIFLIDSRSALPPAENIQEGQGIRSRQSPIPAEIGFGSKLDTDAYIEFFATIRPLANGVET",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6279181109628342,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4885437299469061,
+      "comp_score": 0.953125,
+      "diversity_score": 0.5,
+      "length": 128,
+      "created_at": "2026-07-28T04:39:20.342469",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "LIKHLGAHAGYLTGWRRIKSLYNVGNRVGPVLIPDEAGPFMLAHNDPIAKVEAAVEINLKLGSGIGNTQLLTLTKKISRDYLAPINHLVLGTLLDLETIQFDLPTKLLSQNIRKLSIPDHKELWRAELIADPLLSRVVMSEVFVHKSELGPTFQVLSLSNAHRFPTVPALITSNRYDEGL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6238424244470713,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.476917749210102,
+      "comp_score": 0.9666666666666667,
+      "diversity_score": 0.5,
+      "length": 180,
+      "created_at": "2026-07-28T04:39:34.543000",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MATPNNHVVRNHIIYYYPYPKAFQIDARYLSNDDIHWVVPLVSTVETGQVLYGRVIKITTNNGTSNNVVTVMRKDEQGIYLGLKMVEKADMFYSAYTTKSQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6226624138005559,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47367614984237827,
+      "comp_score": 0.9702970297029703,
+      "diversity_score": 0.5,
+      "length": 101,
+      "created_at": "2026-07-28T04:38:38.894091",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "KVLELSTDSGLHWQLGAAVRVGCDKAPYMLEEYNTTSLFGQWEGFEVILTGPGTYTEIRFSINETHGLGRWHGLQELSLFCRRPE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6224064574823445,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5362109056470468,
+      "comp_score": 0.8235294117647058,
+      "diversity_score": 0.5,
+      "length": 85,
+      "created_at": "2026-07-28T04:37:58.766751",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "TILVALSGNPAHAIIGRFAIDAPSVKTVFPEGAELEVRKDQPEICFHFDGAADIIVVPDKAALIRACGHFLRYGVYLAKAPGGAHFYWLA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.622314414727542,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5033063067536314,
+      "comp_score": 0.9,
+      "diversity_score": 0.5,
+      "length": 90,
+      "created_at": "2026-07-28T04:38:44.851893",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MPPTVGFPNARRMFAWLGPNISDHPVFADISGFGNMAGIAVNVLTKAYTWGSHRNPLAKIQLEEDPEAVMDRFLYFLEREYTST",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6194275279994765,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48693728489721144,
+      "comp_score": 0.9285714285714286,
+      "diversity_score": 0.5,
+      "length": 84,
+      "created_at": "2026-07-28T04:38:08.757353",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "LTSIAIEIEARGVLDALHRGKKSTLDDRTYVGPDLLAGTAKMSLNEFYSIANRYVLSLGEEIRKILCDPTKDQAPYAKTDESDKVKAL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6188505186343528,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4701111305166079,
+      "comp_score": 0.9659090909090909,
+      "diversity_score": 0.5,
+      "length": 88,
+      "created_at": "2026-07-28T04:38:29.135045",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "TSDENSSVGDFVSGVCAVVKYLDEHVLNVEETLPDGTDVPRFGVDFPSRTIDI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6178164825365224,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4782823065885631,
+      "comp_score": 0.9433962264150944,
+      "diversity_score": 0.5,
+      "length": 53,
+      "created_at": "2026-07-28T04:37:59.509160",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "TSVIGLKNYKQHHDDLKELPVLLYFSAAGTKIITPIILTGHSVTLFSSPIVFHPKFYSQVSPEDSSVTQSDTDIYRCSTQFYFSPPAAQAFKKSVENPLLERSNAPTPLASLIETFPVT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.614362579212966,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4598937206043573,
+      "comp_score": 0.9747899159663865,
+      "diversity_score": 0.5,
+      "length": 119,
+      "created_at": "2026-07-28T04:37:58.180000",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "SALDLLEVSIRLIRVWLTPGILTRVHADEASTQALRAEIPNEMFAPSIGELAGRTLKAIEFSKQPDRPKTPEEVADCIHSREYYMAADPTA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6120361131419108,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4740233327459007,
+      "comp_score": 0.9340659340659341,
+      "diversity_score": 0.5,
+      "length": 91,
+      "created_at": "2026-07-28T04:38:46.477722",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MGVCNASAVETFLPLESMRGGETMIASNIAMNSQLVLIRLIGVILVLARLDVPDDILWPGLRLGSRFHLRDAMRQYAIKPKIFRAFISFPQRGTVTIIVTRITKVRAGSEDVPCACISLKPGVSHPRLYLGKVPTAPPRTPANARLLQKGFLRCEGKRLG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6118065380232857,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48561648289040815,
+      "comp_score": 0.90625,
+      "diversity_score": 0.5,
+      "length": 160,
+      "created_at": "2026-07-28T04:39:31.950631",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MVQTSTENQIIVIWRFGGASNTYPKSDLSPNSNNTHIQSERRPKTFVAIPRIDVTNSGKVEYPGNPPVPLINFARDDLPPPMAGAE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.611728954451263,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4602772439004753,
+      "comp_score": 0.9651162790697675,
+      "diversity_score": 0.5,
+      "length": 86,
+      "created_at": "2026-07-28T04:38:42.362791",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MSLNLENSGPCELLVGLAWIGRSYVSDNAEEAMEGISQTNSSEAPREDMSTSSLFREGDYNLRPGGLG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6112509527575678,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48245934427551707,
+      "comp_score": 0.9117647058823529,
+      "diversity_score": 0.5,
+      "length": 68,
+      "created_at": "2026-07-28T04:39:00.124411",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MRDLAHSPCSADVSMQREILRLLIAAIENFAAEYNAALGVIDAALGIGVQVNNRKQASVEPSLKTVDWSRAIGALVPRMNEIVRWAGVEDKDGDKQSREDIENYGLRDRNAQLGAMLPNSLEDLQTFLDKAASLVAIMAGMDSGLATERAKFQDTAWVVNDRRSNLFAPLDMATECVNG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6102906091762271,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47918610568670916,
+      "comp_score": 0.9162011173184358,
+      "diversity_score": 0.5,
+      "length": 179,
+      "created_at": "2026-07-28T04:39:06.035408",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "SNALQKRKKPNKKDSAGYVNLLSIIQRSESKRLPMRAARVLTVAAAVTRSEKDAQDLEFKNLLTELVNGRFETAPSHSLTAGLVAICSNILNQTSIVHDWMQVLQFAYEVTQYETCVGIASFIWTFI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6101446441125608,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48355871543639173,
+      "comp_score": 0.905511811023622,
+      "diversity_score": 0.5,
+      "length": 127,
+      "created_at": "2026-07-28T04:39:17.727835",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MGEERQIENPVAHGSGQPKCFRLLMTLGLGLTDPVKDYVSGLPRFRPSSDAGEGNSPLFENIGSEQPAKIQREPRVGAHGKTKEHGYDYSDHPSRFSPVYGLVIDIAPSNILRNCAPIFQRSVRQAL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6094960522554792,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4623846865741942,
+      "comp_score": 0.952755905511811,
+      "diversity_score": 0.5,
+      "length": 127,
+      "created_at": "2026-07-28T04:38:09.916062",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MASDDTSRCLREIIQQEQDGIHYFHGHFLLDQHLNLLSFGSPKCRAAWRQLKKRPGAGGGEMERRVIY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6086669708796717,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49767550461801835,
+      "comp_score": 0.8676470588235294,
+      "diversity_score": 0.5,
+      "length": 68,
+      "created_at": "2026-07-28T04:39:13.047403",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MMGLLGEGSPVAAYEYDGKDPNGLKVTQISEVLLLKRGPLRYTGAQDAHGNTMAPLPLPVGKCGISAGSKKEYKTVVAYNGLEGACLYSWYNQAYGLSAEDFSVYAEKGWNVLAKASQR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6083592391032431,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4837304856336847,
+      "comp_score": 0.8991596638655462,
+      "diversity_score": 0.5,
+      "length": 119,
+      "created_at": "2026-07-28T04:37:56.771306",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MKLTLNGYPGRPVPNGEKPGHNGILYPVGTSIDKTFDVNDQALSFMVWRGPYERELTREAQAKCRPDKLKADHIHVPDNNQGGAPCGIAGDVVKGTHVLDALKA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6080444079955704,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4771513520815841,
+      "comp_score": 0.9134615384615384,
+      "diversity_score": 0.5,
+      "length": 104,
+      "created_at": "2026-07-28T04:38:13.082643",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MFSTRSLATLLGPDKPCLQVREVIICSYIALLQPYSGIPNLPFLTGNYYGVVAVGMMQNMAQVHSLSLSLQIANNCHLLKKHHQPDVIYDE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6073654706811041,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48147971478776264,
+      "comp_score": 0.9010989010989011,
+      "diversity_score": 0.5,
+      "length": 91,
+      "created_at": "2026-07-28T04:38:22.431832",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "VYPVIIPSDLLGMVMEKFWPLPTLLILLFAVLAMQSRALRARKVLGLIRAGYSVLTIGTMMQIDQI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6068479983516339,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45783480283999667,
+      "comp_score": 0.9545454545454546,
+      "diversity_score": 0.5,
+      "length": 66,
+      "created_at": "2026-07-28T04:39:14.778686",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MGPFIQINYQIGIGAALGQAYGSDSKVAYENLFYGELIGMPAVPVFLLDFLDQYDLPGKASEAAIRLADKSMWENRPSSRTPMPIATPGKREHWSGFDDRAVWTQEPLTSATGLF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.605169172797796,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46949633381051614,
+      "comp_score": 0.9217391304347826,
+      "diversity_score": 0.5,
+      "length": 115,
+      "created_at": "2026-07-28T04:39:09.292635",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MYYKIVNVVGTLQRSGKLDIRKTVPKRGGQRPHSSAKAAVAACLALLAISNKFCLAKKFGVCSHAFAFESCMSSQKY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5996280212347669,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49483038284001957,
+      "comp_score": 0.8441558441558441,
+      "diversity_score": 0.5,
+      "length": 77,
+      "created_at": "2026-07-28T04:38:00.036269",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MLMSALQLQPAVAEEVEGLKIGNGRVMAMRIIMARGQSLPDELVMTASADDCITTLDQFGIGFLAECEDEPPLCENVFAPDLGMVRQPWQKSVSKPL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5991675218842103,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4804013199229513,
+      "comp_score": 0.8762886597938144,
+      "diversity_score": 0.5,
+      "length": 97,
+      "created_at": "2026-07-28T04:38:47.150809",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MCKEIFVFNFFSKLQNNLMACALSILVKANGLDLICLQAYFRACGGADTAAEKAANDLRQIEAFAQRQTEQLYTALGANLLHESQCDSSEQGKVYLAAVDYQRILDWTLQTKDRASEKQDASMSGSKRKNNY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5969035965954582,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4825895535779273,
+      "comp_score": 0.8636363636363636,
+      "diversity_score": 0.5,
+      "length": 132,
+      "created_at": "2026-07-28T04:39:03.148847",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MGYNKVCNQSLTAHKTELESIARLEYELDDIMTVLAEKTSLDELSDEEYYESNVYHESNWGSSIFRSIDVATAANEFDSWDSNKKTLKRMLFKCQPPCYSVYDF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5965884428536516,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4855109623184035,
+      "comp_score": 0.8557692307692307,
+      "diversity_score": 0.5,
+      "length": 104,
+      "created_at": "2026-07-28T04:38:00.836238",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "LSEDEANEFIKNLSMDFNAGGYDGGIYQELGTIRKAAEELVASVNVVNHVKATEDETLSTLRASICGTMVGYGDAWKFGNTWMFYTVPD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5959633808807323,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46614351361773954,
+      "comp_score": 0.898876404494382,
+      "diversity_score": 0.5,
+      "length": 89,
+      "created_at": "2026-07-28T04:38:06.931747",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "PAYRGSGKRYSKWEKVRQKRLEASGQGLGAKPSEPTYDVDTPNCILSSECQTTKKRAESELLALTQNPRNLTIAFLKPKFLLRLERSLYRCRLLYSEQKAPNLIVSYLMGVLETMVPGRSDISTHAPISQEGGRNL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5944635384650812,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45847732385767914,
+      "comp_score": 0.9117647058823529,
+      "diversity_score": 0.5,
+      "length": 136,
+      "created_at": "2026-07-28T04:38:31.653674",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "METELQEWYDEHPKNDNYAGACIKQVRMSAPDRAELFFEKAIAEATPNGEVIKVNAVGDEFMAYKQYNTYCQSKLPFDGAMYSLPLQYYEVYSKLDLNSGSVNLVRVGHDSRVVYMHRWGSYVFDSHTNVEIAKRILQKC",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5937873840922223,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46561463033582795,
+      "comp_score": 0.8928571428571429,
+      "diversity_score": 0.5,
+      "length": 140,
+      "created_at": "2026-07-28T04:38:41.763209",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MQWLMDIPMVAAASVCEPAWHPGMACFTLNVASSIYEGVQKAHQGLINAAIFVSNDAVVQKAGIRFGRPAPGELKSNNQGVHVIDLFSMDDPGMVLQGCVAFLPVSQEHGLKDTPALVYVQQAAAGRLGLLIEPAADTGYVDKDSLMRHMKTSGIMCAVEIGTYPRDEDDEQEFARIKS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5933578102860169,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4621791543591143,
+      "comp_score": 0.8994413407821229,
+      "diversity_score": 0.5,
+      "length": 179,
+      "created_at": "2026-07-28T04:39:30.244687",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "QLFNIAENEIEVKERSINAAQSGENEVVASVHGTLGSHLLIDEDFFTNMNRTIDDFQDVPRQEHEGMLFRALAKCLPLDKAPISLNREDSSVVMKVK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5931389197280559,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.432024671776457,
+      "comp_score": 0.9690721649484536,
+      "diversity_score": 0.5,
+      "length": 97,
+      "created_at": "2026-07-28T04:38:03.703003",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MKKEPDGELVLYETEGAVKVVIMGRIVTDIPQALDAADFAVKISSGGDALQALNVVKGGFILGPQRDQSYDENSKPYARKCRQGNGGSDDGTAALDQRIAEVFGPWWISIQDPTIGIPYARHIRTPGLVTSFVNCNGQDPGIRQTFN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.591126041300891,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4508797674560835,
+      "comp_score": 0.9183673469387755,
+      "diversity_score": 0.5,
+      "length": 147,
+      "created_at": "2026-07-28T04:39:27.167619",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MIADLRLEVKKHFNKVYPEETAHAGLVPWIDANNELPQTRGWVDDSTFWIKALGNGGNGTAKFSGFEDIRAMPLKGLAKGQGRVIWANALVSYTSAYEGDEWHACINQFEVLPNHAISAK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5910830443376331,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4801186347680473,
+      "comp_score": 0.85,
+      "diversity_score": 0.5,
+      "length": 120,
+      "created_at": "2026-07-28T04:38:02.992890",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MELESLRNLIPHTLITSLGVIWADKSKAAVGEPWPASGIEQYFLTRLGRRTLSARLVPTETSTVIDVRQWISLEGGQVIVRWAFQGNSKREVTFPADKQPRYSFRRDLGMIHFVKAWDKDSFLPAGPNVVAEPRPLNVE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5909883398101207,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46194634361363596,
+      "comp_score": 0.8920863309352518,
+      "diversity_score": 0.5,
+      "length": 139,
+      "created_at": "2026-07-28T04:38:35.098205",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MTDYYPVPIKRTTPARSKGPKPVKECLNFLYGSKCVCPSALSPEVQWNQLLQVQVLSEEEKYLTEDEAKGRKKAEEHESPCMVVSVLR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5901777375535016,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48759157312837886,
+      "comp_score": 0.8295454545454546,
+      "diversity_score": 0.5,
+      "length": 88,
+      "created_at": "2026-07-28T04:38:38.130509",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "KLIRAFEVHAFYLACRTPRAMTGSIRRTPEGAAGSIGLWIIGKATSEIVEEGSYTVIKGLLDETKFLQRVSRGLLAHENSLTVALLLSWKELQATYPGVDFGCDNSLRQITIAMAHSVA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5900778618105972,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4576142323584762,
+      "comp_score": 0.8991596638655462,
+      "diversity_score": 0.5,
+      "length": 119,
+      "created_at": "2026-07-28T04:38:24.922733",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MSVIETGPVNGETLSGVLDVTNQEVTFSVPLGLYDVISTAFGQEFTLYKQAMEALSVRCKRRLPMTGNQCLSHKTKRWSFQDEGGDWSYWGPVDHSTISSAGTGLNSTLEIRAILKCGIFNEVQPQPSKAKALDILPAAKVLEAALDGGVSQGIMG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5899416658552596,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46365292924377743,
+      "comp_score": 0.8846153846153846,
+      "diversity_score": 0.5,
+      "length": 156,
+      "created_at": "2026-07-28T04:38:57.883614",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MGDDSVECQELNLPGHDKIFGATLGERFDVREHSGNPNNLIYNNGKLFDDTDGSYESLLQNYFQLLEIVTHMVDFDEITCLSALS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5879949185288955,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4416734130244727,
+      "comp_score": 0.9294117647058824,
+      "diversity_score": 0.5,
+      "length": 85,
+      "created_at": "2026-07-28T04:39:35.137523",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MEHWPCSSTDVPLNGNEHKMCTQASFFYALRKVYERRREVAVSVRPIGTTIRWQLGDRRTGASYVEPHLTYQGDRSQQRLRWLNSAMKEAPSNLSLDWTELDAVDPMTRGKIQAVLRQAQNGVGSSFGLPQPPIVRAGLFKRQLSKSTAV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5876570526777956,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46236721811113646,
+      "comp_score": 0.88,
+      "diversity_score": 0.5,
+      "length": 150,
+      "created_at": "2026-07-28T04:38:48.547307",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "LSGSPSKHFVLSELESKSVMPLGTVTIYAEALHFDILSNWWTVTGVDLTLVNVDEVPSLYLQPETVETVMMGGDVQS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5871537369052804,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4436148004027197,
+      "comp_score": 0.922077922077922,
+      "diversity_score": 0.5,
+      "length": 77,
+      "created_at": "2026-07-28T04:38:35.671786",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MSNCKDYGIGWLGIRLDVHVKLSGGRNCANSIACGERQRVGQATIISALACICKNPCEKVTNKGEPAVHIHSKVSKIVPDSSVTIWTRDQLPELRAEESDQFPGEIKFRRKSYVIVRQIYISLSPLPYADETTPAARRKRTSQGKGSTKAHEEGIQFGKSSSSFSSRKGNA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5858501396783393,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4685077183374773,
+      "comp_score": 0.8596491228070176,
+      "diversity_score": 0.5,
+      "length": 171,
+      "created_at": "2026-07-28T04:39:37.076633",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "IDTSSVNTPLLITSQSVSNVEMLAESEQLSTCFASLALMIYGPHVKEPLMSRIAL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5854358498911745,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4311421232211583,
+      "comp_score": 0.9454545454545454,
+      "diversity_score": 0.5,
+      "length": 55,
+      "created_at": "2026-07-28T04:39:28.201991",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MEMPMTSGCEFEWGALMDPDVASPACLNYYGVAIVQQRPYDIYPEDYFRLLDAYPVLANERIKEAYFGQWPRQAQELLDRLSYAPDGFHKTSLMQFLCQMRPLQEGAAGNVG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5845324987077354,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46387295733758116,
+      "comp_score": 0.8660714285714286,
+      "diversity_score": 0.5,
+      "length": 112,
+      "created_at": "2026-07-28T04:38:54.570118",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "RHWNALLITVHALDKEADNKMRRGSLLSYVSIASSSQMLAKYGDGIEKQHMENFKNSQLIELTDELYIGDERSLAAGVPLAKSTPLYEADSHMDTYLNWQGEFRPVYRQLDKTEVYEWTVDKRESKGRLIFKVVK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5830042190033307,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43286317000475827,
+      "comp_score": 0.9333333333333333,
+      "diversity_score": 0.5,
+      "length": 135,
+      "created_at": "2026-07-28T04:38:55.840353",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MMFLALNDRREIDGVFGVAAAKVVDAEARMGATMLGCVLMGSSTWPMRAMSWFPSEWLNMLLDDVKTFKMEHDLEAVVVNDLFWSVELVQAIVALRRNGSLWDDMA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5794980923826036,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47205926944145526,
+      "comp_score": 0.8301886792452831,
+      "diversity_score": 0.5,
+      "length": 106,
+      "created_at": "2026-07-28T04:39:18.593944",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MGGFVLACNLAFSAPKPYFGNDSIELLVGGRTKSDGVDEQRDVISDQQFVLVWLKLLSCTSAGCVGKGVKWMQGGS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5787147533612644,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4827503995386485,
+      "comp_score": 0.8026315789473684,
+      "diversity_score": 0.5,
+      "length": 76,
+      "created_at": "2026-07-28T04:39:22.456574",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "GPRKDVVVKESCPDNKSVTAKLIDSPTMENSKGVSVKMNVQIVLIHQEKQLVAKRRQQTHGGHGDK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5786704968948237,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.41758122933026764,
+      "comp_score": 0.9545454545454546,
+      "diversity_score": 0.5,
+      "length": 66,
+      "created_at": "2026-07-28T04:38:10.354587",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "IIDCYAKLPGLLDPCAGTIPYPQKQLLMDSLPYTRPGSPRLEAGGYGTIGTFGRIVQLPGKECPDYNLIPDGAPFVLAAGLAVDSGQGRSCLDMNNNSRLQEGLY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5784904182611963,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4468230464955867,
+      "comp_score": 0.8857142857142857,
+      "diversity_score": 0.5,
+      "length": 105,
+      "created_at": "2026-07-28T04:38:08.174589",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MFNQNLKHKTTFVVNKRLAQDSMYFDVVQMIMSNYAIEADGYLFQGALPKSLQCMIKKYQVVYDTQQQFTISDTGSNNKLVFNLDHPIYNIMTLQQAGYEGTTRNGACETWAEMGDNILAPGILLISNSALNHIDVWTVIGFDIIGL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5775522812144953,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4314886816183754,
+      "comp_score": 0.9183673469387755,
+      "diversity_score": 0.5,
+      "length": 147,
+      "created_at": "2026-07-28T04:38:23.947370",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "LKAIPFKESIYGNRFNFLGLFSPLHASRLLYEKTQALLGVLPLIKKFCEAVRCCGARF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5770611327217062,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4623040812280532,
+      "comp_score": 0.8448275862068966,
+      "diversity_score": 0.5,
+      "length": 58,
+      "created_at": "2026-07-28T04:39:10.146662",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "RPLDWALKDSELPEYGDSTVEQVTVDQIATLSGTSSRGSTYQYKDKNKKNSNNNQRAWEPDHVTVVQTLGGCEVSFKITKRNITPPNTAWLLRRGRSTFDLNYVMAGAKLTGLPILMSGSFVVGVVRQVVDQTTWSIQPHYNDTPVSNSEWEPVIGLWIDHGMCQLEGF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.575591624262134,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4545645350828458,
+      "comp_score": 0.8579881656804733,
+      "diversity_score": 0.5,
+      "length": 169,
+      "created_at": "2026-07-28T04:38:12.242779",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MHIPLELVSEASLEGYPIIEGCWCDIPWSEDWMHQEASMRDFTMHINDNLKIPVLTTTIFLRVIGAERLKGLKVPASFSYQGLSRIMASSAIRAVFNLLVKTSEHTLFNQELSEFMAVGRLGIGTPFYKRPDDLPLMVTCPGFSTLHCVEPRNAAVNRLHNVKLVVATEFNILQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5750888087587411,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44470815044352185,
+      "comp_score": 0.8793103448275862,
+      "diversity_score": 0.5,
+      "length": 174,
+      "created_at": "2026-07-28T04:39:12.098247",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MIGGPCNNIIAWQYKAKRPHAFSAIPPFGAEASLKRWGDPVAKIHSAYVALIHLPRAPMLATTESAAAGHRLLPFVLDMIGGRAGADPMLPIVFCEPPGMKLRKPTYLPAYDELEELPPSALYYWNPYFPQDLIDPYLTCGFDIDLSYIGRTEANNTVAQRID",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5732416723415952,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43767215242489066,
+      "comp_score": 0.8895705521472392,
+      "diversity_score": 0.5,
+      "length": 163,
+      "created_at": "2026-07-28T04:39:01.944490",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MSTGPCHATDVVTENDELDWDIVMLQKASGPALDTARLKPMRGEFGDMLESREDGRFRTATNCYIAEPKDCEATYRTNHPIFVDFSLLDALTRWRGDL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5644187894419466,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4433387954126935,
+      "comp_score": 0.846938775510204,
+      "diversity_score": 0.5,
+      "length": 98,
+      "created_at": "2026-07-28T04:38:01.963969",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MHINPPGAPLNTSIYSNGQCPESYKKRLYADGKQEPPKISNIFLHLTCLLLVPVSDGDCFPSWPHDAGAYETLRLISGTLVVLCDVEFEASYDEPSVAIVPHFIRIKVGSCYGWLNQSVRIGNDLSSHWLTTAIGAPILRTQVGTPFEAHAHGLGLEDEVR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5613013237539537,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4371740294976625,
+      "comp_score": 0.8509316770186335,
+      "diversity_score": 0.5,
+      "length": 161,
+      "created_at": "2026-07-28T04:38:50.200426",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MKWTLFFSQFFYRMEIPFALPTIAAQNQQKSDLRKFAPSCIRGWVESLFSPLWRLDKLRCQTVVHGGGE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5608092517562775,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4657523472294649,
+      "comp_score": 0.7826086956521738,
+      "diversity_score": 0.5,
+      "length": 69,
+      "created_at": "2026-07-28T04:39:19.150812",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "GQAMTCATIRDPTPYISRIDMLDRDHKALWVHAINAHGEFESIKTGECSVLPLYWSQEDKTGLKYFAVAKLHASKKGTFCSAILSGECIEGKGSNRIAYVGEKASSCFVCGCLGGLCGKLLVRAGIDVSALLGGYRDTHEWKGKLEGVGMGISKDFEELEGPT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5603178837529327,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45864868581707297,
+      "comp_score": 0.7975460122699387,
+      "diversity_score": 0.5,
+      "length": 163,
+      "created_at": "2026-07-28T04:38:59.649725",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "RIGMFRAFAVRLAWLHCAAPAARAQNFSPNFFMATSETLILLKSRIAMPVSITYRSIYFVALATTIAGAVPFLLKAHALAIRDVPGRQRAKIPHLTAHCCWKIKWASLYLLLNLM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.557691215586235,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43521105332195076,
+      "comp_score": 0.8434782608695652,
+      "diversity_score": 0.5,
+      "length": 115,
+      "created_at": "2026-07-28T04:39:06.978111",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "GPRKNEWVAGLYITSRGSASLRHLFGFYSLTSGLIFNKIADGYVDGEVLVDQQVAASVCPENKLEFKSGDKRYSIQGIHCYMPAITTEESNALGLRTHLCLYMWRSQDGLIQSQIHR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5567909266897101,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4217892359303551,
+      "comp_score": 0.8717948717948718,
+      "diversity_score": 0.5,
+      "length": 117,
+      "created_at": "2026-07-28T04:39:08.364183",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MDKYDEAEGFPTDVTDVASCSWIWDSKRDSLMENFVKNYLEIGVFRQLPNKDTKTFLPFGFIHRAVITHALCFVSNY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.555203221981303,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43136638390649984,
+      "comp_score": 0.8441558441558441,
+      "diversity_score": 0.5,
+      "length": 77,
+      "created_at": "2026-07-28T04:39:32.478334",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "EFFMTMTARLSWGQWPPRWYLGHPNLALPARRYLRLGGILTEAWNVFLFAPFLQLQFEYSFLFFDQTSNTIALIDFIGLIWLRAIRVFASHLEATGNQNPL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5549562702385372,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.42787246526297396,
+      "comp_score": 0.8514851485148515,
+      "diversity_score": 0.5,
+      "length": 101,
+      "created_at": "2026-07-28T04:38:14.695667",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "IARAEENEICADKGIGIGCPLVSVSGYAGNRFLTSFFEDEKMMFLDPIAEPIGLAWALVFHMLPFYVAPKSTVGQKVLGQIKTRIMVKVKQIGEQEVTANVLGQRVTADRPWVCRNAEQRMLEAFIDLSEAECFHITSKNLRIPRGCRYIL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5542243414659231,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.422780279672227,
+      "comp_score": 0.8609271523178808,
+      "diversity_score": 0.5,
+      "length": 151,
+      "created_at": "2026-07-28T04:38:40.442634",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "PILDPSCCEPGGDHPSTNLPPAWSGKDQGIINAISRFARMGESDEREISIAGFLEAKYLSRRNRFNYEDWLHDLAKGRRSPREILPRIFNQHAPEAQFTGTEFLIISTQGWW",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5538369609540829,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4315017809548123,
+      "comp_score": 0.8392857142857143,
+      "diversity_score": 0.5,
+      "length": 112,
+      "created_at": "2026-07-28T04:39:15.746699",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "SRIQHNKDLNNDDETNTVKPWKSCINKRGGKQTRRKYAALSQAVGEKNHLTNVQS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5506769246816083,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4048631391555445,
+      "comp_score": 0.8909090909090909,
+      "diversity_score": 0.5,
+      "length": 55,
+      "created_at": "2026-07-28T04:39:23.439477",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "MLLALDGFTTGFVVANRGSSEPEEHMDLIHDLLEEERDAVCIYPYDKRQDVYRWAWPGFQPDRKKGQSYSWEFNNHFPGNFGDCRTHPA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5494837144898055,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4286364460608778,
+      "comp_score": 0.8314606741573034,
+      "diversity_score": 0.5,
+      "length": 89,
+      "created_at": "2026-07-28T04:38:27.330878",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "AYQIDKEPIARMSTVGNKHNVINAFNFENNANGYVMKPKIFWLVQDGSMVNLAFPHGGIAGGVDL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5414622160523015,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.3647262427120791,
+      "comp_score": 0.9538461538461538,
+      "diversity_score": 0.5,
+      "length": 65,
+      "created_at": "2026-07-28T04:38:56.292585",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "SWRGFIGTVNVSAQEQSSQTLCASRMQSFPQPNEEKAPDQKTLRHFVTYGNFLCHFSFKQYIRDYNYTMGPRERCASNSQLGDEITAALNDGFAAIGLLY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5357617074536383,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.38823101064805465,
+      "comp_score": 0.88,
+      "diversity_score": 0.5,
+      "length": 100,
+      "created_at": "2026-07-28T04:39:03.901937",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "FQLGNITMKSPQITKVHRADNATPQARRQYNNATRHETSQIVANIRILKCANCSNGH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5228991110359502,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.36354008343481603,
+      "comp_score": 0.8947368421052632,
+      "diversity_score": 0.5,
+      "length": 57,
+      "created_at": "2026-07-28T04:37:59.154563",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  },
+  {
+    "sequence": "DLLAPNEGKAYRSVLSHLPKIDINDGLQWNMFLTNFPIDYMDPSGSDKMGTRGCQTTPESENAICPANRYGGLLKKDYYNCTLTVYVLDACISEAAIRDDTVEPDPHIIVNGYRLQDNYCQQISQKIFLRQFETEKPKGLPVIEFQHINWIQSGARVPYKLE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5186722585256123,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.36794449630643034,
+      "comp_score": 0.8703703703703703,
+      "diversity_score": 0.5,
+      "length": 162,
+      "created_at": "2026-07-28T04:38:51.802789",
+      "target": "antimicrobial",
+      "target_name": "Antimicrobial Peptides"
+    }
+  }
+]

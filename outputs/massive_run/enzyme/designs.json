@@ -1,0 +1,1802 @@
+[
+  {
+    "sequence": "MNLTISGSTTANTAAGASPLAVPSKARSIAKEPMITPFFINSSSLAPISIAKSRRNNASLKNQI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.7350742748875765,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.6215346784108237,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 64,
+      "created_at": "2026-07-28T04:36:50.290593",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "PESINSKIPNSPSYENSNKPQLTESKALKSKSVESASSEQNSFDVNDEKR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.7246005583018547,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.6065722261455068,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 50,
+      "created_at": "2026-07-28T04:36:42.569542",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "VLSLRVGDEISIKHGDCIFGAYGALFIGGVVSWAYGQKKGYPNLVPGIDVAALEFAAAPAMVAEHLTESDLVVLSALGNIDESFFGSVDEAARIVGEYIARKHPQFDVVLASEAAYTSTHAI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.7021502384596996,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5955776240290791,
+      "comp_score": 0.9508196721311475,
+      "diversity_score": 0.5,
+      "length": 122,
+      "created_at": "2026-07-28T04:37:33.321183",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "LAPRIDLARQLPEVSQLTNLGLTENLAENLASPPVNDALIAHLINLPPGAVKAIPFVFYVKAAEIFQRRRSVKELAASPGGSESFSRAFLERYDFQELQKAKTADFDKLNEAAWKAFTSGDLGVTEEKSAEILDALKKGRVGTLRTILGHEKTAGYPIAGGSTASFPRTRAQVLFRSA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6947796611873497,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5711940585180437,
+      "comp_score": 0.9831460674157303,
+      "diversity_score": 0.5,
+      "length": 178,
+      "created_at": "2026-07-28T04:37:16.288850",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "PGDICYSRIRAKQPSSRNGGDASRTAPANGIAAMLLLHSGPVLPLLAMLPEGDKLGLVLQFTVLASVFVGGLLMAVVPREVASVLGYDGGRSPLVLPDGDNQNG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6934710525245704,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5744641409691666,
+      "comp_score": 0.9711538461538461,
+      "diversity_score": 0.5,
+      "length": 104,
+      "created_at": "2026-07-28T04:36:12.634106",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "ANVDLDVTLSIKSIPTHGFNDVVALYKATRAAYNFLVEQMESYLQKQHAETAIPFRIRELHLKESSGQNITKDDLKFLVGDEEDEDD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6899581301749187,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5570830431070268,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 87,
+      "created_at": "2026-07-28T04:36:15.210812",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MAKGDTLGQRNFLLLEGFEDEGNGIDLLNTCLYLKAEGGTLDRPVYRLLLSRDHHNKRRGVLPRAKAEEGRSSRLVTFFPIKGGTRRKCVQQKLRVLVRLGFLHGYPHSDTRGARRPRVFRVI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6877221245058863,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5747946726390711,
+      "comp_score": 0.9512195121951219,
+      "diversity_score": 0.5,
+      "length": 123,
+      "created_at": "2026-07-28T04:36:43.551142",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "ELQSAAEAFLLLNLDIVDMLAEFRLLGNISVLFDMLESFDSVVTPTLYLPAFKTRELTAKGLPERRLATGIRTMADKAAEIGAKNALVGLQR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6828349077442017,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5469070110631453,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 92,
+      "created_at": "2026-07-28T04:36:13.631848",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "ASPAAHVEDIIAAAAKLKEEPKEQRSFWRFFRGNKQKDDEQFLAFQAMEEELKKITLGASVNAWRFDGMITMMLPDPSISDGINIIKDKYFSSNIEKAREAFLSPKFSVEMQSHAVFDNLLEYVNEGELAVPED",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6826892314283858,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5658886674989734,
+      "comp_score": 0.9552238805970149,
+      "diversity_score": 0.5,
+      "length": 134,
+      "created_at": "2026-07-28T04:36:10.235620",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MADKKTERIAVHSGSGKASDARKIAEKDWGDDLILFPGKASFHTAVKNYNAFVAEVLLALRVKNP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6792572513007489,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5615762930670039,
+      "comp_score": 0.9538461538461538,
+      "diversity_score": 0.5,
+      "length": 65,
+      "created_at": "2026-07-28T04:37:24.675393",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "IPRRGVLTARRIAQAQAAAKSALREDMLANCKRDALSSAYQTGLKLYAAQIKKAAALKNAFNPEKNKAAFRTEQERVKQQCGPAVGTLEAKAKTLKMLAADGISPELARECIDR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.676738948321121,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.572033084067767,
+      "comp_score": 0.9210526315789473,
+      "diversity_score": 0.5,
+      "length": 114,
+      "created_at": "2026-07-28T04:36:37.980489",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MGSKEAASKAISTLARKRFEQKPRLTREMVIDRKLDDLDSYLYWMRPNPREEEDL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.67158833311719,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5542170992583234,
+      "comp_score": 0.9454545454545454,
+      "diversity_score": 0.5,
+      "length": 55,
+      "created_at": "2026-07-28T04:36:35.764674",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MRIKRSSVHVPDALAEASVEGQELRISHRQDCSDGVGAGRDAEDEKVTMNSSIRQAQTAEDGDAVDLEDGVVQLVSDRADVSVEPASETAFFSAHIQVR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6669431775910712,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5371915524028291,
+      "comp_score": 0.9696969696969697,
+      "diversity_score": 0.5,
+      "length": 99,
+      "created_at": "2026-07-28T04:37:47.860968",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "IFRLEAMSKDLVVKLEEVTPGILEVEGHAMKLDLEPYAAPADVATRLTTHISAVAVGDLLDREYRMQVRAFKVPGEHQPERSQAAPEALACSTTGGVEFTPGDALQALVEEIGTLGFGMLALY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6588108101422174,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5230398333042132,
+      "comp_score": 0.975609756097561,
+      "diversity_score": 0.5,
+      "length": 123,
+      "created_at": "2026-07-28T04:36:20.249584",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MASTCNQPAYNSPQACRVVERRTGSSAGYASYGLVGIQFAAACVLILIGAPMSFPGFGKEQFDSSKVFQFAVGAYLGVEYCLYFTGIKREALDIAANKAPSSILPALEGRRALRFLFYFLLYFSFFRFVASPLAARSCAFNLTIAPSSSSLNYPTS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6575495101312132,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5519938056819531,
+      "comp_score": 0.9038461538461539,
+      "diversity_score": 0.5,
+      "length": 156,
+      "created_at": "2026-07-28T04:36:58.114883",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MIFLGFCSSALMPKISAPFLVAEAANISGQSYTSRLNAGHAGFRFVIAHGQGGFSYAMHFEPGASPLAYATTSLAEREFNVGTVQAALESASAPVT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6552117303336185,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5208381861908835,
+      "comp_score": 0.96875,
+      "diversity_score": 0.5,
+      "length": 96,
+      "created_at": "2026-07-28T04:37:30.395774",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "NCATDGNGGEPPFDDLAPLPPISPKKGAQDHISGYLGGSGGATSPVSSDPPDISQFSASPLARVVFADDLDSAEEKEIYHRACLEEGQRIFAAAGAGGDWGLPTVTAPDIREERSRSCYITSMWPSLIRIFTRHGAPRGPPGP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6536288439317391,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5501391077146723,
+      "comp_score": 0.8951048951048951,
+      "diversity_score": 0.5,
+      "length": 143,
+      "created_at": "2026-07-28T04:36:21.672712",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "EKSSRATHDSDSDNDDSAESDRVPGSDPEAYLTDGTNVHITSEGEWATATQVSTADSVKGLYARPITNSQAAEYTFRYQVGQLPTVQQPKRVTWARVSEVEFKPQQIVDEQTTKRLTTLAQKLNEMLAR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6514889049949741,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5220605619529533,
+      "comp_score": 0.9534883720930233,
+      "diversity_score": 0.5,
+      "length": 129,
+      "created_at": "2026-07-28T04:37:05.417181",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "LLVEAGGILHIKEFTGGSQQPGQKNPPMMVAVGGWTRLSRNLVESILQALSASQPVTTITGTHEVNTAQLASSIAAAEMEADAKA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6511604056659439,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5167837728000879,
+      "comp_score": 0.9647058823529412,
+      "diversity_score": 0.5,
+      "length": 85,
+      "created_at": "2026-07-28T04:37:26.169234",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MKKLAANFLKDLQKEIEDTSGRVLTSHHTFLFLLEAQKTANSVELEEKSMHDIPTMLAELTGSVWTF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.650037964747743,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5192440008123408,
+      "comp_score": 0.9552238805970149,
+      "diversity_score": 0.5,
+      "length": 67,
+      "created_at": "2026-07-28T04:37:19.259328",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MAIHVEGLLEMEGLKICPNPELDYLKFLVLLICRFASETILLVIIFREQLLEIRFLGLLETSDLMSKMNFIDVGYRRCSSEMVVPPPQLFTENERRMYNHLQQRYVQMAGLRHEMALLEWERDILMRHVIRIINLLARHEKTIKN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6464172838319278,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5303498143411776,
+      "comp_score": 0.9172413793103449,
+      "diversity_score": 0.5,
+      "length": 145,
+      "created_at": "2026-07-28T04:36:37.120724",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MEKLLAFPSRPGWITNEFHKIEQRLREVHDAETKVAVVGVYDETDIIPVLLYRVNGETIKNIDFRRSKPFMDLISKQYLDSHRDVQDAGRTIYERGREASSNGYIRRVQSIVPNVGHGNL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6450179665320879,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5035970950458399,
+      "comp_score": 0.975,
+      "diversity_score": 0.5,
+      "length": 120,
+      "created_at": "2026-07-28T04:36:14.613794",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MIGDFSVNYDPVGLHEKVIAKAVVGSLYVIAYTPSPLNSIMFNDDSGGDNVQVASGRISNQGITGFHLHLGRVLDLLGPTSPSTALPIGPSPVAGPVSDGHLFHGLGCSRPSSSRVRDFGERGLEKSFEKWSTICSA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.64308432466652,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5182747912337148,
+      "comp_score": 0.9343065693430657,
+      "diversity_score": 0.5,
+      "length": 137,
+      "created_at": "2026-07-28T04:37:36.780628",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MMQVATLYKNNDKLQVPSALDDLAELQIARRSKLRRSALAMGYESTLARAVSTQIDKIHHRFLSQNSQSKI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6406385445133317,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48662649216190246,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 71,
+      "created_at": "2026-07-28T04:36:34.682455",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MTHAPKVLATTTGISILADNIPTIENLLPRKETFVMATSSKPNSRPYTPYGACSGSEVTYAS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6391810274616877,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5052816521342083,
+      "comp_score": 0.9516129032258065,
+      "diversity_score": 0.5,
+      "length": 62,
+      "created_at": "2026-07-28T04:36:13.017268",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MAIDPYAIVNREIAAIVHDEEGFQDILGVNPNIVGVVTAIVYVFNHGYDEYPRAEKGDYVLYVKETLVVPLDDGWVKAVDRSGYPWELETDTESEEIHTYLFFVRSPNQNYKHLKDFPKLTNTQLMEERIDFLTTVQPDLYHRDNMVDDSSSDNDGDSLKED",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6377948867811307,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49843713984605975,
+      "comp_score": 0.962962962962963,
+      "diversity_score": 0.5,
+      "length": 162,
+      "created_at": "2026-07-28T04:37:53.871688",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MEDHAGMITLPPPSSVVAGTHQGIVDYDNVIGTIGDPLLGDSDSRIKSVDTEITYTPFDATQTVVNELQPDFTVNTGVQIQPEPMVPYFPTKGYDPEGDTFVTYEVTLTDGSCVEFSVSYILCPATVTQIDTYEDYTQEQQTYVPDADFRTGYSHLPTGSPRIEEWEPDNNITADPA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6369572805260304,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5031593111630943,
+      "comp_score": 0.9491525423728814,
+      "diversity_score": 0.5,
+      "length": 177,
+      "created_at": "2026-07-28T04:37:44.032502",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MEHYSKGKKEHEADTAPSPTTGNSARSNTESFADQDEELELSMKSHTTDDDHERMEIRTEGQISDSLESNCKTDEYYPCESLSPHLGSPLSHKTMELQDAFSSDFTRLEEYESHQDDRAGPPNRRSMKKSKHSSQTRKGSLFPTHTSRSRKPAGRLMPSRPDTRHGPKLPEYTDNIGEG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6349527660584461,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49286947425747685,
+      "comp_score": 0.9664804469273743,
+      "diversity_score": 0.5,
+      "length": 179,
+      "created_at": "2026-07-28T04:37:35.460225",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MTVKPINLQKRVQMLVQQVFKQCTTVSHVTLLQHSNKLAMMLIHQKAAKVKYMTQNFIR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.634897437300018,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5002166779830766,
+      "comp_score": 0.9491525423728814,
+      "diversity_score": 0.5,
+      "length": 59,
+      "created_at": "2026-07-28T04:37:50.112710",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MNTSKNPYLPFDEIMTHPMNDRAWMIEQTTKLNMGVPSDNRPDIQANARLDAARKPADAAVPPKKGLMHGILTAGIAFAPPRLHQCGGGAYDKGWLLQGRILIAALRRDVAGKLLKLQEGKPLKPAAQVAEEAFDGQKTARAKQQSKTVRTSKKQKGQSNTIIDEIIDGV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6331659005532997,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4986403621349659,
+      "comp_score": 0.9470588235294117,
+      "diversity_score": 0.5,
+      "length": 170,
+      "created_at": "2026-07-28T04:37:45.903191",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MEKRKKGKVGIQRLRILKYSNAMLQFGRHLSPLTPLHIIQASKAVDFKYNKRTRHISGANHGDDIFGEGGIQCIDVVLTSPSHIGYGDANIFHVEGRVSDT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6330390908753287,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.488499974234911,
+      "comp_score": 0.9702970297029703,
+      "diversity_score": 0.5,
+      "length": 101,
+      "created_at": "2026-07-28T04:36:15.949589",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MVVYRPKTRRHTVHALLLLLLTDLMLSRNILAWCLPEFVVQAQNDRVPPQATTGLVDLARVSMRSETPGDGSVRRAAGAAIDDAGTMPGSLILLKIQEENPSMDVAYKTRSSAPSKKDQSSG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.632972190486508,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4967518412102341,
+      "comp_score": 0.9508196721311475,
+      "diversity_score": 0.5,
+      "length": 122,
+      "created_at": "2026-07-28T04:37:29.680038",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MIVDLSSYAADAYRSKALDLEMSLEVATPGFSFDSTACSADYSAGRHTPSQYSMLG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6327323733032977,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4982911455353233,
+      "comp_score": 0.9464285714285714,
+      "diversity_score": 0.5,
+      "length": 56,
+      "created_at": "2026-07-28T04:36:07.924085",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "ERHHGRKSAESAGGFLTERKKTNLGKNTVKGKLREPQDKIKAITSKAPLATF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6320010207454332,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47428717249347596,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 52,
+      "created_at": "2026-07-28T04:37:13.946579",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "IGHIKMYGEVVDFAAESPTAFNQLEEVITPLLLSEKYGFEPNVQKIARFAEPQQREAVIQEKSIKLGGEFESHMKAQKRTKQLAKQSGTDWIVVDLTG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6316844506967385,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4869544630944661,
+      "comp_score": 0.9693877551020408,
+      "diversity_score": 0.5,
+      "length": 98,
+      "created_at": "2026-07-28T04:37:27.018942",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MLHVFVPGVVVVGTAVAEDVGIKVVCYSQVMPEFLGDDGIEVTDGILLKRGGATAHCDSTPDVDSDSIDEERRHHQKLQTIRPEVPRRKEEAQFFLKSLAKTPPISPIPQESIPKNIITCAFHSVNNQGTDLGENCGLIDLQLTRKNLGFAALAARGGLHTAKLAGV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6312108170025746,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5039538617573137,
+      "comp_score": 0.9281437125748503,
+      "diversity_score": 0.5,
+      "length": 167,
+      "created_at": "2026-07-28T04:37:03.980623",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "STLTLPFPNGSQSISVDDGDSVLIQAPACLMINGNNVSKCKPFVKYEARVTSVQKGDDSDVYWKTIIGGFDSGPLPENWTGVIQAHPRWQEIK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6311007697447959,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5421255235985564,
+      "comp_score": 0.8387096774193549,
+      "diversity_score": 0.5,
+      "length": 93,
+      "created_at": "2026-07-28T04:37:18.676129",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MINKPVHLKCIISAKASPQDMYLADGQTREGVATGDFKPSETARLIIKGKGRLDGKVSKPVEVNVTWDFEQEFRIPPHDIPDGADVFFGKQFGKGFFLWLRSEAVIEGGDWYLEQNPTLARWVKVQI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6306212262506949,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5229347101669095,
+      "comp_score": 0.8818897637795275,
+      "diversity_score": 0.5,
+      "length": 127,
+      "created_at": "2026-07-28T04:36:34.247919",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MTPRQPQPVMVRKGTEYGAGKAVMLCVVMALFFGCLVSFVGFLIPAPVDGVQGNKQSLTSAQVEKALFQSVVAGYRDPIYAHHVVHCPHMVMVWKASNDQTEVMMQMWYLPTAPKEYMKSPGNRDAMLREVVEKNPQVDLVAGDTFGIVLLVVDFKSFNDVPEAVSCR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6305828424690962,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5181795708742191,
+      "comp_score": 0.8928571428571429,
+      "diversity_score": 0.5,
+      "length": 168,
+      "created_at": "2026-07-28T04:36:26.653006",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MPVILSMDEAIAMNYSKPVIAAQYDEVWSIAATLDGVQTKLFLVYAGFPRAMAESAINTHKVGFVDRGGDQN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6303292583432825,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4897560833475464,
+      "comp_score": 0.9583333333333334,
+      "diversity_score": 0.5,
+      "length": 72,
+      "created_at": "2026-07-28T04:37:37.259495",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "LQPSEWNQLPAARVQAFSPEVPDSETFRRLPVLFEAVAVARAGWLGSLSSAAARDTPPLEEISEEDAGEALCPDYVALEQAIGRTPQLQYLVLEVRNKSTDAVAFAAAEGELESILQLIEFVPRSVSGKVKRIGHVVRIRKNSRHTLLEGLIAEESFTMEQPDAGDCLMHSLSD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6301513028660815,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5012013686264217,
+      "comp_score": 0.9310344827586207,
+      "diversity_score": 0.5,
+      "length": 174,
+      "created_at": "2026-07-28T04:36:30.372834",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "SSMSTNLSILKISFLPLLENSTSRRFLICPLSAVSDENKGEAIQTVETKTVDPFLIGQARSLPNKKAEEYG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.627821600362952,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48642522385854314,
+      "comp_score": 0.9577464788732395,
+      "diversity_score": 0.5,
+      "length": 71,
+      "created_at": "2026-07-28T04:36:23.321269",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MDWQLAGRLGNSRFGLTSRPTPAQGSGAYVWFKIEEFDPRKPEQEQLPPFPGIDNILPKAFGRRFSFAGNYYKRYGNDLLVLPEDIPAPLWIGLIISLSFFYWVGLVTYIEHKERVQAAPSKVRPDDAPELPIGERWAQQTDEVYTDRLIHKGSMGGVPDYNPVKEFRL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6274690258399531,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5058517782498064,
+      "comp_score": 0.9112426035502958,
+      "diversity_score": 0.5,
+      "length": 169,
+      "created_at": "2026-07-28T04:37:55.770140",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MEQPKPLQPAHEGPSSSNHNAIGSQLSQSSYFSSKRTATAVMHEKESSADEFLLLDEYSLFPHGIPSICHHDTTAEAVAFAVQVDVNSHPDLKRWLEQPIIHNNALILTVRELDLSSLPSHLYLLKLAVLSVLCAIVPAFHDYSPCLTNMQSETFYLQLPT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6272999622550506,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4995145867175079,
+      "comp_score": 0.9254658385093167,
+      "diversity_score": 0.5,
+      "length": 161,
+      "created_at": "2026-07-28T04:37:23.452462",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MASFRRVHTTSAASSSGLEDRSKKEQLTTSLVDGSVEQPRCRAQLVGDSAQNGASLQDLRVTSHKEAGYRKLLSATASSKEDAELDNTNDNCEDERCPKLTSCNQRCSDDDPRDGLDNDLQKYREKLSSAGEEHYVVEEHDKMEGITHVDMSLSRVDGDVTEIVRYRYRGH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6265489873998329,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5040925383907389,
+      "comp_score": 0.9122807017543859,
+      "diversity_score": 0.5,
+      "length": 171,
+      "created_at": "2026-07-28T04:36:19.204126",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MIYSKVTKAVLMNDEFETYMPPGYVFNIRVTNSNNTLDEENAKGSHKGLDLQGSSR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.626335073506606,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46619296215229444,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 56,
+      "created_at": "2026-07-28T04:37:30.779270",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "GISGSIAMGLSGASMVHMLSQCKDKLVALIGGAGVAVVRNNKERNKGFYKKGMYGKGRLKLNGGERGAFTREALKAALDDFGLNKEIEIIEEVTCTNANGKDNSGSACQDEKSIQACIESRLPLPKYVIECTGFNSSGLAMFPDAIKCIVKCHWYVKYGISEDSQSLGNPWK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6248186677011756,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5313024156528422,
+      "comp_score": 0.8430232558139534,
+      "diversity_score": 0.5,
+      "length": 172,
+      "created_at": "2026-07-28T04:37:10.669324",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "PGVAGELPLMTGKDRLPKHQEYRPAAGSELDDECLFCADIVMAMDRCPGAREGQDTADHRMVELVQISMPKQIADLIASVVHENEKVMSAGGGAAARNVVRELSTLHRIFIALSPAPERQEKIYASIEGFGELPATEGLKSAIKLLMSTLEDVRRAQESNPNIKA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6245794602776391,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48706156663039346,
+      "comp_score": 0.9454545454545454,
+      "diversity_score": 0.5,
+      "length": 165,
+      "created_at": "2026-07-28T04:36:32.205920",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "EKFDRTPQYIGNPKGAVSQKTKSKGKGPTTLLPGNQEKFLRHNGALPYSEVKRLFESKAKRAPVPSAAVTIKLNANDVTPNARADISMFSNFELNPNTVYEHSNGLINS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6202418315202319,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4574883307431885,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 109,
+      "created_at": "2026-07-28T04:36:46.394865",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MWTSAAVPDDPAYGSGYDARSIHVPGDRPTLPGEFAIANTPEVSYHSVSVEPLLPTSSAGEVAVGANNGHWTHRVGFGYYPSTIAIGGTPASISPTAGPHIGGLSKYKDLVVERSKANVTTTLRAQGTRSPGMKQVLSKERAGAEMYCIDVFDSDLLGDENRRQILDAAENDSI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.619377568294913,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4784211566774619,
+      "comp_score": 0.9482758620689655,
+      "diversity_score": 0.5,
+      "length": 174,
+      "created_at": "2026-07-28T04:36:48.228137",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MLGANAGLPWLAAKLVNDFGTKGGETTLNQGGYTYLLRKKELLEVERVALERYQSRRPGLPFIVRLSALESTPLFGYISSGLLASLYARGLRGPPVESPEACEDDITKTGELCGSKYGDDEIE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6189882333248381,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4870563611957618,
+      "comp_score": 0.9268292682926829,
+      "diversity_score": 0.5,
+      "length": 123,
+      "created_at": "2026-07-28T04:36:05.679491",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MRLVRQEKISWGKGEKNGRSPRQCSGYGPQAITACGMPAGLPADISWEKASSSYNKKNIKKWEQR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6167581660375683,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5514127646690536,
+      "comp_score": 0.7692307692307692,
+      "diversity_score": 0.5,
+      "length": 65,
+      "created_at": "2026-07-28T04:36:38.384764",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MGAFPLSDTLQSVMQDAGIYRKMKKNIPAKWVTKQTKWFKQPSTSGVLQVTPGQPDFLTMREVSSAQDMSSANSQSSSGVNSGGDPIGFKLTYLSNKQSIARALSGLPKSNEGPDQPQAPKSQAPFHWFIIGASGHLPPFPMALASSTPNM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6160600804836386,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4770583931223219,
+      "comp_score": 0.9403973509933775,
+      "diversity_score": 0.5,
+      "length": 151,
+      "created_at": "2026-07-28T04:36:07.591059",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "PYSLATLGKRPLSARMNLEHIRMRVPTRALEDDVFQRRSRSRVYGAPKGVFGASSKDLGEVASMPDRDGQWVGGRTLDDQHFGDININAKRKGKATSPKQKFSRPQKEPQGQGRDEDLQEDCDLANLRRGQILIVVQKLLHIEDDVLDT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6135199942486982,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46514361594492837,
+      "comp_score": 0.9597315436241611,
+      "diversity_score": 0.5,
+      "length": 149,
+      "created_at": "2026-07-28T04:37:52.280759",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MTTYVTGGRKTLKITALQTERIVRQTFEQTIEKRLGVIPPKYYRLKILHQNYEWEYSCSNKMPAILGIFGIIPDAVFALNYLSHLIVGINFT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6126497438161652,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47459280172495655,
+      "comp_score": 0.9347826086956522,
+      "diversity_score": 0.5,
+      "length": 92,
+      "created_at": "2026-07-28T04:37:25.464397",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MTKVDGSGIELVIDVRGRGEVTFFADCTVPDAHANHISIGAMRNPGVYLLKVERDGRWKNLWTPEFVPFV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.611893202059496,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5006637580441781,
+      "comp_score": 0.8714285714285714,
+      "diversity_score": 0.5,
+      "length": 70,
+      "created_at": "2026-07-28T04:36:06.131675",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MARGKAVQQTPVYVRRKRVQGSRVKCIGEWREQTKEIIQVTDVYLVALPFIRFQNKRCELGRKVVFSTIEKKCIGVSVIGIAGAVTGLRSSIQIVVLPAPTRSSTLIKIRQAKRAMFTAPGAKGERKGIDNELELV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6111955083208602,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48238013793736345,
+      "comp_score": 0.9117647058823529,
+      "diversity_score": 0.5,
+      "length": 136,
+      "created_at": "2026-07-28T04:36:51.829101",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MSPLMSVHITDDFEQLGSTPSINDLNLIANVLNASDQAIIKHIMLCHRKTQVHCSQPVFNGDQSGKLLNFDLKTKRMQKKLKVQQIRADVQTGRTKKLDHEERSNAEPLASGEG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6092211134433412,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46430083875364536,
+      "comp_score": 0.9473684210526316,
+      "diversity_score": 0.5,
+      "length": 114,
+      "created_at": "2026-07-28T04:36:33.135135",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "VLTKVAVMQSASFQYSEDVLMDLLTAAQQPGTLCESFEEAHHFFAVKEGEDNVEADLYRFGEGQALLATYYNLTGRQGLNEATIAPLAIQFISPEEEVP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6088160278525072,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45415276706202323,
+      "comp_score": 0.9696969696969697,
+      "diversity_score": 0.5,
+      "length": 99,
+      "created_at": "2026-07-28T04:37:50.822328",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MHGLFPNTTLCRLSFPLSSSRDGRWVQSFYITSRRFGDHSRFAASFEWASVKEDPVPSPDGAEKQKQRSDIRSLQPKNGWGDGQLKLSLLVATAYEMGRLGS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6074605448521605,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4896495178560276,
+      "comp_score": 0.8823529411764706,
+      "diversity_score": 0.5,
+      "length": 102,
+      "created_at": "2026-07-28T04:37:40.251891",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MTPVIVLKLLSGLQPSQSQASWTSIKLAILILVHVMFQKWQSLSTMTPKNDTF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6065669415509851,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4864702938598978,
+      "comp_score": 0.8867924528301887,
+      "diversity_score": 0.5,
+      "length": 53,
+      "created_at": "2026-07-28T04:37:11.073864",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "DNVQQGSRSQGGGAAMTVENTTSFGGDGSILEKTKRATLLVFGSAAQSDFKPLGKDGTFGPGQTGEADISSLPVESYEVQEQTSREARYMRLSHVCLRAARPDSSSPAQIQVDVLNLFPEQHDGLPSVAEARIAFYMKLPAEDGKKSLQPWGI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.602735116313714,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44928546028009564,
+      "comp_score": 0.9607843137254902,
+      "diversity_score": 0.5,
+      "length": 153,
+      "created_at": "2026-07-28T04:36:04.683808",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "DGLAVIRYPIDGTVRAYANPDWLIDLFVRLEEPELEGDDFHQVLCMNRRRAALICNELIVDRRGPSARHPHTVARIRQQNPETFERTDPYRSEAIIEFNRRLYDAWQKMQGKDWKW",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6024586769496365,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49858628726795373,
+      "comp_score": 0.8448275862068966,
+      "diversity_score": 0.5,
+      "length": 116,
+      "created_at": "2026-07-28T04:36:17.307811",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MVHGQRPGGGRVILSPAGERKFDTGQFVQPGTPEYKDMNQIGQRKVVARLADTGVKTDALAQSTIATRAILWHIVIIVTRCQPGKRVAHWLWPEFGLSGGTLALMAL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6020809386267094,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4796082834854193,
+      "comp_score": 0.8878504672897196,
+      "diversity_score": 0.5,
+      "length": 107,
+      "created_at": "2026-07-28T04:36:24.771577",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MGTNGKSSRLVMLLPSNLHSKEQGPKSARTRWPSQAFDMGSSGFCSQKKQKIGSQQGGKVVCSLSMASDLTLPANNKNSKSKKRRKSNWPVALLINHDVSLIDKPSKLRSACHDRQIHWSAAIAAVHAPSC",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.601771273156617,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49980410887150306,
+      "comp_score": 0.8396946564885497,
+      "diversity_score": 0.5,
+      "length": 131,
+      "created_at": "2026-07-28T04:37:47.128925",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "ACEKRPADNGANFNNISHLHRWAGRPHIADVSSGEKLDKSRILRELAQEEWVRKNSEAAEKTYRWMADRLIHIAPKGLRNLAGTNFEQLSSAISYKERAQEIRTARGASDYDNEAATLQELIAQEKLKGAGECPSVSYAGSLANATD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6009866346248496,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.473712685032584,
+      "comp_score": 0.8979591836734694,
+      "diversity_score": 0.5,
+      "length": 147,
+      "created_at": "2026-07-28T04:37:32.278272",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MSWRIPYTNITRKILKMDLFDMIPLPQDNVRQWGIRQKYPGWFTSRRSNGRLEFEFYNYRHQEEQRIFRQELVALITKSDALKNLTEANQNN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6004897668036027,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4711965612722274,
+      "comp_score": 0.9021739130434783,
+      "diversity_score": 0.5,
+      "length": 92,
+      "created_at": "2026-07-28T04:37:37.914903",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "IDLHTHQLKLVSIELSTVAGLAPPIGGVPKILPGTPVQLKLNPLLLPPDATEVEQTRLIICQEEKPEIEPAAFLVHLKGQWVYLVDSFDFDVFHELGEEGYVKEVISLKLRVYDIRVKNDSFREYDSLGIEATPLSTGAVGPADRDTLMVLVADAGCFMSDGW",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6000454973436482,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4601876955917149,
+      "comp_score": 0.9263803680981595,
+      "diversity_score": 0.5,
+      "length": 163,
+      "created_at": "2026-07-28T04:37:00.252693",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "SLADYQKGKVVCKIEKVGHCVPIRGGTVTVIQEAQSNVAKVVTLRGTLTINQARNVDHAASISDKYLVWSTALTNEETEVKNVVTLNRHMVVVQSDIQDDHSDPLGGQIAKLVGVGVDFNLLQQKVFQRDFAQDTN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5999643676988127,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4568818698218333,
+      "comp_score": 0.9338235294117647,
+      "diversity_score": 0.5,
+      "length": 136,
+      "created_at": "2026-07-28T04:37:01.771425",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "GLIVSSTVASAPVHSPTKLFDSRKLITFYNNLQTNQITVIFNASLPWIRGGLYKHLLFSPLLADYAMGYPYFPPCSVVFPLIRWVVTHRYAKLVIKEIQQFIESKGLRVESVPVNSALIDIRLAPFYTVGKKQYQMFFGYNQITIVHLECVYTNDRYRIGNTIVKFKILN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5962287437675541,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4534360205082706,
+      "comp_score": 0.9294117647058824,
+      "diversity_score": 0.5,
+      "length": 170,
+      "created_at": "2026-07-28T04:37:21.426345",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "DSLQVPGRLYLSAPTDVADALQFMGGFFSLNTVLTITTVGITMHVVQLASEFLKFGQITHRRPEELWDDSKNGGEKWAGNCGEEVSQEQKDSEWSDKYVQPSQVVPPRTNELSDRKPQAREDYGAVQSAIGRVTCGIGGGIGRAAGGSFGLFGDFQYLPLSYAPQPPMNKNPLYKRPQAP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5955233366908178,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4578904809868827,
+      "comp_score": 0.9166666666666666,
+      "diversity_score": 0.5,
+      "length": 180,
+      "created_at": "2026-07-28T04:36:45.483224",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MELDEQKKRFSARRKGNPHSTSLGDLSPIPTVEDSSSRFFSYLTAAELDHWGRTLPQMIPAKVLAQLQSENDNVARVIKCVNGADANDDDHVGIEFAARAFTKISCYTAVAGSFQEMFGVTVPDVPTERWLFRGEHIANIRIAASTYAVVNITHHIDTYWM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5947241153915911,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4609634656437105,
+      "comp_score": 0.906832298136646,
+      "diversity_score": 0.5,
+      "length": 161,
+      "created_at": "2026-07-28T04:36:28.407843",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MWMIGTLQHVGACIDRLKNQHFHNNSNILVCTNKYEKRFKNAVLVSLSSVWLTAHALLGMDLIKMNSKWSDNNVVLLIIGYPHISHNCMETPLCLANLALLEAVLQARKALGEEELEQLLETEVDIPNSSTAPAGN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5925948063546351,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.484169051094857,
+      "comp_score": 0.8455882352941176,
+      "diversity_score": 0.5,
+      "length": 136,
+      "created_at": "2026-07-28T04:36:49.481643",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MAVNANIMLENDNEDFNLSANDFICKSSVPLSLPRVVPMQFILRCRSYVMI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5917951882774628,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.467270437035031,
+      "comp_score": 0.8823529411764706,
+      "diversity_score": 0.5,
+      "length": 51,
+      "created_at": "2026-07-28T04:37:48.171247",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MEIFLLNATPSLASDCEWYWQATAVMSNSTLPQQIPQLVQLAQHTNIPSGGLAVNLTFLAAMMVNPVFLANACSLELIRRRLQSSAMHINFEPTTGAAKLTTLHGQCTRVA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5917468707201641,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47469630180100664,
+      "comp_score": 0.8648648648648649,
+      "diversity_score": 0.5,
+      "length": 111,
+      "created_at": "2026-07-28T04:37:12.120283",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "GSYRIPADEDLVDEAMQTLVALQEDKKWIKREIYECGGYVINAPAKKGRKWYLPESGKITIVKPAYHPGGPPGPYSGELLQPRDPAASRADLLTLLCTLGICSKGLPRKVPRLSAVAFAHAVHGPLLRAEGEDEWWRITTWKNVSRN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5909680872835612,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48563954160042266,
+      "comp_score": 0.8367346938775511,
+      "diversity_score": 0.5,
+      "length": 147,
+      "created_at": "2026-07-28T04:37:07.117113",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MNLIALTKNPPVRQTTIMGRGMRWYSGILTEKEKPQFLDGTARYQLARFCRK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5894996226245361,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46302143891417247,
+      "comp_score": 0.8846153846153846,
+      "diversity_score": 0.5,
+      "length": 52,
+      "created_at": "2026-07-28T04:36:49.815781",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "SLIILIGDLEENYNMQMYYGLSISDDPALRGNARDILDRLIHCAMGLPLPDELFSVAFYLPLAAILVAIMDTIVILLAVYAWTLGLPLRGAAYSSQTVTAAYWTKLKTNDSYGFWVEYVGFRLDWPE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5874547875563718,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46126836917501945,
+      "comp_score": 0.8818897637795275,
+      "diversity_score": 0.5,
+      "length": 127,
+      "created_at": "2026-07-28T04:37:08.482270",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MKDSEDRWIMQNLSGPTMPIVGRALLNPVFVQTTVDCVSLSSQAQSKALEPLYPAAARLCHGQINPQKEFLLVGDLEIQIRESGCEEKQEFPHKKLEQPRREPPPQP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5871036579813398,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45821216827774847,
+      "comp_score": 0.8878504672897196,
+      "diversity_score": 0.5,
+      "length": 107,
+      "created_at": "2026-07-28T04:37:38.784835",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MQAVKIRHYAHFERVWELENADRWQIAFTIDNRIAKSNTDLTVMSWSARNTGMIRSLGVIQTYASFHEYGGSEKNEREDVIKLNEMARNEPKKRAMVLRGRKQEETKDGEQTDEEAEAPKSRMKHSFQHTLMLLNFFASPPSVSGCVDLELNAGDDTKDSKTSC",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5847477113558441,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4459810510658401,
+      "comp_score": 0.9085365853658537,
+      "diversity_score": 0.5,
+      "length": 164,
+      "created_at": "2026-07-28T04:36:11.863902",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "QARVSILGYEELRRHVAVNQRLRREVIEVAGLTPGMTLGKARWLLVQVGWRLEPGFAECKMLVCLPAVFMNKDEFTMTDPRIHPPRFDDLQTIIQTNPQETYASVHKLTYVVQVSLNPAVFLGIAHVAPLAPRNGDGYYDMIIPMQATAADE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.582755953103052,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4377716623276683,
+      "comp_score": 0.9210526315789473,
+      "diversity_score": 0.5,
+      "length": 152,
+      "created_at": "2026-07-28T04:37:28.617056",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "CVLSSFVAAPYAGPDLSRKFFAGGRLMQKGLLSSLEARINPVHIGCPVIDDFVIHKSEGYSYAIHHPDSPRHRIASAPVGIGNDEVNEFSSYILRLLCGETSITPRAKDKVSLRQMLNHPKSNAVVLLSWKALHHICLT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.581600598815314,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4485352850496265,
+      "comp_score": 0.8920863309352518,
+      "diversity_score": 0.5,
+      "length": 139,
+      "created_at": "2026-07-28T04:37:17.866911",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MIKQRTKTKSSYPLEQGVMFKCTRHLKRQVQRYISIKEVPYCLLGDVIQTNIETKAVKFESR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.580238001077277,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44181465591684743,
+      "comp_score": 0.9032258064516129,
+      "diversity_score": 0.5,
+      "length": 62,
+      "created_at": "2026-07-28T04:37:12.593373",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "ILKAYTQAKSKGDRINVETEQPPQAIIYVVLPSKEETLTNALNHSLDRSYPMTLNSLPPITITIDGMNIFAWTQIARKHSSSEDESESISEVSGREQSADQIHFFLRTKHEEIFHFHMFLSYGQLLPFSIMSYDLQMCMPTDPLVSLVCPIPVRFSLCMMSDIKWLVRNLAEADLMP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5777304921840919,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4330774585680732,
+      "comp_score": 0.9152542372881356,
+      "diversity_score": 0.5,
+      "length": 177,
+      "created_at": "2026-07-28T04:36:56.233821",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MHQSKCDRGVARICNRGLGVLRKTGACAAGRLLLISLMHTPEMVECLAAAPKVPDIIPQAMMNAIRAGGLFERLGSITGQVTHWEGYMRVAHRNAQAVFQFSKYRAVRETAVTEVDKEIWGNIRFLEGSSMMTLQNEGGTFPRQPAAPDEIRALEGPRTLVVGRSRLPSMG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5771080249367639,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44098138900740724,
+      "comp_score": 0.8947368421052632,
+      "diversity_score": 0.5,
+      "length": 171,
+      "created_at": "2026-07-28T04:36:42.279187",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "GGSEERGLWSRARKVAKIPTSYTQRYRPKATLPRRLITRAQQNPATDELEEITLLRLFTGFAAVARIKVFFVKTSSEKTPFILRPSLALCRERGHPSFTDWHCNAFLLPSTLPLTITFRSLLWDSGRLQLRPLYSWSKCDDRWDADMAPMPETYKGHYSII",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5763160095466969,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45862358063015274,
+      "comp_score": 0.8509316770186335,
+      "diversity_score": 0.5,
+      "length": 161,
+      "created_at": "2026-07-28T04:36:53.805466",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MCRHGAHEAALHFIRLRSQHRDEIMFCLSIEVAAYFMIVAKIALKAVDRYQPVKNHTYSLILPEAKACHHHTKVENITFGL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5761240309114928,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44208194892118025,
+      "comp_score": 0.8888888888888888,
+      "diversity_score": 0.5,
+      "length": 81,
+      "created_at": "2026-07-28T04:37:24.122685",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MEVMVAFPVDGMLAGFGNGRKIEQIGVFHYIDDTSGWERNSLQGGARTKAAMSGIRRIVWEVTDKYVCDLDIESTMANIGQQLFEAAIYAFTSIVSPNNRFT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5757148154861331,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4316934338877534,
+      "comp_score": 0.9117647058823529,
+      "diversity_score": 0.5,
+      "length": 102,
+      "created_at": "2026-07-28T04:36:08.650775",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "TPETAQACLLALPDTTTREILLEKFTMPNDDLDLVASNQHGPPHQNGAVVAEEYELRRSGSSYEMTHP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5730637341117493,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4089986117562805,
+      "comp_score": 0.9558823529411765,
+      "diversity_score": 0.5,
+      "length": 68,
+      "created_at": "2026-07-28T04:36:09.074295",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MMGSAGAGGTLEVSMLRDEMCTPLAGVALDCLTTSLGHPEFKWIPPRYSLPAIGWRGAFDATNR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5706014408335136,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46693062976216226,
+      "comp_score": 0.8125,
+      "diversity_score": 0.5,
+      "length": 64,
+      "created_at": "2026-07-28T04:37:13.071094",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MMDFVNNWSYAAGTKYWKGFLVHKRAGFIEGRQRSRLVHVDQGELYKISRKSRSGSESDGNSGKLFPWHATVGASLVLAILIGGVPPTVFDLLIWREGDKIFVPAHVYQSGGCAVGIVALAVGRVRADFVIVFALDRPQFYMALCCEQCSWASRISAAL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5704266996236562,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45910013692867324,
+      "comp_score": 0.8301886792452831,
+      "diversity_score": 0.5,
+      "length": 159,
+      "created_at": "2026-07-28T04:37:41.954433",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MSHSVRDVESKETCPETRWSFVKCCEFTLRRNSSSCVNPTHESASDLLDCRLLDSLESNGRKRNEHITFHCITECSATLHSRAENEITAPQKSKPFRLRTADEQPTRYLKDKVVLVKQEKSPTFAEGNIRQRLAIFTDVCSIEKQKMNAEAIAHGWTDSTDLTFSWVPTNISFQSRPV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5651287773727385,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45820964985832624,
+      "comp_score": 0.8146067415730337,
+      "diversity_score": 0.5,
+      "length": 178,
+      "created_at": "2026-07-28T04:36:40.397104",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MVEATHTMGRVESLIVMPMPILGRCDRNFVSKTRPNIRGQAAYYRVMLPALGIWYNRIIRWMCTSEICEGGGGNLARNPGKEDKRRPLVRKRN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.557277613198935,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4366638713901837,
+      "comp_score": 0.8387096774193549,
+      "diversity_score": 0.5,
+      "length": 93,
+      "created_at": "2026-07-28T04:37:39.478620",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "FKEVIHCLFALSENGVFMKLNSIELDLMFRESRTERTCQPIGVGTNDRVGALLGVVLALCITNPIGNKSQLD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5550095687314177,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4178708124734539,
+      "comp_score": 0.875,
+      "diversity_score": 0.5,
+      "length": 72,
+      "created_at": "2026-07-28T04:36:16.434536",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MEQNDYQEAITNIVIATLGRPIAANNWAACADGMLKVRNKGRYMAEGLRNNDPQAPLYEEHGRSWRADSVFESNRNPIFEYIAPNPFAGSFFYVSEDHQICDLF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5526098313808445,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4103217371374702,
+      "comp_score": 0.8846153846153846,
+      "diversity_score": 0.5,
+      "length": 104,
+      "created_at": "2026-07-28T04:36:35.438556",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MAPAYELVAQLTNNILISNVMNKLLYMDAVAFKFMGCLNASREKKVNKIKGSWLAQDTWTNQKEGRDRFGVNPAKSAWDLRTATTTFKLANDRAQCGPGGLNEVAQDYDSDAKGMVDTMHFSQSGKVIGLVCALDKQIEDAVKGYYGVENGDAGPPA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5511726798822121,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.40795369191544395,
+      "comp_score": 0.8853503184713376,
+      "diversity_score": 0.5,
+      "length": 157,
+      "created_at": "2026-07-28T04:37:49.751348",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "LQWIGGYSSWTILSPNHGEQNICGSNNCEECRSYIQQRQNDITLSSLAVKNINCLPNASGSMKIDFPIPQLPVVKPRAAKEKQDYPFLLYSSTVSTNRNHRDDSKKSKGGDSAIAFGPTNCKYDFDQPLEKYVVTTVVTVVEYWPQRRKTCDAT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5505424203748925,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4330568899604216,
+      "comp_score": 0.8246753246753247,
+      "diversity_score": 0.5,
+      "length": 154,
+      "created_at": "2026-07-28T04:36:03.154688",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MSPGQIRKSEKQGWMMRVLVVPLAARAATLCSRMLCRRVMCTALSAGMRFPQVPLHGYSCLNPKRCAQWWRAVGTRLSNPCAGGHA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5472443466592891,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48775770452988143,
+      "comp_score": 0.686046511627907,
+      "diversity_score": 0.5,
+      "length": 86,
+      "created_at": "2026-07-28T04:36:23.917861",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "MASAMYIDVRTLKKACERIFGKFVINEFASLVWWYRTSSCTAIENPIYGWCRDTPMTWQPNYGKQWNPMTKEKIDPLYRDVHSPKIDLLVGEDGGVELPWSDNWLVDKVVEQLKISTSLLADDELLVC",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5269870052623109,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43475822180330126,
+      "comp_score": 0.7421875,
+      "diversity_score": 0.5,
+      "length": 128,
+      "created_at": "2026-07-28T04:36:22.835120",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  },
+  {
+    "sequence": "KRICGFCGGQPVCLIFDTCCQENFITPHFNRGLTAVVGSGIDDAYIKITELADNLADGNDHNK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.49825510191218664,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.38526239048679733,
+      "comp_score": 0.7619047619047619,
+      "diversity_score": 0.5,
+      "length": 63,
+      "created_at": "2026-07-28T04:37:13.550589",
+      "target": "enzyme",
+      "target_name": "Industrial Enzymes"
+    }
+  }
+]

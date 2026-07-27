@@ -1,0 +1,2162 @@
+[
+  {
+    "sequence": "PQGYSLPPVYIQKATGIQQALGTVPPAHAGQKQMDVQTAYDKLTGYAPTPEQQANIITAIMNYSKPEVLQLAKNIISVFPGYMKILQAKP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.724432439358089,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.6063320562258414,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 90,
+      "created_at": "2026-07-28T04:32:26.901858",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "AERPLTEESVVEVPVADEPLAEGNNVVAVVMDSPKDVMKSKMEAVAQNLAAEKANSSGSGSKHKQRYLDQSNSHTDKQRTEGDANSAMAAGTTKVSVSARRPFFELVSEIDVDIQPSLLRAGEKLYLEKVPGKALRS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.7045693431108835,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5779562044441193,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 137,
+      "created_at": "2026-07-28T04:33:10.622843",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MLKAVPVNDLVIVNDSEYTLDATSYDSFLTSVKSFDGVWVENVASKNPSIGTTFFQNGIVKDVYMNSVYHIAGTGLASYVQAASINFVDVTSVTLPANNSSFQKSVNYYANSGSMTDVLVSLVRGHAISTATALYESNNIFTAVQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.694880690229773,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5729822668307102,
+      "comp_score": 0.9793103448275862,
+      "diversity_score": 0.5,
+      "length": 145,
+      "created_at": "2026-07-28T04:34:21.835660",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MQQLLDIFALQAQAGMSRDDFFGKDLVLQALNTLWDAFKLSYRTAADLEARPGAEGQLLAGFKGALSLLVEGLFARGQPETGAVVKTLRQWYLRRVFR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6906311069967292,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5842835056221498,
+      "comp_score": 0.9387755102040817,
+      "diversity_score": 0.5,
+      "length": 98,
+      "created_at": "2026-07-28T04:32:51.731220",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "NFPRSTRGSVLAARYKEKLDVTLVGGFEKEMALANVRARAGRGGSGGASISLDDLQGTLVVVFDAFNNRVLSNDPLISGVPLVSSMDVLSQAIEGQQQEAQLHAEPPILFHSFTFLRILRNHKMHGSSLLEHPNRGLVYAALVLGTENAMRDRGRISRCVVVEESE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6833567727216626,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5553977992409295,
+      "comp_score": 0.9819277108433735,
+      "diversity_score": 0.5,
+      "length": 166,
+      "created_at": "2026-07-28T04:33:57.637358",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MFHKLLTVLVHDNVLRVDIVIGMDASSSPAAGHAGQAHSNDQSGNEGLLGEGPSGGSGGAVFAPKI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6780020753522065,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5400029647888664,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 66,
+      "created_at": "2026-07-28T04:33:52.404461",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "AGDIFARFMRRDSKSVLASLDFNVLRDIGSAAAFDLGVSSDQGQRKNLNAHLSAAVRLDLSSFLIASHALRLQVVEGYTGGIELADGSFKLSADDPNNVKHTENHGRTHYASSIGARMVYLKSDDMRVMAGYLLQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6733497543776195,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5333567919680278,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 135,
+      "created_at": "2026-07-28T04:34:16.684062",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MISDAAARDAALEALHALETMPVEAPGNGSRIPGAGRGNSLVLRSNGETGLRNRCSEEITVALLMHLDDIILSLLSTSNSVGNDSQMIQAILPKAMYVPVGRKLSFTRIVEAGLAQGRQSTRTRALTRSAMPER",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.672971372277027,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5424111288392497,
+      "comp_score": 0.9776119402985075,
+      "diversity_score": 0.5,
+      "length": 134,
+      "created_at": "2026-07-28T04:33:54.081502",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MIVKKLQGVQYEDFEQSLYSRYLKGGEQEINPVKLIETTDSREQVKKEDGSQKDSKERLLTSLLELALNGAPVLPGIPN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6723383402734209,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5319119146763156,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 79,
+      "created_at": "2026-07-28T04:32:36.878110",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "NLLYVVIKEPSGISLSQGFSELSIDNLRCFISQEWTAEVFEKAAGLALSSLQPSYKNPLYASAVKQKGVLANYLISALSQVPDQYFLRSLEVNEIVMENRLAVFQKVTLYNVINQLGINIQGYSIQGGTGLGSFQQALQVVMKPAGVSVDLL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6718881919196045,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5481861388325177,
+      "comp_score": 0.9605263157894737,
+      "diversity_score": 0.5,
+      "length": 152,
+      "created_at": "2026-07-28T04:32:59.136050",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MDPRVASLIMLSNVVFADMSFGFSGAALLGMAVFIMEPVIVTSKATVAGLLALPSNH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6716608621479259,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5309440887827512,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 57,
+      "created_at": "2026-07-28T04:32:35.839279",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "KNLVIDDVDPAAEVNDKKNSAPELREKFLTGENLLWALQEEDKALEAAEETRRPPAAAAADIHVGQTMEGKLKMNKK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6700420734968713,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5453291216931186,
+      "comp_score": 0.961038961038961,
+      "diversity_score": 0.5,
+      "length": 77,
+      "created_at": "2026-07-28T04:33:52.921303",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MSPDEVDQNVHVENHRPSSADAFDLLRALYRDPGNRVISRFDRTYIAIPAILRELIARG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6655447998707342,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5222068569581919,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 59,
+      "created_at": "2026-07-28T04:34:07.559518",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MVIHALLDHHVERIAAEAPNADDLLDAERSERIAKILGWTLASKLFAQNPFQAYGNRRVHRGEAALQLQLAVCLSTGEADVVHGNRPRAGHAPLEPGFSDLLDRSDQALEAGHTHLWVVFRLRLQILPGKIHAEGIDRKHPVQSVGRNDGMRA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6655175693786952,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5473780402888925,
+      "comp_score": 0.9411764705882353,
+      "diversity_score": 0.5,
+      "length": 153,
+      "created_at": "2026-07-28T04:34:00.637509",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "RLALVSSRGFEDGGGGDNGESQQAEYTTVSSNPASEHANEEDEAGDDSLNTSLLVSLSSSPLVLLSSESNVLFIYHFQRWGEGSSKAPQGIRGGQEINSRKKLIMGGERSPMAKQLTKEKTAHSQLDVNANLNT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6617430015178856,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5263705991833334,
+      "comp_score": 0.9776119402985075,
+      "diversity_score": 0.5,
+      "length": 134,
+      "created_at": "2026-07-28T04:32:57.675459",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MMNGSMRQRHPDLATLEGFIGQEAHLLDQALSSSVDGAHPNRGNTGRPGNPYFLRHHPFATPV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6602780396848587,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5146829138355123,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 63,
+      "created_at": "2026-07-28T04:33:11.671822",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MASRVSEAGKPSGAPSEEALRQRFAKDPNKALAMEPGWRGMQQLARFNSGSTNPVGVNVAPPESINVLEKRVGNVEGKGRYGDIYFQIYEPAAEDPRGILTLLSELAETAEKVPTFEIYHTAPAAPANTDCEGYRVLCNGPESVEIKISSVQATDLIGLSPNPLLDLISATLG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6586198432316533,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5346096852111977,
+      "comp_score": 0.9479768786127167,
+      "diversity_score": 0.5,
+      "length": 173,
+      "created_at": "2026-07-28T04:33:30.703452",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "QVKQYDLNSVSSDPDVERKFNDLHTTLKCYEHLAVLRPDGKVSNILVPDRDQLVAELQQSSPVTNQPLAIGPLDLA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6574402751917563,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5275462577927346,
+      "comp_score": 0.9605263157894737,
+      "diversity_score": 0.5,
+      "length": 76,
+      "created_at": "2026-07-28T04:33:20.169559",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "DRARLDGDSEAPVSGLLLHVVSFGYASCSSHSDASSNHISEGGRLGDGLPPYEDDNRNPDDGEEDRVTIAQVREAGADIVLGGEAEAEGQK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.656064322264809,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5227920459355986,
+      "comp_score": 0.967032967032967,
+      "diversity_score": 0.5,
+      "length": 91,
+      "created_at": "2026-07-28T04:33:35.196890",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MSEEEGEMLFGELAPPAAEITNGSILLPLQEADVRAYCNTAIPGSFVYLTSQTEEGGSVAQAMEDAYTPYRPMLAVAMGVIKHQGPTQTYVHKGDIIAMHMYQVSRFAGGEKVSDLWTNVAAYCKTEAETAQYHEEVAGNAIPGVNILDLVNSFATGGMAQVRSVFPFVAAETADEE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.655192353466364,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5292094153635709,
+      "comp_score": 0.9491525423728814,
+      "diversity_score": 0.5,
+      "length": 177,
+      "created_at": "2026-07-28T04:32:49.337802",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "VRLGAFIRSKRARGKPEPFFAASRVAGRLFAAVAAFYSASGRGVPFVWTGFMLRRNSPLHFSASRARVKPPSPLSPQDWLFVSCLGMSRARSAVAGVPPSQLPHGWDLGVSGRTKSSFSAAGLRCAIDGLGLKGLHQRVVLVSVVGDFGPIKGKVNTKFNL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6541110002120196,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5458018725300369,
+      "comp_score": 0.906832298136646,
+      "diversity_score": 0.5,
+      "length": 161,
+      "created_at": "2026-07-28T04:33:16.917411",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MFCLKRDDDALDIRCVQDALTAVPKLPPEIGYRAAQSGSLGIATLILEASRLFGIGPDKVLDVSVNPSNVINAGYYAAGITFLAQAFRGLRETEHAVLPILLATKPDPLWDRSIIACTATILLGELALTHEHSRREQSTGGEHNVYRREKNGP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6517618987591511,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.53613044360551,
+      "comp_score": 0.9215686274509804,
+      "diversity_score": 0.5,
+      "length": 153,
+      "created_at": "2026-07-28T04:34:23.393346",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "GDGPLVRDVRQLTDTEWLNLAANGDKLSAAYEIPFRYPTGGTLDAIGPVLELHYSGITKEPASDAYVVEVSGHKFEAKNDLGETPLILEKFKF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6513800620054342,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.515796401943247,
+      "comp_score": 0.967741935483871,
+      "diversity_score": 0.5,
+      "length": 93,
+      "created_at": "2026-07-28T04:33:28.834894",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MVNDLEDLLARAHASIVIEHANGGFTTEEQIDAFSILNACSTQKWTQPTFHQQRIINFKTSEELAAECLERNEWAILEQLRAQGKLPDDNHN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6504246145516575,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.556507213334666,
+      "comp_score": 0.8695652173913043,
+      "diversity_score": 0.5,
+      "length": 92,
+      "created_at": "2026-07-28T04:33:43.508815",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "VSDKPGVNPLFTECATGRLLVSLLGPGTGVNGIGISNLERVKDGSAKTSKPTDGRSQRIRDTRRKKKKKKDEKQKYADNVYQRVKELLRQLLRKHPDVITVIVEDGIYDLPPVLGNRADLI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6487199524063934,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5087970984790271,
+      "comp_score": 0.9752066115702479,
+      "diversity_score": 0.5,
+      "length": 121,
+      "created_at": "2026-07-28T04:33:21.218900",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MLLAHSALLGWRRRLGNAGLPTQSASPKLLNERDGTLFDVAEAVPGYKLRALSPQLTTPKHPETAPLQIKCGGASAKILIPSV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.648570882511276,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5289394707131827,
+      "comp_score": 0.927710843373494,
+      "diversity_score": 0.5,
+      "length": 83,
+      "created_at": "2026-07-28T04:32:53.085796",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "GLYVATQDDVDGGNYVQQGGVLASKSATQAIRWAIASLKERLMPLRRRVERRDWLDAQVLAGHRAVTLMRQADALAQQVATQKHAIMRRTGASAVIRYVDSPYILQMPDQSVIPWRKGTRVLYLLGGPLEELHPDVFEAVRSHLHSTNILPKVYTGEVTTIKPAPARSQRPMED",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6474192184870471,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5184806569519391,
+      "comp_score": 0.9482758620689655,
+      "diversity_score": 0.5,
+      "length": 174,
+      "created_at": "2026-07-28T04:34:09.789327",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "VIQCSLVRYIPVAFEGTYTDARGECVALYRGERADEGSTVTVKLGAKNYHRQDVSVDSIPAGNRLEIGGHFQPKKGLLSHLYIGSDAKTPPFVRGDDIAFTRKNTEVSYVEIVP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6470746705515704,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5183773489082586,
+      "comp_score": 0.9473684210526316,
+      "diversity_score": 0.5,
+      "length": 114,
+      "created_at": "2026-07-28T04:33:36.101714",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "GELRHLSRTPSPPPAGTFVRGQGGPGGVHICRTHSPISLPSSGAATLTKKHVAPRPKIYINVLLQTKSILAHNYEDVRTKLH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.645924575456819,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5098574074470237,
+      "comp_score": 0.9634146341463414,
+      "diversity_score": 0.5,
+      "length": 82,
+      "created_at": "2026-07-28T04:34:03.492639",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MVDDVLPIGLELALYAPPFSMAHLPVAESILKPQEKPRTPEVKTSELRNSSKAQDLMAQLVILEPKGQTFGKGFSLSNHDKIEPDSPPLDTQEIQAVPLQFTPDSPLLLVADSDVEITRSLEQLLESVRSLEGGVFRIETAKRGTDALYKKKSGATGATCVLQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6448002422428488,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5004595923364099,
+      "comp_score": 0.9815950920245399,
+      "diversity_score": 0.5,
+      "length": 163,
+      "created_at": "2026-07-28T04:33:26.066584",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MSYNKKELQQEARQKVIEYSPNTTPKLDPETSQWYTHLRDENLHTPHHLLI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.642610063134595,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5146530313687492,
+      "comp_score": 0.9411764705882353,
+      "diversity_score": 0.5,
+      "length": 51,
+      "created_at": "2026-07-28T04:33:11.294875",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "ARNLTVQILDGVLSRANETKGTVYAISEDVFFAANHGPIDPPKDVVYELEQVFQRGGIKAVRYPDEQAYKELTLDVLYISAETPSGDFMLYSRRMVGT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6415158858177501,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48787983688250025,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 98,
+      "created_at": "2026-07-28T04:33:19.576356",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MPFTNTSEEEDVFNILVQNLLNHDPGGISVSASASSNSVSIESLPNAHCGKGCHIKRNSFMSTAQFINKAQRALRYNRTVSISGSNDTGGFSGRSDSKAIIFGKPAFGAQSLQRRLAANSQGSTAHLAMNTTVQVRTLGLYDIVFELM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6407083701046996,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5041007603812312,
+      "comp_score": 0.9594594594594594,
+      "diversity_score": 0.5,
+      "length": 148,
+      "created_at": "2026-07-28T04:33:37.991428",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MYNSGSPNLAGRTYSRGLDKGGTSILKLQGRLSAVENDKTTEVDSGIEISAPAILVDNIGDTQQSIAALTLIGQSIDLYDETTGTALCVWQDDEAFSSNVQRLVGKIM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.639271816279733,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5084835470662852,
+      "comp_score": 0.9444444444444444,
+      "diversity_score": 0.5,
+      "length": 108,
+      "created_at": "2026-07-28T04:32:51.057514",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MTEPPDRDEQSARLINELPGQNSQGASNDKQIFIPDADPVRPRTNHFTIDEIKKAI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6387373381653718,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48391048309338847,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 56,
+      "created_at": "2026-07-28T04:33:13.207771",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "FGVDPTEKGEPQRKAKDLPLSTHMAGLSSQEDEVSVIDVDDVDDSERTLVNGAVYSRAERVQHVNTGLSGSDLGLFR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6373619998327907,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48194571404684394,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 77,
+      "created_at": "2026-07-28T04:33:36.611858",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MGKSEFPAESFCTEPEALIEIMFAYYDLRSDVHAPGYHRDPGVIKWDDPDPTAVPIDFPANAMDAILRQHKFVYFADDGSIFKIVCEGDNWWCQDIDGSEQPLIVRSMEDFELAAANVAGEPISWSDVGLTG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6359901905680065,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5481678047075418,
+      "comp_score": 0.8409090909090909,
+      "diversity_score": 0.5,
+      "length": 132,
+      "created_at": "2026-07-28T04:32:47.391690",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "KTKVNHGPIAPGTRKGLIIFKCHQKESDPESMQDDSLREYRIDSTYRPYISEAIVEAEDPVEQQETRKDWDAEMDFLRQADSFQWSYGKFTHSSSNVSQSFWNDIISAPTSSQSLNVGTGESAVADRRARLRRILQGVDSNGTDRVQSGVVDLRDNENYGFDEDDEYGY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6344805093041481,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5082604063601102,
+      "comp_score": 0.9289940828402367,
+      "diversity_score": 0.5,
+      "length": 169,
+      "created_at": "2026-07-28T04:32:29.640308",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "PLCSALKKVSPLCEPYLDTLVGRTILEARDADAEGPSKAYAIGFQTMFIAPKMLMYDVDGERESIEESDDGVSASLTDFEMESVDMDMGMENVDTGKSNHKYQIISVASALNEGTNQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6324557505298857,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49691480844928726,
+      "comp_score": 0.9487179487179487,
+      "diversity_score": 0.5,
+      "length": 117,
+      "created_at": "2026-07-28T04:32:50.268764",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MKDVVIALGAEVGLFAPPGPDGTKPAQLPIDEWEQERGLRAALGYPHTDDAGIKFIIDRLMTDPANGNKGPADPLWVVPGRCDEVLRTDDPGDQARAPRDEDVAEPNNMPADETAA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6318153064342431,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5072730978617266,
+      "comp_score": 0.9224137931034483,
+      "diversity_score": 0.5,
+      "length": 116,
+      "created_at": "2026-07-28T04:33:04.256817",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MIAQREIIPQLFHRFYTLHLGPALNGTHGPGNPYSDVEDLAQESLEKAAGAQRAEGARLKRDGKRYSFRSFYRGVIGRISAASVFDREGTMTHQVYDAKILPDV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6315052472935867,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47357892470512397,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 104,
+      "created_at": "2026-07-28T04:32:55.324123",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "KAFGACTPVIAEERELVPLMIADNTARGRIAIQLPLTLGVLLPLEAVVAAPHDALDANFKPLSLRAGAGRHETPVNV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6294894105737896,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4873967460887161,
+      "comp_score": 0.961038961038961,
+      "diversity_score": 0.5,
+      "length": 77,
+      "created_at": "2026-07-28T04:34:17.206173",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MESLLITSKNRGDLCLSLKSNSIITIMIFLNGYLKYVYIMKTTANPERSTEDTFVAHLKGVTFLRADYIESSFKASTIIQASFRPFLPLNIAPEPLALRSLGSTIRQFFGIAYTIPHTTEDKVKSAELTKSIRLEKIRAVTLAPYRLTFRNVISPDGLKHNASPFEMDDAGPSRPSC",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6291008653448016,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4846719383860363,
+      "comp_score": 0.9661016949152542,
+      "diversity_score": 0.5,
+      "length": 177,
+      "created_at": "2026-07-28T04:33:48.487912",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MLAEVFPPSPSRRAAAGTSPGAEIQGHDNLDSIEFVELSRCLELQPAHNSELAQIYGYVASIQLKVNNTAVEITNGVERMLICF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6270670434980472,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49785087846659815,
+      "comp_score": 0.9285714285714286,
+      "diversity_score": 0.5,
+      "length": 84,
+      "created_at": "2026-07-28T04:32:36.381280",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MTISESISIDSDNEYYLSETDIINSDTGHAEIPKFVKVVLDSYADLQKWNADPNF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6270279003402386,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4905593381483929,
+      "comp_score": 0.9454545454545454,
+      "diversity_score": 0.5,
+      "length": 55,
+      "created_at": "2026-07-28T04:32:33.078251",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "SGSLHHEMKRTDAVLQLMDKLCSALAKYSGHFYISRDGRFITLHPGIVMQNPLKNDGLSEWLMRLVHETNMKITAEFLKTAVDRCVDVKDNDLLIQMKSYIDEN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6248221813522454,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.501119599733977,
+      "comp_score": 0.9134615384615384,
+      "diversity_score": 0.5,
+      "length": 104,
+      "created_at": "2026-07-28T04:33:49.998914",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MEAAEETDETKCKRSTNRSVANWLLDALLFVARYLEETRVLFNSLTKKQYSDARLTQGVDAERSTVEGIFAGYANDGEGSSERLKG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6247679245448665,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4938545101471514,
+      "comp_score": 0.9302325581395349,
+      "diversity_score": 0.5,
+      "length": 86,
+      "created_at": "2026-07-28T04:33:14.752714",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MPMELAGFDRTLSSYLLLGSMDHSEFLAREDLFSYRPGDALQSDYDADKGDLPPTNERKLLLLPVNRTAKETDILLMEHSHGAVDLGVLCLSRITVAATPRSQPAHRRIPKFITMISQLNFGEL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6239443624415961,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47314632422532177,
+      "comp_score": 0.9758064516129032,
+      "diversity_score": 0.5,
+      "length": 124,
+      "created_at": "2026-07-28T04:32:39.837018",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MGFGFAVENFLETILFPSRSTHKKTCPEESLWQIFCNNSQVFTGQDKADEEGVKNFLEKYNMEKSFARGEKEGVIVVG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.623415759100961,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5114730624519224,
+      "comp_score": 0.8846153846153846,
+      "diversity_score": 0.5,
+      "length": 78,
+      "created_at": "2026-07-28T04:32:24.998589",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MPARDNRSRPKGQGEEDSVKVRFYGQLTTSVRKLYDQALNPSDAVTPDSYSSYILHDNQSDDSGVQNPIASILKAVRNTGICSLFVVARLTLSSANKPQAVLMHIHASAASGIAGNNGKKPNLVQGLKVFLINCLRNACFIASFLPA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6231098537176832,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48782457236636967,
+      "comp_score": 0.9387755102040817,
+      "diversity_score": 0.5,
+      "length": 147,
+      "created_at": "2026-07-28T04:33:08.474187",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MGGGNIELNVADAMPAVKENKTSRYRCGNRYVSKHKLYRKQAERRVEFESALKEGMTLSGGRTALNAAGYNAMGALRRGSQYVAALRYVGAVAERVPGRWRLSHVPEASMKGRGIKLLNKQFGLDIALYDTRGEILDVGXLQSISRYASSNTAPGMKKMLGQASGPDFEPVVEQALSCQV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6226446917242304,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48234955960604353,
+      "comp_score": 0.95,
+      "diversity_score": 0.5,
+      "length": 180,
+      "created_at": "2026-07-28T04:33:51.955958",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "IYQPDPTGFKEISRTAHQTPHVIDTQVSRKLLAGAVDAVPEEEALVESDLGVYKSQPSEDGLADNLSKSFPYSVQVDEEKSAVMAGSGQANVSFLH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6221824083458339,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46026058335119135,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 96,
+      "created_at": "2026-07-28T04:33:33.022734",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MKVAMDVTAGMAVDDETTPGTEDAVGEVPRQKLPRAIREAQKDLADEKMQWNINYIFQKGNADIYTSPPRA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6209189969549339,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4765643618470887,
+      "comp_score": 0.9577464788732395,
+      "diversity_score": 0.5,
+      "length": 71,
+      "created_at": "2026-07-28T04:33:18.894341",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "ITVYARDIKYIFEPMKILGFDIDVQMFILVSEEGEFYRVDEISALLSEEMKVALGTEMLLMRLGIRIFVKSPTTVTLLNPGHVFTQKYAKSMMNSYF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6197898547276273,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45684264961089616,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 97,
+      "created_at": "2026-07-28T04:32:44.492712",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MVRAPYGHVHRGLVSGLLPTFGQPHGDIGFDCGNGEPRAFGQTHLNVLGIRNVGRGGNLVLLSELEMRVLGDEDNFEPEEGKTQMMIRAGLLKELISFVSSRIHGICNLPPYLTAFGDALNAFCACCVQPLFMHVESLKSVEESLEEL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6187606757219414,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4988086873247811,
+      "comp_score": 0.8986486486486487,
+      "diversity_score": 0.5,
+      "length": 148,
+      "created_at": "2026-07-28T04:33:55.983972",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "GAANQIRTAVTARDAVELLLNTLGIDTSNHRVDQIASNPDILPYAGNGLFMALIPKPLQLTAARENCIQAQPTLIVQADRGTRSSTVHNASHAHFDDMRQYVTELDDVFLVSR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.618726867976759,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46670209963810094,
+      "comp_score": 0.9734513274336283,
+      "diversity_score": 0.5,
+      "length": 113,
+      "created_at": "2026-07-28T04:32:46.241925",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MRKYRARENGIRGGFIVALRLGKIVITKKSPASCSPERLRPFLYGELNFYQADRLLSTSSSYDPKAKTLSNLVTKANQMNLDHWSDMSPWAPDDFRMWTEYQSFYGDMIDQIHSSKVDKLFQEVDSKSLASKGKAGPISTKEAESGKEK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6177149986963488,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4883943893169318,
+      "comp_score": 0.9194630872483222,
+      "diversity_score": 0.5,
+      "length": 149,
+      "created_at": "2026-07-28T04:32:43.819050",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "LIFSLRGSLYPDLKKRGFKPIRMRRLFFEKLAINLFMKAGSPQLANLPLQALRFGQGDAANLLKRVEPTQTTFPARQAPEQRWSLLNYAKSAVDIAPVALSVNDEISTASFLVDRLQAIHQHACGALGATLLLHCGVPPEDIVLEGNADIKT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.616771951406194,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4779072990013299,
+      "comp_score": 0.9407894736842105,
+      "diversity_score": 0.5,
+      "length": 152,
+      "created_at": "2026-07-28T04:33:59.114684",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MLNRNLYKLEKEKSNRNLGLETRTRRHMDARRHFSTFTLEFESVENCIIYFQFMQRSWVGFTILSWVSMPIPIVAVATRHFNASIHLGLLRSNLTAMLPKSLSPNISTEGLKR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6150193525879557,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4841616541395576,
+      "comp_score": 0.9203539823008849,
+      "diversity_score": 0.5,
+      "length": 113,
+      "created_at": "2026-07-28T04:32:25.864128",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MTPVDMPRTLSAPDKTATEDSYNVPVSNNLMRTQLNELMAQSLNDKLYIARLQSVNVVSKMVESLDGQYTMPWGQALRHACAEGERLVANALTKCAEAHELDDKRAVKVAIHHSVLKHVEIRGPGAPGRRS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6146321038522312,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47891827267875997,
+      "comp_score": 0.9312977099236641,
+      "diversity_score": 0.5,
+      "length": 131,
+      "created_at": "2026-07-28T04:34:10.948889",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "WNPTRKEARISTALSTATEGIFQIGNKGKDLLGALITGPATSTNLNKAITQYLLARQQQSRIKIINIETIW",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6134500224517163,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4840030501825324,
+      "comp_score": 0.9154929577464789,
+      "diversity_score": 0.5,
+      "length": 71,
+      "created_at": "2026-07-28T04:33:08.914037",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MDRENTVLYNAVLLIILSVERHGSLIRQQWTGKGRRELPGEVRLRSQRIRKLKGKFRTDCKQIRSSRFLTELGLEGEFLNMVENGWSCDIVSKYETMENKYNLIDEISEEGLFLKAEDMIHTELNNSGYTALVLSSENFLRYKECTFPLVYQYQNNIELSISVWEILGTLRPGEIAKLVK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6113912999112354,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4877018570160505,
+      "comp_score": 0.9,
+      "diversity_score": 0.5,
+      "length": 180,
+      "created_at": "2026-07-28T04:34:19.143634",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "YYKTTQATRRYLRWKKVRPIEVASCCTKSNRFDIARTRYAERDPPRTPRVRTDLFPAADGELGSASINIPARERHIRSMGDEVEARAALERRLELREIMALESTHADEGANSETTNTDTMEDVLRGSAHVVTFVKILHTHKDSKKKS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6108036216939826,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47024424090394024,
+      "comp_score": 0.9387755102040817,
+      "diversity_score": 0.5,
+      "length": 147,
+      "created_at": "2026-07-28T04:32:34.472820",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MLHCDVLEQNSEYLRSWEIVLGISTNLHSSAVTRFQSKSSHEISGSLARGAPRSAYVEYEDVVGLERFMHLEDCGRDFLEDQRQMYKTNEFDLDDDAPAAHTGEGAKAETEVTLAELLFKNA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6105876760752045,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47531260516598306,
+      "comp_score": 0.9262295081967213,
+      "diversity_score": 0.5,
+      "length": 122,
+      "created_at": "2026-07-28T04:33:14.180491",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MNRSKPPAPGLLAPLAPKILYEPVETPGSPPLRDPDEDGKPVSRIQWKAEPASLPGRMGFVYLDYQGSPRCRAAATSRATFSEIMDIEPAPDCAWENPGQSCAAMTV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6099550019393131,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5028729667223832,
+      "comp_score": 0.8598130841121495,
+      "diversity_score": 0.5,
+      "length": 107,
+      "created_at": "2026-07-28T04:32:52.534848",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MKALPNRNQEQVLVLLYIALVEDHYIDRRYLDQSDTSENGGEPFENTADDAGTYIVSKYILMS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6096619175554675,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4423741679363822,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 63,
+      "created_at": "2026-07-28T04:33:10.999051",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "AVIIDDMPTDADLKPLSEEQTLFVLSIRDYLDTLSRLGDIRAKIQYSDEYAEFKYLSQEVNNAGMRQADTSTGKARLHYWQVNVAGVGFLPGRKNDLQRLHTTLQKFDVVFKATGGTLMERSKLVCLQKHLSAFEIDRKLTDPKSIKSYESPKL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6092501352359283,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45848349560605717,
+      "comp_score": 0.961038961038961,
+      "diversity_score": 0.5,
+      "length": 154,
+      "created_at": "2026-07-28T04:33:34.526777",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MDENEPVARFGPFPPPTPDAKGGAGGGVRATFNWRLAAKRRGNDADVHTVPFKVLEMARCGAPAYQLRAHVHALAGQDNGTWYKPIR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6076302331675465,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48380673703738175,
+      "comp_score": 0.896551724137931,
+      "diversity_score": 0.5,
+      "length": 87,
+      "created_at": "2026-07-28T04:32:35.055006",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "ERHTYEVIVWQHKNQEMIHKIQNIGVGTDLLFPTVMFVENRIVNDEKITKEALPAPTTEAIKELFTSLESLYLQELTVAYASHPIFATKNIVTKAWEFPYGDLKRLLELSLSQVTDEETRGASNFVIEKVEVSIKNDDEINARGAG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6065958167911479,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4556065484491938,
+      "comp_score": 0.9589041095890412,
+      "diversity_score": 0.5,
+      "length": 146,
+      "created_at": "2026-07-28T04:34:20.471487",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "SRLAADSFLLLGTELRGGTCREIMSHLPLEHGSLGQVDKTYVEKPGKLKGLLDVENGFFKRLAQTAKGHREICVLLGEYEKALITLK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6064952112339265,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4674069520090576,
+      "comp_score": 0.9310344827586207,
+      "diversity_score": 0.5,
+      "length": 87,
+      "created_at": "2026-07-28T04:32:59.735211",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "METANEHGLALLPLGNAGGFPKKNPELIRKFRLLMRRLRPERMKGDGGLCEQSSKQKEAEAVVEVVPVNFNEIYEDKQKCDEAQLKGWGRPAISEREFDAKLNSDEKPLNWDENEASKIP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6045286881979091,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.477898125997013,
+      "comp_score": 0.9,
+      "diversity_score": 0.5,
+      "length": 120,
+      "created_at": "2026-07-28T04:33:27.036171",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "PNAFEQIASFTDVGEPTVYLKLDELRDAVTHSKYSTFPDSLGQFVNYFVTKQKTIGDPIWHDFDTKTLIAIASGSFAHPLVDTQLRFQGDCYSSDEIALARRPKAKSPWQQAFPKLWLPRAVAGFQLGYYDGKGVLSASASYFGVVSFQNSNRLKGQIVSGI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.604167772242632,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46627142066407745,
+      "comp_score": 0.9259259259259259,
+      "diversity_score": 0.5,
+      "length": 162,
+      "created_at": "2026-07-28T04:32:32.210724",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MAEKARRADIWGVRRAMAEIMVCDGGSGLRIDIKSSFLVGATIALRLTPDVGNGPIPGGDVDFSAGQTQVAGYGLQTIMPDKHLFGYRYPEDTQHNPEYIEAVVA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.603967633519261,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4587292723744544,
+      "comp_score": 0.9428571428571428,
+      "diversity_score": 0.5,
+      "length": 105,
+      "created_at": "2026-07-28T04:33:49.248324",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MLSHTVSAALRPSSTPQRARRRRLPLGGTHALNGPEAEPDPYCCPSASSSNIQKSSKYPMPLSDIYSTSVERIPVFWGQEGHRGSLMRMDCIETIRNTSRSRSPKWLQQPDLSSDVRPDMTILQGRNACRLTNLAPLKTAAGAPGQEDPLEDYPVQVDVCLLTEKKHFYKLRCPPLK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6039464183276824,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4923205491848246,
+      "comp_score": 0.864406779661017,
+      "diversity_score": 0.5,
+      "length": 177,
+      "created_at": "2026-07-28T04:33:02.255983",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MAIDSDDNELSVYAGLARLYKYEAINGLLVKPVPVVAPASSRGRIMASIYHTWTTTSAWDGQMHNVIDCVLGVDARHNFGAEMTTLISARDLPFYYRLDGQLTLEVGYAFEDEFEDGTYDVILAHIYTLKHA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6034484898556838,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46271862187175616,
+      "comp_score": 0.9318181818181819,
+      "diversity_score": 0.5,
+      "length": 132,
+      "created_at": "2026-07-28T04:33:42.890163",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MELLAEEIFNSHNEFNGISLLTSYLGNSVQVKWSSVRGEAYDAEALGLTTGKSVETKDDKGLRELHQFFPAGELTFVGGNQGFESGMLGHLVDGVQTKEEELVQENGFSQPAKGFPLNVKEGLVEVPAPMGRPLETECYIVLW",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6018444529273155,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4581793882977635,
+      "comp_score": 0.9370629370629371,
+      "diversity_score": 0.5,
+      "length": 143,
+      "created_at": "2026-07-28T04:32:38.845632",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "PLSQNLGGDGYCASGQIQGKSQANIPQTFLAKVVRLPALFQFLPTDLAGYHYASQMEKILKDTPLTATPEKWIKNVHYENLQCLRERWNNAFAKEATKGLLGKGKKELEEVDWREVDLSESSMSRVEKTPRFLRRGVSRGSA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6012465064095527,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4756237817923187,
+      "comp_score": 0.8943661971830986,
+      "diversity_score": 0.5,
+      "length": 142,
+      "created_at": "2026-07-28T04:33:39.747456",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MFSEGEELSWLIVSVPPDSREIQPPEMEGIPTMERDCSSYPQEIETTRTENYLKSESDSNPSDKSGDLVSKELLNLIMVTGSISKSVDLAPGSFSPCTKQLPSFLQYLKDYLSTIYIKPICVCPGGGVVNCS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6011857938779757,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48870697826723797,
+      "comp_score": 0.8636363636363636,
+      "diversity_score": 0.5,
+      "length": 132,
+      "created_at": "2026-07-28T04:34:06.655059",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MDLPMRREWLFAAGSQLGEREIVDSGQLLNPVLRIPFFDAMVKVLHELGQVVNVLKTVSKALSDEAGQIPWC",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.600880907589134,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4834012965559058,
+      "comp_score": 0.875,
+      "diversity_score": 0.5,
+      "length": 72,
+      "created_at": "2026-07-28T04:33:09.384974",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "ADDITYTHTAASEIGGGASVRRKLARDDSGSPKLTSKMAGRRLDQSIIYGAYPVAITTMRDRKTKEVTGRSGVAKVLRPQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5994516239905392,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4277880342721989,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 80,
+      "created_at": "2026-07-28T04:33:05.967374",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MKDAVTFLRQGVDDQETAIDCVDRKVKLELRTGSTWFLMSDQKPGVWVRNQADLQNLFRTEIVCVFNATRAKDGKVRTVRLVTDDEWDSVQSIVLTNGGFVGTGDIPPADGNFRQNTFFQRL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5985634267212017,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4792123894612015,
+      "comp_score": 0.8770491803278688,
+      "diversity_score": 0.5,
+      "length": 122,
+      "created_at": "2026-07-28T04:33:17.883005",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MWTYQWHNFRDSGQQGMLDLPPGRFGPEAAMVVDARRPGLAFIPLWYDVEDPWPAELGDRIDPSLFELDINHPEAPIDAFEEGGEVLLVDPFTGKSQSTDDWNEQLPDQENASAARANLSGFPVQDDVIYALSKTDPHDEPGDLDERQFVRKSAAPTNLSSMEHSEL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5983415818868938,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4646966995304642,
+      "comp_score": 0.9101796407185628,
+      "diversity_score": 0.5,
+      "length": 167,
+      "created_at": "2026-07-28T04:33:46.524195",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MDYARKEDVDILFSLLGRINAGGAMVAQWAAVGATRLHKIDEVPGKSAHIVQFKSGTAAFTLYFWVPARWPLWDNGNATAWLEELPTGQLEEVHHLAQANRDKVDTITAMRVRTVTLGESPAGVDLPYLPNLVCCSPVGEGAAFVAKRDAAFPAHEKSRDAAP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5947646071247006,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47630701981880985,
+      "comp_score": 0.8711656441717791,
+      "diversity_score": 0.5,
+      "length": 163,
+      "created_at": "2026-07-28T04:34:14.764041",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "EVSPNSPIHLMDAMHFVVGQSSRKEVPKNDSNDAFLDIQGLDAWAGYENQEAVMKACAQNGERYMAAYAVAGPGRVSLKLLGDEVNVDQHGIKPGNLIERLAGNKMAVGSSENGSSVPYEYDIMYISVGFDL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5938183015657253,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43922095028869856,
+      "comp_score": 0.9545454545454546,
+      "diversity_score": 0.5,
+      "length": 132,
+      "created_at": "2026-07-28T04:33:41.781483",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "SLYKDGIFSSQTRGFNAEFSHQPFSNILTNIAFVTIGRVTSNWGVNHAVMKDVILVNGDSFVTDNAKPGISHAKINSHINSYSVGEGVGVYKVQFLQDIFGGLIGIL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5926899596295723,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4301445351183476,
+      "comp_score": 0.9719626168224299,
+      "diversity_score": 0.5,
+      "length": 107,
+      "created_at": "2026-07-28T04:32:40.639245",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MGKHPQTLIDSASVYLAMKYADNVTASFFLCDGEMFEHIGEGTKGDLRAFPHQKGGYMDFVKEAVDLVDTKNAPEFWIGMLQGKTGDIPSELLGGIVLSRKCSGPVTVEKEGVTKCDRCVRKMQPLMKCAPSLKL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5919361323915162,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4741944748450232,
+      "comp_score": 0.8666666666666667,
+      "diversity_score": 0.5,
+      "length": 135,
+      "created_at": "2026-07-28T04:33:12.870556",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "KYRYDRIKHYKQESRNSMLAPSNASPDLVEELPNQNVPKTDRGKAHQAQTSLTPTKDKRRDLRRKKLVVHKHGFQWSGFDHGKREVDFSTSSVFANPQPTYQITLSSSDNIKAAPIVLDFPIIKTGPIAMCDGQQTERKPL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.590318796120141,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4329782193813564,
+      "comp_score": 0.9574468085106383,
+      "diversity_score": 0.5,
+      "length": 141,
+      "created_at": "2026-07-28T04:33:24.377353",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "AALCNALKQLPHSSVYYWGGIIPNKHVTIFKTKPTVLMDRFAVIVTARSAGRPLTVKIVPSEGDPGMISPAIRRFSISLREEG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5893796521598071,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44438057021108424,
+      "comp_score": 0.927710843373494,
+      "diversity_score": 0.5,
+      "length": 83,
+      "created_at": "2026-07-28T04:33:54.626941",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MIGRNIVVQPKDYTQDTSPATKCTSAAHLVFERIKGAFHIGRPGTPPILAHLKSAHGVRPSPLAGVDRNEAMHGQCGNLITLSSHVYSATDEHFPDCFVPAHLRRTMSKCLEQEQRTKRQSRRGNACAIGSIL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5874584112536538,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.458989996742599,
+      "comp_score": 0.887218045112782,
+      "diversity_score": 0.5,
+      "length": 133,
+      "created_at": "2026-07-28T04:33:31.874225",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MARKAVMGGIVALWTVTPLEIGADVTSAEEKANEMVTLSSYYIITFDEPEKMRPDALTQQGLVS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.586907047716809,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4299564967382987,
+      "comp_score": 0.953125,
+      "diversity_score": 0.5,
+      "length": 64,
+      "created_at": "2026-07-28T04:34:07.962092",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "VINNCTILQTTNSDFREGLEYSGQHDPGKIKALYWLAESGKAEEARRALTMYNPHNHTKFMDLCFDQFLIMQKATCRQLILLQQVSKTMSRLNFKKTREPFTISELKDIEKENVYEISRGDGAKAHLSGHLDLY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5863499113876296,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4474508328991724,
+      "comp_score": 0.9104477611940298,
+      "diversity_score": 0.5,
+      "length": 134,
+      "created_at": "2026-07-28T04:33:28.202859",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MQTDEERWVNAAYGQLKEQIGKPFSQELHPQNTSGEGILENHLYVLSGDAAHINEALPVAPDAFSALSLSDITNTFLCVAAPELEDMKRNDNRGIFGLASTHVRECDSEGREMIANIANSFKSWVIGTYNLADEGVEK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5860340500338719,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44588715222230146,
+      "comp_score": 0.9130434782608696,
+      "diversity_score": 0.5,
+      "length": 138,
+      "created_at": "2026-07-28T04:32:56.544582",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "YVFLVHCTIRQLLNLHQFAHLRFVPITPRTFREDRLRHNIKPDSNSPRYNFRIGERASLVNKDKKKSERRRERQTYEWFLLD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5856661181432132,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43945333950772636,
+      "comp_score": 0.9268292682926829,
+      "diversity_score": 0.5,
+      "length": 82,
+      "created_at": "2026-07-28T04:33:15.287801",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MGQSIWDRLQTAQENHLMLEDVDVGIGNSADCIYLTIGFQGMANDTDLQDQCVETDQELSLIVSGEESVFPHTAETTPVISNETCAIYGQRNDDMANNMAHKPAYISGNQEELFPGGMLSPMSDVADQQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5849614660367566,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44695491825848943,
+      "comp_score": 0.9069767441860466,
+      "diversity_score": 0.5,
+      "length": 129,
+      "created_at": "2026-07-28T04:33:07.094788",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MERDLKSIKRRFKICNSRNEKDYRTNAEESLIGKSLSPEIFYKILGVGLLEGPQDRSKRYDICTPNWVSFLAKEVDESAPVFRDHRDTVSINLTLKCYDKRALTNVPLV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5846172118081785,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45377819249136897,
+      "comp_score": 0.8899082568807339,
+      "diversity_score": 0.5,
+      "length": 109,
+      "created_at": "2026-07-28T04:34:02.959845",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "TTKKVSQVTPHLNFIYLNKQLESRLGVQTRDQLVLWAEFHEDTVEFKPLFKFGIRLVRARYYAEEITGI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5836982642027078,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.42391677494796753,
+      "comp_score": 0.9565217391304348,
+      "diversity_score": 0.5,
+      "length": 69,
+      "created_at": "2026-07-28T04:32:26.290700",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "PKGFEEVSVIATHRNPAFRFIAKELARKQFHFRQWGALSNQELGQLWRPEGNTIFTDSAYVDVVTKWASGKYL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5814467812674153,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4549044037675405,
+      "comp_score": 0.8767123287671232,
+      "diversity_score": 0.5,
+      "length": 73,
+      "created_at": "2026-07-28T04:32:35.506640",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MTSFTIVWLFKYQMNPLHLIFQALKKGVASTHLDCIHWKEFNIALAERAIGTSRVEVLEGATFDVTGWLARREEQQPFDLFE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5765547964431577,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4577960506679256,
+      "comp_score": 0.8536585365853658,
+      "diversity_score": 0.5,
+      "length": 82,
+      "created_at": "2026-07-28T04:33:00.270009",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MYTAAILKESRLANAKATMGETRNLFLKTTTSDGKVPFPEFIAENEVQQIQAPPNVGTTLPAGGLMDTLQVTKKTITTCWLPLTHGNGLLGENTLCHHMTSSEGDWTGGYWVFPEKSSRPYELV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5749084704007827,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44456970425918285,
+      "comp_score": 0.8790322580645161,
+      "diversity_score": 0.5,
+      "length": 124,
+      "created_at": "2026-07-28T04:32:30.626983",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MNSPGLHEAKEYLSPAYLNSVRTLTAVMRDDNGGIYNRWSMADKVTGRAQNKPKSLGYPWIHTDILPKFGVGGAPANPYREIWTLARRATTLGHLFPSSPYMLDGASPPSPSCQPDPNSWGWQEELQRMKNIGKECGTVLPQGRYEFEGLKLTF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5743135982129789,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45031812731724263,
+      "comp_score": 0.8636363636363636,
+      "diversity_score": 0.5,
+      "length": 154,
+      "created_at": "2026-07-28T04:32:54.545125",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MLEPARGASESRIVYTSRDFKACGTNDYLEVLGSPYLMEYKPPRLGLLKWFKDDIRGSVQVIFEEEEKIGVSSKYKIQTVWVIIRIMPEMKQDNSKD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.571314298643739,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.42735621455732953,
+      "comp_score": 0.9072164948453608,
+      "diversity_score": 0.5,
+      "length": 97,
+      "created_at": "2026-07-28T04:33:04.934796",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MDPAPAPQVRFSTIFHHETTRLKRNKLHDVWSHHSLLFTKDWGTKWVSKRQENLQLCFLFTATNTPGRDTLILGAHRDIKLEFNICMYI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5667808447495263,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4533466321461933,
+      "comp_score": 0.8314606741573034,
+      "diversity_score": 0.5,
+      "length": 89,
+      "created_at": "2026-07-28T04:32:37.497692",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "NSSRVGLKELYILYGVLTDPQWHMVKLIDSNLSKIDLEYFPSISNCDLIQRILCCTFPLIMIGILQRLHRFKNPATIDQHAAALVRLMAPENRLADLICSYAGLAAINPKYTWCILCDAHPTLHHLKADLSL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5642291504971578,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45539229291801775,
+      "comp_score": 0.8181818181818181,
+      "diversity_score": 0.5,
+      "length": 132,
+      "created_at": "2026-07-28T04:33:03.369758",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "ESDSDQSLDPSMNSLQREWRRVTFVQEKKWAPADIDEIFWRQRERNEAELAYWYSYKNPLAQDNVIFTDHQTLLELNKLLMATRHLVAKAPLHQRLGSQGFTVLLQTALLSMVDTTHICWLRFQSYSKLMLCSMDTNDPQGAQLYKEMTLCAISYLMAESKGDAKLIQIMGSGQPREFT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5639414358547123,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4345212850598046,
+      "comp_score": 0.8659217877094972,
+      "diversity_score": 0.5,
+      "length": 179,
+      "created_at": "2026-07-28T04:34:05.486160",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "HKVDDYLERQSAFITMHFQGNESLNFKGRWLFYNQASLKYMAALRRTGRLFCLPMRQAAVHHWLSNEGPEENLNVIRKHFSEYITYWEEKGPAALEDTEEMHPQAWSGTVCKAMMVPKPPLPKQRDTAWLPEGVPQTGGLKLVKDIALVPAQN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5634602397248772,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4351953004473036,
+      "comp_score": 0.8627450980392157,
+      "diversity_score": 0.5,
+      "length": 153,
+      "created_at": "2026-07-28T04:34:02.131272",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MPVRVKGDRAVVGCESQEIAFKARIRIWTSSFLKHEQLRQFSDRVQFGHQNLWERLGRKLAQRDPKIKWARRVGRCMRTGYLHLRTMYDSIATYLHGGLVSE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5631618052565728,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43897064616485193,
+      "comp_score": 0.8529411764705882,
+      "diversity_score": 0.5,
+      "length": 102,
+      "created_at": "2026-07-28T04:34:15.476852",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MWARQTCRHREHKENGTTPHEEATKANVTCSYGIKLMSWQIIKIMSGTPLEGVELIGEESSTNSQSTGDPGNLAMVTQEE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5621729938480734,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4388185626401049,
+      "comp_score": 0.85,
+      "diversity_score": 0.5,
+      "length": 80,
+      "created_at": "2026-07-28T04:33:05.447822",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MGLMLVSMELCKTGDSEFVKWTRWTTMQQMDMANYAMLLRHPAVSFETKSNAVTQVYRGGDFVDGGRQGNRPVSYKGLSEEVSTRLCANGRKFVAAEFPAGKAVQFFYSDWVVAAFKGKTLNIILPVLERRAISWEGKNHAKHLCIFYKLTEQPALTPRFQALMRAQMAPIKF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5617567768657764,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4259613740526782,
+      "comp_score": 0.8786127167630058,
+      "diversity_score": 0.5,
+      "length": 173,
+      "created_at": "2026-07-28T04:33:23.090415",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "YILQAAQVSEVPSIQEVMCQLFAYLRLLAWLDVPWLGVGGTKQYKWNKEYVCYLTLDLKPFYCPKGNPREAAGEDTASHWREELRFLYLVRWGGWQGYENQEDLLAMPEAEKQKMKQLKKEQMRELQGFQRVRGRFKAS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5604139929429736,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4552676774827681,
+      "comp_score": 0.8057553956834532,
+      "diversity_score": 0.5,
+      "length": 139,
+      "created_at": "2026-07-28T04:33:44.760749",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "FCAHFLHKRHQALWIPHLNFLSLSREKDSETSNEQAQLRNPMIVMGTPDGFKGGFVRGLPFGHLVTCSSTLRARKIV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5583619244758328,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4191812279153827,
+      "comp_score": 0.8831168831168831,
+      "diversity_score": 0.5,
+      "length": 77,
+      "created_at": "2026-07-28T04:34:11.451121",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "LKKGDGFCKYELVIWVERGSIVLERVESGYYRIPKPNVTGGHGRGIYEFPNLYRVPAIHGKWEIRLASADQQATPIITITSKVPRADTLSTDWYNIEPSSKRRMKRYFDAAPSSWAL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5532089028714666,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4166720590471501,
+      "comp_score": 0.8717948717948718,
+      "diversity_score": 0.5,
+      "length": 117,
+      "created_at": "2026-07-28T04:33:40.663250",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MGQKKFFKRSPVLELQNDFRHNILMYDPKTEGYTAYDLEEEYCNRVPINENSQCQHIKDLVLPMPGNV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5473835878584032,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.3912202515624248,
+      "comp_score": 0.9117647058823529,
+      "diversity_score": 0.5,
+      "length": 68,
+      "created_at": "2026-07-28T04:33:32.302922",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "VLLENIVVLGTLAILCSYHGHILLGEHLVKEQKAFLYDMAVHELVCIRYAEGSEFLKQAERIWMILADLSPAPLAGKDHSQKIIEAKKPHYTGVYHRNLEDLPIFVFSWSAGCWKKNNEYIISSCHTKYSESCVGFSCLIRWSGRMCTQAYSPGDPPPALLTLL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5459199976108944,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43755121609918723,
+      "comp_score": 0.7987804878048781,
+      "diversity_score": 0.5,
+      "length": 164,
+      "created_at": "2026-07-28T04:34:13.075706",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MCTEETCDPKYEEKPPMQAYGPDCSEPLEFPNNYPDYRIWVEAGDTQAIIEWTALERGDPAGARLQMDSILEAMKRHYKKADQFISV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5425293016117958,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.42036205648975755,
+      "comp_score": 0.8275862068965517,
+      "diversity_score": 0.5,
+      "length": 87,
+      "created_at": "2026-07-28T04:33:18.450614",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "DGCYLYHNVLSSNTWQPMTDYQSWQRNSQDIEFNAATEPLQTFVLRDRPDLELLARGYCSHSVDCALTRGSSIMLAKTLTRHSGAHEFRLMACMVETTLADVVHFVNENSTKPLFSIWHRAERLYAKIHRGIHAYYLITLEPANSAATQDPKKPGIDAEQKAAICFGYG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.535995515144302,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.3979986649145143,
+      "comp_score": 0.8579881656804733,
+      "diversity_score": 0.5,
+      "length": 169,
+      "created_at": "2026-07-28T04:32:42.397760",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "EWAAGRAELNTIRAVLGRSRQPHVDPGPMDGRKYQANVLHGRNAWVKLDEQAIKHGMPFEAESTPLDEGLPPALWTKAACPRWADGQWVAWTLSLVSSGPLRQPYAKGRADGQQRM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5332894384669669,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.410856833277933,
+      "comp_score": 0.8189655172413793,
+      "diversity_score": 0.5,
+      "length": 116,
+      "created_at": "2026-07-28T04:32:27.796156",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "MAVRRCLTGGQCLSFTTKRRITTRKMKDKLYVGGYPQTSIHCGGRQYPSVLVPSLVKCFERVMACTCIVGPCPDWKICYVNLNAAKTTLNQFDIDICVAQAVRKPMRVPRTNNNSSTS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5298143692490986,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4372650795568238,
+      "comp_score": 0.7457627118644068,
+      "diversity_score": 0.5,
+      "length": 118,
+      "created_at": "2026-07-28T04:32:45.386981",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "YYMLQAMTADLQDKGVPEYNLSRGRHWMPEDKVMSAPSQHHQPDKEDFWKHRRSFYAMELLPKAFKDWEHEDHAVEMVFTEDFK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5169440033588142,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.3558383721452447,
+      "comp_score": 0.8928571428571429,
+      "diversity_score": 0.5,
+      "length": 84,
+      "created_at": "2026-07-28T04:34:07.210024",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "SLLAAESPEDQNTLLQAVRSYPRTVMMQANLMWGINLREQCCFDWTNINEPGRTPDVSNRVWGKFVRMF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.4912088056615541,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.36632313852271714,
+      "comp_score": 0.7826086956521738,
+      "diversity_score": 0.5,
+      "length": 69,
+      "created_at": "2026-07-28T04:33:38.463257",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  },
+  {
+    "sequence": "CGYEDRYRKWSHRSRLGWKWGRRCSIDALKPPSVGAGALMVIVTWEKCVGLITETPRAVWWVDKKIGSVKSDGCKILEIVTTV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.4816147908862782,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.41435503689433895,
+      "comp_score": 0.6385542168674698,
+      "diversity_score": 0.5,
+      "length": 83,
+      "created_at": "2026-07-28T04:32:32.749528",
+      "target": "longevity",
+      "target_name": "Longevity Therapeutics"
+    }
+  }
+]

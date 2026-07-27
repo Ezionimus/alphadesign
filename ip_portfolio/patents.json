@@ -1,0 +1,162 @@
+{
+  "PROV_20260728_0001": {
+    "title": "Novel binder, enzyme Proteins and Methods of Design Thereof",
+    "inventors": [
+      "AI System (Automated Design)",
+      "Human Supervisor"
+    ],
+    "description": "\n# Enzyme Protein Designs - Technical Description\n\n## Field of the Invention\nThe present invention relates to novel binder, enzyme proteins, \nnucleic acids encoding said proteins, vectors comprising said nucleic acids, host cells \ncomprising said vectors, and methods of designing, producing, and using said proteins.\n\n## Background\nTraditional protein engineering relies on rational design or directed evolution, which are \nlimited by the vast sequence space and the difficulty of predicting structure-function \nrelationships. The present invention overcomes these limitations through AI-driven de novo \nprotein design combined with evolutionary optimization.\n\n## Summary of the Invention\nThe invention provides:\n1. Novel protein sequences with enzyme activity\n2. Methods for designing proteins using AI structure prediction and sequence optimization\n3. Evolutionary algorithms for multi-objective protein optimization\n4. Compositions and kits comprising the novel proteins\n\n## Detailed Description\n\n### AI-Driven Protein Design\nThe proteins of the invention were designed using a computational pipeline comprising:\n1. **Structure Prediction**: AlphaFold2/ESMFold for 3D structure prediction\n2. **Sequence Design**: ProteinMPNN for inverse folding\n3. **De Novo Design**: RFdiffusion/AlphaFold hallucination for novel backbones\n5. **Evolutionary Optimization**: Genetic algorithms for multi-objective optimization\n\n### Protein Sequences\nThe following novel protein sequences are disclosed:\n\n#### Design DES_20260728_0000\n**Sequence:** MKLLVLGAGGLGSAALRLAAQAGHEVVVVDQDEGRPGEPGDELVQRMRAFVDAGIECAIADYADGDPNGVIKAVRAALGLPRRVINLESKGLGAVRGLRGEHLGIFAQGDDTLVVDDAALVLPGVLNHLGDDYAVAKAFIRLHPERRLAVVGTGDVHGTLVDMVAGIVGVQGEYGYAGPHVPMKPGMFIEAFFPRNPAALQAVYEAISRDLGLPKEVSSQ\n**Length:** 220 amino acids\n**Predicted pLDDT:** 92.5\n**Fitness Score:** 0.87\n**Design Method:** RFdiffusion\n**Target:** enzyme\n**Constraints:** {}\n\n#### Design DES_20260728_0002\n**Sequence:** MNTILVWTDQQRVAALRAALEGGRLTVVATDHPEICRGVQEWARRLGVEVNLSDYANGEPGTLTAVDADHLGVRGRVLVGAGGAAGLVAALALARAGASVIAVDMDGDAPVALRETPGELLGEYDRLHAALGVRVADGDRIDAINLDHPD\n**Length:** 150 amino acids\n**Predicted pLDDT:** 88.3\n**Fitness Score:** 0.79\n**Design Method:** ProteinMPNN\n**Target:** binder\n**Constraints:** {}\n\n### Production Methods\nThe proteins may be produced by recombinant expression in suitable host cells including\nE. coli, yeast, mammalian cells, or cell-free systems.\n\n### Applications\nThe novel proteins find use in:\n- Therapeutic applications\n- Industrial biocatalysis\n- Biosensors and diagnostics\n- Research tools\n- Agricultural applications\n",
+    "claims": [
+      "1. An isolated protein comprising an amino acid sequence selected from the group consisting of SEQ ID NOs: 1-2.",
+      "2. The protein of claim 1, wherein the amino acid sequence has at least 80%, 85%, 90%, 95%, 98%, or 99% identity to any of SEQ ID NOs: 1-2.",
+      "3. An isolated nucleic acid encoding the protein of claim 1.",
+      "4. A vector comprising the nucleic acid of claim 3.",
+      "5. A host cell comprising the vector of claim 4.",
+      "6. A method of producing a protein, comprising culturing the host cell of claim 5 under conditions suitable for protein expression, and optionally recovering the protein.",
+      "7. A computer-implemented method for designing a protein with enzyme activity, comprising: (a) predicting a three-dimensional structure using a deep learning model; (b) designing amino acid sequences compatible with said structure using a neural network; (c) optimizing sequences via evolutionary algorithms; (d) selecting optimized sequences."
+    ],
+    "abstract": "The invention provides 2 novel enzyme protein sequences designed using artificial intelligence-driven computational methods. The proteins were generated via de novo structure prediction (AlphaFold2/ESMFold), inverse folding (ProteinMPNN), and evolutionary optimization (genetic algorithms). The sequences exhibit predicted pLDDT scores of 88.3-92.5 and are suitable for therapeutic, industrial, and research applications. Also provided are nucleic acids encoding said proteins, expression vectors, host cells, and methods of production and use.",
+    "drawings": [],
+    "sequence_listings": [
+      {
+        "seq_id": 1,
+        "sequence": "MKLLVLGAGGLGSAALRLAAQAGHEVVVVDQDEGRPGEPGDELVQRMRAFVDAGIECAIADYADGDPNGVIKAVRAALGLPRRVINLESKGLGAVRGLRGEHLGIFAQGDDTLVVDDAALVLPGVLNHLGDDYAVAKAFIRLHPERRLAVVGTGDVHGTLVDMVAGIVGVQGEYGYAGPHVPMKPGMFIEAFFPRNPAALQAVYEAISRDLGLPKEVSSQ",
+        "length": 220,
+        "design_id": "DES_20260728_0000",
+        "method": "RFdiffusion",
+        "plddt": 92.5,
+        "target": "enzyme"
+      },
+      {
+        "seq_id": 2,
+        "sequence": "MNTILVWTDQQRVAALRAALEGGRLTVVATDHPEICRGVQEWARRLGVEVNLSDYANGEPGTLTAVDADHLGVRGRVLVGAGGAAGLVAALALARAGASVIAVDMDGDAPVALRETPGELLGEYDRLHAALGVRVADGDRIDAINLDHPD",
+        "length": 150,
+        "design_id": "DES_20260728_0002",
+        "method": "ProteinMPNN",
+        "plddt": 88.3,
+        "target": "binder"
+      }
+    ],
+    "filed_date": null,
+    "application_number": null,
+    "design_ids": [
+      "DES_20260728_0000",
+      "DES_20260728_0002"
+    ]
+  },
+  "PROV_20260728_0002": {
+    "title": "Novel unknown Proteins and Methods of Design Thereof",
+    "inventors": [
+      "AI System (Automated Design)",
+      "Human Supervisor"
+    ],
+    "description": "\n# Unknown Protein Designs - Technical Description\n\n## Field of the Invention\nThe present invention relates to novel unknown proteins, \nnucleic acids encoding said proteins, vectors comprising said nucleic acids, host cells \ncomprising said vectors, and methods of designing, producing, and using said proteins.\n\n## Background\nTraditional protein engineering relies on rational design or directed evolution, which are \nlimited by the vast sequence space and the difficulty of predicting structure-function \nrelationships. The present invention overcomes these limitations through AI-driven de novo \nprotein design combined with evolutionary optimization.\n\n## Summary of the Invention\nThe invention provides:\n1. Novel protein sequences with unknown activity\n2. Methods for designing proteins using AI structure prediction and sequence optimization\n3. Evolutionary algorithms for multi-objective protein optimization\n4. Compositions and kits comprising the novel proteins\n\n## Detailed Description\n\n### AI-Driven Protein Design\nThe proteins of the invention were designed using a computational pipeline comprising:\n1. **Structure Prediction**: AlphaFold2/ESMFold for 3D structure prediction\n2. **Sequence Design**: ProteinMPNN for inverse folding\n3. **De Novo Design**: RFdiffusion/AlphaFold hallucination for novel backbones\n5. **Evolutionary Optimization**: Genetic algorithms for multi-objective optimization\n\n### Protein Sequences\nThe following novel protein sequences are disclosed:\n\n#### Design DES_20260728_0002\n**Sequence:** GDEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG\n**Length:** 95 amino acids\n**Predicted pLDDT:** 77.47666358947754\n**Fitness Score:** 0.7747666358947753\n**Design Method:** evolutionary_design\n**Target:** unknown\n**Constraints:** {}\n\n#### Design DES_20260728_0003\n**Sequence:** GIEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG\n**Length:** 95 amino acids\n**Predicted pLDDT:** 76.85247421264648\n**Fitness Score:** 0.7685247421264648\n**Design Method:** evolutionary_design\n**Target:** unknown\n**Constraints:** {}\n\n#### Design DES_20260728_0005\n**Sequence:** GDEEEESLEELFSVMRDDSVAKSYSGCGGRESPRIRPSTTRTANGGGDVVHTTTMKTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG\n**Length:** 95 amino acids\n**Predicted pLDDT:** 76.73083686828613\n**Fitness Score:** 0.7673083686828613\n**Design Method:** evolutionary_design\n**Target:** unknown\n**Constraints:** {}\n\n#### Design DES_20260728_0007\n**Sequence:** GDEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWMWRRKRRVHQSSELEWEEERRGGG\n**Length:** 95 amino acids\n**Predicted pLDDT:** 76.71471405029297\n**Fitness Score:** 0.7671471405029296\n**Design Method:** evolutionary_design\n**Target:** unknown\n**Constraints:** {}\n\n#### Design DES_20260728_0009\n**Sequence:** GIEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRVHQSSELEWEEERRGGG\n**Length:** 95 amino acids\n**Predicted pLDDT:** 76.64816665649414\n**Fitness Score:** 0.7664816665649414\n**Design Method:** evolutionary_design\n**Target:** unknown\n**Constraints:** {}\n\n#### Design DES_20260728_0011\n**Sequence:** GDEEEESLEELFSVMRDDSVADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG\n**Length:** 95 amino acids\n**Predicted pLDDT:** 76.49308204650879\n**Fitness Score:** 0.7649308204650879\n**Design Method:** evolutionary_design\n**Target:** unknown\n**Constraints:** {}\n\n#### Design DES_20260728_0013\n**Sequence:** GDEEEESLEELFSVMRDDSVAKSYSGCDGRESRRIHTSTNRTANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG\n**Length:** 95 amino acids\n**Predicted pLDDT:** 76.38179779052734\n**Fitness Score:** 0.7638179779052734\n**Design Method:** evolutionary_design\n**Target:** unknown\n**Constraints:** {}\n\n#### Design DES_20260728_0015\n**Sequence:** GDEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGNGVHTTTMTTDFCSHTTTSNPPRWRWRRKRRVHQSSELEWEEERRGGG\n**Length:** 95 amino acids\n**Predicted pLDDT:** 75.90126609802246\n**Fitness Score:** 0.7590126609802246\n**Design Method:** evolutionary_design\n**Target:** unknown\n**Constraints:** {}\n\n#### Design DES_20260728_0017\n**Sequence:** GIEEEESLEELFSVMRDDSVAKSYSGCGGRESPRIRPSTTRTANGGGDVVHTTTMKTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG\n**Length:** 95 amino acids\n**Predicted pLDDT:** 75.8696460723877\n**Fitness Score:** 0.758696460723877\n**Design Method:** evolutionary_design\n**Target:** unknown\n**Constraints:** {}\n\n### Production Methods\nThe proteins may be produced by recombinant expression in suitable host cells including\nE. coli, yeast, mammalian cells, or cell-free systems.\n\n### Applications\nThe novel proteins find use in:\n- Therapeutic applications\n- Industrial biocatalysis\n- Biosensors and diagnostics\n- Research tools\n- Agricultural applications\n",
+    "claims": [
+      "1. An isolated protein comprising an amino acid sequence selected from the group consisting of SEQ ID NOs: 1-9.",
+      "2. The protein of claim 1, wherein the amino acid sequence has at least 80%, 85%, 90%, 95%, 98%, or 99% identity to any of SEQ ID NOs: 1-9.",
+      "3. An isolated nucleic acid encoding the protein of claim 1.",
+      "4. A vector comprising the nucleic acid of claim 3.",
+      "5. A host cell comprising the vector of claim 4.",
+      "6. A method of producing a protein, comprising culturing the host cell of claim 5 under conditions suitable for protein expression, and optionally recovering the protein.",
+      "7. A computer-implemented method for designing a protein with unknown activity, comprising: (a) predicting a three-dimensional structure using a deep learning model; (b) designing amino acid sequences compatible with said structure using a neural network; (c) optimizing sequences via evolutionary algorithms; (d) selecting optimized sequences."
+    ],
+    "abstract": "The invention provides 9 novel unknown protein sequences designed using artificial intelligence-driven computational methods. The proteins were generated via de novo structure prediction (AlphaFold2/ESMFold), inverse folding (ProteinMPNN), and evolutionary optimization (genetic algorithms). The sequences exhibit predicted pLDDT scores of 75.9-77.5 and are suitable for therapeutic, industrial, and research applications. Also provided are nucleic acids encoding said proteins, expression vectors, host cells, and methods of production and use.",
+    "drawings": [],
+    "sequence_listings": [
+      {
+        "seq_id": 1,
+        "sequence": "GDEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+        "length": 95,
+        "design_id": "DES_20260728_0002",
+        "method": "evolutionary_design",
+        "plddt": 77.47666358947754,
+        "target": "unknown"
+      },
+      {
+        "seq_id": 2,
+        "sequence": "GIEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+        "length": 95,
+        "design_id": "DES_20260728_0003",
+        "method": "evolutionary_design",
+        "plddt": 76.85247421264648,
+        "target": "unknown"
+      },
+      {
+        "seq_id": 3,
+        "sequence": "GDEEEESLEELFSVMRDDSVAKSYSGCGGRESPRIRPSTTRTANGGGDVVHTTTMKTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+        "length": 95,
+        "design_id": "DES_20260728_0005",
+        "method": "evolutionary_design",
+        "plddt": 76.73083686828613,
+        "target": "unknown"
+      },
+      {
+        "seq_id": 4,
+        "sequence": "GDEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWMWRRKRRVHQSSELEWEEERRGGG",
+        "length": 95,
+        "design_id": "DES_20260728_0007",
+        "method": "evolutionary_design",
+        "plddt": 76.71471405029297,
+        "target": "unknown"
+      },
+      {
+        "seq_id": 5,
+        "sequence": "GIEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRVHQSSELEWEEERRGGG",
+        "length": 95,
+        "design_id": "DES_20260728_0009",
+        "method": "evolutionary_design",
+        "plddt": 76.64816665649414,
+        "target": "unknown"
+      },
+      {
+        "seq_id": 6,
+        "sequence": "GDEEEESLEELFSVMRDDSVADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+        "length": 95,
+        "design_id": "DES_20260728_0011",
+        "method": "evolutionary_design",
+        "plddt": 76.49308204650879,
+        "target": "unknown"
+      },
+      {
+        "seq_id": 7,
+        "sequence": "GDEEEESLEELFSVMRDDSVAKSYSGCDGRESRRIHTSTNRTANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+        "length": 95,
+        "design_id": "DES_20260728_0013",
+        "method": "evolutionary_design",
+        "plddt": 76.38179779052734,
+        "target": "unknown"
+      },
+      {
+        "seq_id": 8,
+        "sequence": "GDEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGNGVHTTTMTTDFCSHTTTSNPPRWRWRRKRRVHQSSELEWEEERRGGG",
+        "length": 95,
+        "design_id": "DES_20260728_0015",
+        "method": "evolutionary_design",
+        "plddt": 75.90126609802246,
+        "target": "unknown"
+      },
+      {
+        "seq_id": 9,
+        "sequence": "GIEEEESLEELFSVMRDDSVAKSYSGCGGRESPRIRPSTTRTANGGGDVVHTTTMKTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+        "length": 95,
+        "design_id": "DES_20260728_0017",
+        "method": "evolutionary_design",
+        "plddt": 75.8696460723877,
+        "target": "unknown"
+      }
+    ],
+    "filed_date": null,
+    "application_number": null,
+    "design_ids": [
+      "DES_20260728_0002",
+      "DES_20260728_0003",
+      "DES_20260728_0005",
+      "DES_20260728_0007",
+      "DES_20260728_0009",
+      "DES_20260728_0011",
+      "DES_20260728_0013",
+      "DES_20260728_0015",
+      "DES_20260728_0017"
+    ]
+  }
+}

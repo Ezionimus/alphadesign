@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>🧬 Protein Design War Room</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0a1a;color:#fff;font-family:'Segoe UI',system-ui,sans-serif;overflow:hidden;width:100vw;height:100vh}
+#canvas-container{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0}
+
+/* HUD overlay */
+.hud{position:fixed;z-index:10;pointer-events:none}
+.hud *{pointer-events:auto}
+
+.top-left{top:20px;left:20px}
+.top-right{top:20px;right:20px}
+.bottom-left{bottom:20px;left:20px}
+.bottom-right{bottom:20px;right:20px}
+
+.panel{background:rgba(10,10,30,0.85);backdrop-filter:blur(12px);border:1px solid rgba(0,200,255,0.2);border-radius:12px;padding:16px 20px;min-width:180px;box-shadow:0 8px 32px rgba(0,0,0,0.5)}
+.panel h3{font-size:11px;text-transform:uppercase;letter-spacing:2px;color:rgba(0,200,255,0.7);margin-bottom:8px;font-weight:600}
+.panel .stat{font-size:28px;font-weight:700;background:linear-gradient(135deg,#00c8ff,#7b2ff7);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.panel .label{font-size:12px;color:rgba(255,255,255,0.5);margin-top:2px}
+
+/* Prize bars */
+.prize-bar{display:flex;align-items:center;gap:8px;padding:4px 0}
+.prize-bar .name{font-size:11px;color:rgba(255,255,255,0.7);width:90px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.prize-bar .fill{height:8px;border-radius:4px;flex:1;min-width:4px}
+.prize-bar .val{font-size:10px;color:rgba(0,200,255,0.6);width:70px;text-align:right}
+
+/* Pipeline flow */
+.pipeline-step{display:flex;align-items:center;gap:10px;padding:6px 0}
+.pipeline-step .dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.pipeline-step .dot.done{background:#00ff88;box-shadow:0 0 8px #00ff8866}
+.pipeline-step .dot.active{background:#ffcc00;box-shadow:0 0 12px #ffcc0088;animation:pulse 1.5s infinite}
+.pipeline-step .dot.pending{background:rgba(255,255,255,0.15)}
+.pipeline-step .step-name{font-size:12px;color:rgba(255,255,255,0.7)}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.3)}}
+
+/* Title */
+.title-panel{text-align:center;top:20px;left:50%;transform:translateX(-50%)}
+.title-panel h1{font-size:16px;font-weight:700;letter-spacing:3px;text-transform:uppercase}
+.title-panel h1 span{color:#00c8ff}
+.title-panel .sub{font-size:10px;color:rgba(255,255,255,0.3);letter-spacing:4px;margin-top:4px}
+
+/* Design list */
+.design-item{display:flex;align-items:center;gap:6px;padding:3px 0;font-size:11px}
+.design-item .color-dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
+.design-item .seq{color:rgba(255,255,255,0.4);font-family:'Consolas',monospace;font-size:9px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:120px}
+.design-item .score{color:rgba(0,200,255,0.8);font-weight:600;width:40px;text-align:right}
+
+/* Scrollable lists */
+.scroll-list{max-height:140px;overflow-y:auto}
+.scroll-list::-webkit-scrollbar{width:3px}
+.scroll-list::-webkit-scrollbar-track{background:transparent}
+.scroll-list::-webkit-scrollbar-thumb{background:rgba(0,200,255,0.3);border-radius:3px}
+
+/* Tooltip */
+.tooltip{position:fixed;z-index:20;background:rgba(0,0,0,0.9);backdrop-filter:blur(10px);border:1px solid rgba(0,200,255,0.3);border-radius:8px;padding:10px 14px;font-size:12px;max-width:280px;display:none;pointer-events:none}
+.tooltip.visible{display:block}
+
+/* Responsive */
+@media(max-width:768px){
+  .top-left,.bottom-left{left:10px}
+  .top-right,.bottom-right{right:10px}
+  .panel{padding:10px 12px;min-width:120px}
+  .panel .stat{font-size:20px}
+}
+</style>
+</head>
+<body>
+
+<div id="canvas-container"></div>
+
+<!-- Tooltip -->
+<div id="tooltip" class="tooltip"></div>
+
+<!-- Title -->
+<div class="hud title-panel">
+  <div class="panel" style="text-align:center;padding:10px 30px">
+    <h1>🧬 <span>PROTEIN</span> DESIGN WAR ROOM</h1>
+    <div class="sub">AI-POWERED BIOTECH IP FACTORY • ZERO CAPITAL</div>
+  </div>
+</div>
+
+<!-- Top Left: Stats -->
+<div class="hud top-left">
+  <div class="panel">
+    <h3>📊 Pipeline Stats</h3>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+      <div><div class="stat" id="stat-designs">0</div><div class="label">Designs</div></div>
+      <div><div class="stat" id="stat-patents">0</div><div class="label">Patents</div></div>
+      <div><div class="stat" id="stat-submissions">0</div><div class="label">Submissions</div></div>
+      <div><div class="stat" id="stat-prize">$0</div><div class="label">Prize Pool</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- Top Right: Contests -->
+<div class="hud top-right">
+  <div class="panel" style="width:260px">
+    <h3>🏆 Live Contests</h3>
+    <div id="contest-list"></div>
+  </div>
+</div>
+
+<!-- Bottom Left: Designs -->
+<div class="hud bottom-left">
+  <div class="panel" style="width:320px">
+    <h3>🔬 Top 20 Designs <span id="design-count" style="font-weight:400;font-size:10px;color:rgba(255,255,255,0.3)"></span></h3>
+    <div class="scroll-list" id="design-list"></div>
+  </div>
+</div>
+
+<!-- Bottom Right: Pipeline -->
+<div class="hud bottom-right">
+  <div class="panel" style="width:200px">
+    <h3>⚡ Pipeline</h3>
+    <div id="pipeline-flow"></div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script>
+// ===== DATA =====
+const DATA = {
+  designs: [{"seq": "MAQSATSDLIIEAVDGGAAADLTERQVLLAKIMAGMLTQLGPALAEFGNLFGGQPEPAPAVHVGKNPDGVWIAPKAPDDDPIHVIGEDKAGKAVF", "fitness": 0.7426, "length": 107, "target": "masked_lm_refinement"}, {"seq": "MVTSIDLLDAGVAISGTQGTELLSLELSPGQGQAPLGMALQAIDTGDSTVRGFTVEVADPDGSLSEFFYEVTPFQLCVFDVAGADLSVTVTLHTT", "fitness": 0.7233, "length": 113, "target": "masked_lm_refinement"}, {"seq": "MSNLLAGLERVIASAEAPADSDVNAAAQGAATKEASTAPRAECPEELVAKLSSNRIENRHGRGKGNFSISPARAKLLAGRIENLKRHDLYGEGVN", "fitness": 0.7117, "length": 119, "target": "masked_lm_refinement"}, {"seq": "MDSILAVAAVSAAPLATAADIGVAASGAGANAARSADEGLGFEKTTVVGDESEAIVIDISCDLLDRLHIQRTMTEAISSGRGG", "fitness": 0.7053, "length": 83, "target": "masked_lm_refinement"}, {"seq": "MHYGEWGSGSGGNGGHPVNDTGDAGNDAAYPTSAPKFETFAYVNGGIAGLSFQGSVNSGPDGAILEIYSRPVDGKEEVVLPGVNGQQESGAPITE", "fitness": 0.6981, "length": 116, "target": "masked_lm_refinement"}, {"seq": "DGDDADSGTSEHELTAEEQSAAAAYEVSKEIPPEASNSSLPLIQAQQSNPASQHTTLVLQSHPSDPPPAMQSQPANSEIEINDHATASSEKNAEI", "fitness": 0.6964, "length": 132, "target": "masked_lm_refinement"}, {"seq": "MTRGNPSRASAKQLKGQAELASSGTDQGGLGETYKAPNLGAFRAHFVVKGKPSLPAVLGGSGVTAKPSKKK", "fitness": 0.6886, "length": 71, "target": "masked_lm_refinement"}, {"seq": "MQIKQGVSQSGSLNIRFVYESVLIQAMNVNRGKQAFARAQRADRHRTPSLDTDQQSTGPLPTASELASKATAAGGKAEAARDKLARQAAALPANS", "fitness": 0.6775, "length": 131, "target": "masked_lm_refinement"}, {"seq": "MRRNELALAGDDLKPTQIARSVATAVEPGLAVQPSEDGTGFAEENVDQALDYEQTGATEQS", "fitness": 0.6758, "length": 61, "target": "masked_lm_refinement"}, {"seq": "MLDILLEIRATGQLDEYPEASPFRFGWEKPGDENLVSRVDRIERYCQEKLKGDLESRPWRQNGLIDNLWNEAILLRSGGRKSAAQRLEQLIETLY", "fitness": 0.6755, "length": 149, "target": "masked_lm_refinement"}, {"seq": "MLETCFTGGNSLQTLEKDDVTQINGSFAVVEQDGGQWTGSPRRRKVLGIMGTLRTKSNNDSDSNTLGQVSRLRRELLQMSQAARTVKIVISSNDD", "fitness": 0.6748, "length": 114, "target": "masked_lm_refinement"}, {"seq": "MRVEVREGGMRVVLDFGILLPDSLNIAILVAPYIIPILIVGNIPILKAAVLVCTLILVMSQKIALSKQVE", "fitness": 0.673, "length": 70, "target": "masked_lm_refinement"}, {"seq": "WDNRALSRLFSEVHRISQDPRGGLKRDELAQMLPQFVGGGHDPMNQLCASLVAVATADELFNEDERF", "fitness": 0.6675, "length": 67, "target": "masked_lm_refinement"}, {"seq": "YRRVIPESITELSSEILLIMDGQFQASNEMDVFREAARALENINVGLELKEPIVFTDGCGLLLRLLYYIGRLYKKDTLAIVRGGGHGGVYDVFTV", "fitness": 0.6603, "length": 102, "target": "masked_lm_refinement"}, {"seq": "MSVLFVEDFFGTIEIHRSEKIVGPQVIYRGKKLRIKYKKSFKKFEGAVKNKVEWRINGRGRVLE", "fitness": 0.6598, "length": 64, "target": "masked_lm_refinement"}, {"seq": "MNDQIATLLHVDGPKQGDALQIKGLITGDTWPCLVADKLTVIDFYDVHGPATIDTKVQLGKTIFRVIDGQPIPEDHILSGDDSIDLATGRLDKTQ", "fitness": 0.659, "length": 122, "target": "masked_lm_refinement"}, {"seq": "SKHSRNFPIFAAMARKSHLLRPRPPHLSRLRRRRAALGGGRKGTVEFSASALRLSEVSFGSTGRSGTTSVQLEMGHCLTQASTIWQAVLTARSTG", "fitness": 0.6568, "length": 112, "target": "masked_lm_refinement"}, {"seq": "MEDKTYLKGFDSNFGDKYIVNVNLKVKPESLTDSKLMSYQNRPKGRCVAIIVTVKDNNRGKAYPLSVDKPEVSIEGSIIQVEKALSLSVPVTSNV", "fitness": 0.6567, "length": 143, "target": "masked_lm_refinement"}, {"seq": "MLALQVQLPLSRPPIAPDPVMVVHLKVKESDEYRQGQTRLALPLELLGELPFEPVPAVVHDSQEAEVVRKQDVLLTDCVEVGEHNATVLADTHGA", "fitness": 0.6536, "length": 115, "target": "masked_lm_refinement"}, {"seq": "MMFSYSNRLTFYLRLVGVAAYVSPISLLTVVNRLRWADSVVMFNVGRSLLPPFRNFLLNISSERNGLRRHDLGENG", "fitness": 0.6529, "length": 76, "target": "masked_lm_refinement"}],
+  contests: [{"name": "XPR Water Scarcity", "prize": 119000000, "color": "#00c8ff"}, {"name": "XPR Healthspan", "prize": 101000000, "color": "#7b2ff7"}, {"name": "XPR Carbon Removal", "prize": 100000000, "color": "#00ff88"}, {"name": "Breakthrough Energy", "prize": 10000000, "color": "#ffcc00"}, {"name": "XPR Wildfire", "prize": 11000000, "color": "#ff6644"}, {"name": "XPR Rainforest", "prize": 10000000, "color": "#44ff88"}, {"name": "XPR Quantum", "prize": 5000000, "color": "#ff44ff"}, {"name": "HeroX", "prize": 500000, "color": "#88aaff"}, {"name": "iGEM", "prize": 50000, "color": "#aaff88"}],
+  patents: ["Novel Binder/Enzyme Proteins", "Novel Unknown Proteins"],
+  submissions: 1,
+  targets: ["masked_lm_refinement"]
+};
+
+// ===== THREE.JS SCENE =====
+const container = document.getElementById('canvas-container');
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x0a0a1a);
+scene.fog = new THREE.Fog(0x0a0a1a, 30, 60);
+
+const camera = new THREE.PerspectiveCamera(50, window.innerWidth/window.innerHeight, 0.1, 100);
+camera.position.set(12, 8, 16);
+camera.lookAt(0, 0, 0);
+
+const renderer = new THREE.WebGLRenderer({antialias:true, alpha:true});
+renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+renderer.shadowMap.enabled = true;
+renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+container.appendChild(renderer.domElement);
+
+const controls = new THREE.OrbitControls(camera, renderer.domElement);
+controls.enableDamping = true;
+controls.dampingFactor = 0.08;
+controls.autoRotate = true;
+controls.autoRotateSpeed = 0.6;
+controls.target.set(0, 0, 0);
+controls.minDistance = 6;
+controls.maxDistance = 35;
+
+// Lights
+const ambient = new THREE.AmbientLight(0x222244, 0.4);
+scene.add(ambient);
+const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
+dirLight.position.set(10, 20, 10);
+dirLight.castShadow = true;
+scene.add(dirLight);
+const fillLight = new THREE.DirectionalLight(0x4488ff, 0.3);
+fillLight.position.set(-10, 5, -10);
+scene.add(fillLight);
+
+// Ground grid
+const gridHelper = new THREE.GridHelper(40, 40, 0x00c8ff44, 0x00c8ff22);
+gridHelper.position.y = -2.5;
+scene.add(gridHelper);
+
+// Background particles
+const starGeo = new THREE.BufferGeometry();
+const starCount = 2000;
+const positions = new Float32Array(starCount * 3);
+for(let i=0;i<starCount*3;i++) positions[i] = (Math.random()-0.5)*100;
+starGeo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+const starMat = new THREE.PointsMaterial({color:0x4488ff, size:0.08, transparent:true, opacity:0.6});
+const stars = new THREE.Points(starGeo, starMat);
+scene.add(stars);
+
+// ===== PROTEIN HELIX =====
+function createProteinHelix() {
+  const group = new THREE.Group();
+  const designs = DATA.designs;
+  
+  designs.forEach((d, i) => {
+    const n = d.seq.length;
+    const turns = 6;
+    const radius = 1.6;
+    const height = 6;
+    const seq = d.seq;
+    
+    // Color from fitness: 0.75=green → 0.78=cyan → 0.80=gold
+    const t = (d.fitness - 0.75) / 0.05;
+    const r = t < 0.5 ? 0.1 + t*0.8 : 1.0 - (t-0.5)*0.6;
+    const g = t < 0.3 ? 0.6 + t*1.3 : Math.max(0.2, 1.0 - (t-0.3)*1.0);
+    const b = t < 0.7 ? 1.0 : Math.max(0.2, 1.0 - (t-0.7)*1.5);
+    
+    // Render as helix with spheres and connecting lines
+    const step = Math.max(1, Math.floor(n / 80));
+    for(let j=0; j<n; j+=step) {
+      const p = j / n;
+      const angle = p * Math.PI * 2 * turns + i * 1.2;
+      const x = Math.cos(angle) * radius + (i - designs.length/2) * 0.05;
+      const z = Math.sin(angle) * radius;
+      const y = p * height - height/2;
+      
+      // Amino acid sphere
+      const size = 0.08 + (d.fitness - 0.75) * 1.5;
+      const sphere = new THREE.Mesh(
+        new THREE.SphereGeometry(size, 6, 6),
+        new THREE.MeshStandardMaterial({
+          color: new THREE.Color(r, g, b),
+          emissive: new THREE.Color(r*0.3, g*0.3, b*0.3),
+          roughness: 0.3,
+          metalness: 0.2
+        })
+      );
+      sphere.position.set(x, y, z);
+      group.add(sphere);
+      
+      // Backbone line
+      if(j > 0) {
+        const prevP = (j-step) / n;
+        const prevAngle = prevP * Math.PI * 2 * turns + i * 1.2;
+        const px = Math.cos(prevAngle) * radius + (i - designs.length/2) * 0.05;
+        const pz = Math.sin(prevAngle) * radius;
+        const py = prevP * height - height/2;
+        
+        const points = [
+          new THREE.Vector3(px, py, pz),
+          new THREE.Vector3(x, y, z)
+        ];
+        const lineGeo = new THREE.BufferGeometry().setFromPoints(points);
+        const lineMat = new THREE.LineBasicMaterial({
+          color: new THREE.Color(r*0.5, g*0.5, b*0.5),
+          transparent: true,
+          opacity: 0.3
+        });
+        const line = new THREE.Line(lineGeo, lineMat);
+        group.add(line);
+      }
+    }
+    
+    // Label
+    const canvas = document.createElement('canvas');
+    canvas.width = 256;
+    canvas.height = 64;
+    const ctx = canvas.getContext('2d');
+    ctx.fillStyle = 'rgba(0,0,0,0)';
+    ctx.fillRect(0, 0, 256, 64);
+    ctx.font = '20px monospace';
+    ctx.fillStyle = `rgba(${r*255},${g*255},${b*255},0.8)`;
+    ctx.fillText(`DES_${i}  ${d.fitness.toFixed(3)}`, 10, 30);
+    ctx.font = '12px monospace';
+    ctx.fillStyle = `rgba(255,255,255,0.3)`;
+    ctx.fillText(d.target, 10, 52);
+    
+    const texture = new THREE.CanvasTexture(canvas);
+    const spriteMat = new THREE.SpriteMaterial({map: texture, transparent: true, depthTest: false});
+    const sprite = new THREE.Sprite(spriteMat);
+    sprite.position.set(radius + 1.2, -height/2 - 0.5 + (i/designs.length)*height, 0);
+    sprite.scale.set(3, 0.75, 1);
+    group.add(sprite);
+  });
+  
+  return group;
+}
+
+const helix = createProteinHelix();
+helix.position.set(-3, 0.5, 0);
+scene.add(helix);
+
+// ===== CONTEST PRIZE TOWERS =====
+function createContestTowers() {
+  const group = new THREE.Group();
+  const contests = DATA.contests;
+  const maxPrize = Math.max(...contests.map(c => c.prize));
+  
+  contests.forEach((c, i) => {
+    const height = (c.prize / maxPrize) * 6;
+    const width = 0.5;
+    const x = (i - contests.length/2) * 1.2 + 5;
+    const z = 0;
+    
+    // Tower
+    const mat = new THREE.MeshPhysicalMaterial({
+      color: new THREE.Color(c.color),
+      emissive: new THREE.Color(c.color),
+      emissiveIntensity: 0.1,
+      metalness: 0.3,
+      roughness: 0.4,
+      transparent: true,
+      opacity: 0.7
+    });
+    const geo = new THREE.BoxGeometry(width, height, width);
+    const tower = new THREE.Mesh(geo, mat);
+    tower.position.set(x, height/2 - 2.5, z);
+    tower.castShadow = true;
+    group.add(tower);
+    
+    // Glow outline
+    const edgeGeo = new THREE.EdgesGeometry(geo);
+    const edgeMat = new THREE.LineBasicMaterial({
+      color: new THREE.Color(c.color),
+      transparent: true,
+      opacity: 0.4
+    });
+    const edges = new THREE.LineSegments(edgeGeo, edgeMat);
+    edges.position.copy(tower.position);
+    group.add(edges);
+    
+    // Label
+    const canvas = document.createElement('canvas');
+    canvas.width = 256;
+    canvas.height = 80;
+    const ctx = canvas.getContext('2d');
+    ctx.fillStyle = 'rgba(0,0,0,0)';
+    ctx.fillRect(0, 0, 256, 80);
+    ctx.font = '16px sans-serif';
+    ctx.fillStyle = '#ffffffcc';
+    ctx.textAlign = 'center';
+    ctx.fillText(c.name, 128, 28);
+    ctx.font = 'bold 20px sans-serif';
+    ctx.fillStyle = c.color;
+    ctx.fillText('$' + (c.prize/1000000).toFixed(c.prize >= 1000000 ? 0 : 1) + 'M', 128, 60);
+    
+    const texture = new THREE.CanvasTexture(canvas);
+    const spriteMat = new THREE.SpriteMaterial({map: texture, transparent: true, depthTest: false});
+    const sprite = new THREE.Sprite(spriteMat);
+    sprite.position.set(x, -3, z);
+    sprite.scale.set(2.5, 0.8, 1);
+    group.add(sprite);
+  });
+  
+  return group;
+}
+
+const towers = createContestTowers();
+towers.position.set(0, 0, 0);
+scene.add(towers);
+
+// ===== PIPELINE FLOW ARROWS =====
+function createPipelineFlow() {
+  const group = new THREE.Group();
+  const stages = [
+    {name:"DESIGN", color:0x00c8ff, y:4},
+    {name:"IP PATENT", color:0x7b2ff7, y:2},
+    {name:"SUBMIT", color:0x00ff88, y:0},
+    {name:"LICENSE", color:0xffcc00, y:-2},
+  ];
+  
+  stages.forEach((s, i) => {
+    // Stage node
+    const node = new THREE.Mesh(
+      new THREE.SphereGeometry(0.3, 12, 12),
+      new THREE.MeshStandardMaterial({
+        color: s.color,
+        emissive: s.color,
+        emissiveIntensity: 0.3,
+        transparent: true,
+        opacity: 0.8
+      })
+    );
+    node.position.set(-6, s.y, 2);
+    group.add(node);
+    
+    // Ring animation
+    const ring = new THREE.Mesh(
+      new THREE.RingGeometry(0.35, 0.45, 24),
+      new THREE.MeshBasicMaterial({
+        color: s.color,
+        transparent: true,
+        opacity: 0.3,
+        side: THREE.DoubleSide
+      })
+    );
+    ring.position.set(-6, s.y, 2);
+    group.add(ring);
+    
+    // Flow line between stages
+    if(i < stages.length - 1) {
+      const points = [
+        new THREE.Vector3(-6, s.y, 2),
+        new THREE.Vector3(-6, stages[i+1].y, 2)
+      ];
+      const line = new THREE.Line(
+        new THREE.BufferGeometry().setFromPoints(points),
+        new THREE.LineBasicMaterial({
+          color: s.color,
+          transparent: true,
+          opacity: 0.3
+        })
+      );
+      group.add(line);
+    }
+    
+    // Label
+    const canvas = document.createElement('canvas');
+    canvas.width = 128;
+    canvas.height = 32;
+    const ctx = canvas.getContext('2d');
+    ctx.fillStyle = 'rgba(0,0,0,0)';
+    ctx.fillRect(0, 0, 128, 32);
+    ctx.font = '12px sans-serif';
+    ctx.fillStyle = '#ffffff88';
+    ctx.textAlign = 'center';
+    ctx.fillText(s.name, 64, 20);
+    
+    const texture = new THREE.CanvasTexture(canvas);
+    const spriteMat = new THREE.SpriteMaterial({map: texture, transparent: true, depthTest: false});
+    const sprite = new THREE.Sprite(spriteMat);
+    sprite.position.set(-6.8, s.y, 2);
+    sprite.scale.set(1.5, 0.4, 1);
+    group.add(sprite);
+  });
+  
+  return group;
+}
+
+const pipelineFlow = createPipelineFlow();
+scene.add(pipelineFlow);
+
+// ===== GLOW ORBS =====
+function createGlowOrbs() {
+  const group = new THREE.Group();
+  const targets = DATA.targets;
+  
+  targets.forEach((t, i) => {
+    const angle = (i / targets.length) * Math.PI * 2;
+    const r = 1.5;
+    const x = Math.cos(angle) * r - 3;
+    const z = Math.sin(angle) * r;
+    
+    const orb = new THREE.Mesh(
+      new THREE.SphereGeometry(0.12, 8, 8),
+      new THREE.MeshBasicMaterial({
+        color: [0x00c8ff, 0x7b2ff7, 0x00ff88, 0xffcc00, 0xff44ff][i],
+        transparent: true,
+        opacity: 0.6
+      })
+    );
+    orb.position.set(x, -1.5, z);
+    group.add(orb);
+  });
+  
+  return group;
+}
+
+const orbs = createGlowOrbs();
+scene.add(orbs);
+
+// ===== HUD UPDATE =====
+document.getElementById('stat-designs').textContent = '100';
+document.getElementById('stat-patents').textContent = DATA.patents.length;
+document.getElementById('stat-submissions').textContent = DATA.submissions;
+const totalPrize = DATA.contests.reduce((s, c) => s + c.prize, 0);
+document.getElementById('stat-prize').textContent = '$' + (totalPrize / 1000000).toFixed(0) + 'M';
+
+// Contest list
+const contestList = document.getElementById('contest-list');
+const maxPrize = Math.max(...DATA.contests.map(c => c.prize));
+DATA.contests.slice(0, 6).forEach(c => {
+  const pct = (c.prize / maxPrize) * 100;
+  const div = document.createElement('div');
+  div.className = 'prize-bar';
+  div.innerHTML = `
+    <span class="name">${c.name}</span>
+    <div class="fill" style="width:${Math.max(4, pct * 0.7)}%;background:${c.color}"></div>
+    <span class="val">$${(c.prize / 1000000).toFixed(c.prize >= 1000000 ? 0 : 1)}M</span>
+  `;
+  contestList.appendChild(div);
+});
+
+// Design list
+const designList = document.getElementById('design-list');
+document.getElementById('design-count').textContent = `(${DATA.designs.length} total)`;
+const sortedDesigns = [...DATA.designs].sort((a, b) => b.fitness - a.fitness);
+sortedDesigns.forEach((d, i) => {
+  const t = (d.fitness - 0.75) / 0.05;
+  const r = Math.min(1, Math.max(0, t < 0.5 ? 0.1 + t*0.8 : 1.0 - (t-0.5)*0.6));
+  const g = Math.min(1, Math.max(0, t < 0.3 ? 0.6 + t*1.3 : 1.0 - (t-0.3)*1.0));
+  const b = Math.min(1, Math.max(0, t < 0.7 ? 1.0 : 1.0 - (t-0.7)*1.5));
+  const color = `rgb(${r*255|0},${g*255|0},${b*255|0})`;
+  
+  const div = document.createElement('div');
+  div.className = 'design-item';
+  div.innerHTML = `
+    <span class="color-dot" style="background:${color}"></span>
+    <span style="color:rgba(255,255,255,0.5);width:36px">DES_${i}</span>
+    <span class="seq">${d.seq.substring(0, 30)}...</span>
+    <span class="score">${d.fitness.toFixed(3)}</span>
+  `;
+  designList.appendChild(div);
+});
+
+// Pipeline flow
+const pipelineFlowEl = document.getElementById('pipeline-flow');
+const stages = [
+  {name:"Design (650M)", done:true},
+  {name:"IP Patent", done:true},
+  {name:"Contest Submit", done:true},
+  {name:"License Deal", done:false},
+];
+stages.forEach(s => {
+  const div = document.createElement('div');
+  div.className = 'pipeline-step';
+  div.innerHTML = `
+    <div class="dot ${s.done ? 'done' : 'pending'}"></div>
+    <span class="step-name">${s.name}</span>
+  `;
+  pipelineFlowEl.appendChild(div);
+});
+
+// ===== TOOLTIP =====
+const tooltip = document.getElementById('tooltip');
+renderer.domElement.addEventListener('mousemove', (e) => {
+  tooltip.style.left = (e.clientX + 15) + 'px';
+  tooltip.style.top = (e.clientY + 15) + 'px';
+});
+
+// ===== ANIMATION =====
+const clock = new THREE.Clock();
+
+function animate() {
+  requestAnimationFrame(animate);
+  const t = clock.getElapsedTime();
+  
+  // Auto-rotate
+  controls.update();
+  
+  // Animate helix glow
+  helix.children.forEach((child, i) => {
+    if(child.type === 'Sphere') {
+      const mat = child.material;
+      if(mat && mat.emissiveIntensity !== undefined) {
+        mat.emissiveIntensity = 0.15 + Math.sin(t * 2 + i * 0.1) * 0.1;
+      }
+    }
+  });
+  
+  // Animate pipeline rings
+  pipelineFlow.children.forEach((child) => {
+    if(child.type === 'Mesh' && child.geometry.type === 'RingGeometry') {
+      child.rotation.x = Math.sin(t * 0.5) * 0.3;
+      child.rotation.y = t * 0.5;
+      child.material.opacity = 0.2 + Math.sin(t + child.position.y) * 0.1;
+    }
+  });
+  
+  // Animate particles
+  starGeo.attributes.position.array.forEach((v, i) => {
+    if(i % 3 === 1) starGeo.attributes.position.array[i] += Math.sin(t * 0.05 + i) * 0.001;
+  });
+  starGeo.attributes.position.needsUpdate = true;
+  
+  // Float orbs
+  orbs.children.forEach((child, i) => {
+    child.position.y = -1.5 + Math.sin(t * 0.8 + i * 1.2) * 0.2;
+  });
+  
+  renderer.render(scene, camera);
+}
+
+animate();
+
+// ===== RESIZE =====
+window.addEventListener('resize', () => {
+  camera.aspect = window.innerWidth / window.innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
+// ===== AUTO-ROTATE TOGGLE =====
+renderer.domElement.addEventListener('click', () => {
+  controls.autoRotate = !controls.autoRotate;
+});
+
+console.log('🧬 PROTEIN DESIGN WAR ROOM — LIVE');
+console.log(`📊 ${DATA.designs.length} designs • ${DATA.patents.length} patents • $${(totalPrize/1e6).toFixed(0)}M prize pool`);
+console.log('🏆 Click to toggle auto-rotation');
+</script>
+</body>
+</html>

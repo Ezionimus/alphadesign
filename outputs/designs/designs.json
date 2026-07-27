@@ -1,0 +1,146 @@
+[
+  {
+    "sequence": "GDEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+    "structure": null,
+    "plddt": 77.47666358947754,
+    "pae": null,
+    "fitness": 0.7747666358947753,
+    "metadata": {
+      "method": "evolutionary_design",
+      "generations": 30,
+      "esm_score": 0.7747666358947753,
+      "comp_score": 1.0,
+      "diversity_score": 1.0,
+      "length": 95,
+      "created_at": "2026-07-28T03:37:59.233513"
+    }
+  },
+  {
+    "sequence": "GIEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+    "structure": null,
+    "plddt": 76.85247421264648,
+    "pae": null,
+    "fitness": 0.7685247421264648,
+    "metadata": {
+      "method": "evolutionary_design",
+      "generations": 30,
+      "esm_score": 0.7685247421264648,
+      "comp_score": 1.0,
+      "diversity_score": 1.0,
+      "length": 95,
+      "created_at": "2026-07-28T03:37:59.233513"
+    }
+  },
+  {
+    "sequence": "GDEEEESLEELFSVMRDDSVAKSYSGCGGRESPRIRPSTTRTANGGGDVVHTTTMKTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+    "structure": null,
+    "plddt": 76.73083686828613,
+    "pae": null,
+    "fitness": 0.7673083686828613,
+    "metadata": {
+      "method": "evolutionary_design",
+      "generations": 30,
+      "esm_score": 0.7673083686828613,
+      "comp_score": 1.0,
+      "diversity_score": 1.0,
+      "length": 95,
+      "created_at": "2026-07-28T03:37:59.233513"
+    }
+  },
+  {
+    "sequence": "GDEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWMWRRKRRVHQSSELEWEEERRGGG",
+    "structure": null,
+    "plddt": 76.71471405029297,
+    "pae": null,
+    "fitness": 0.7671471405029296,
+    "metadata": {
+      "method": "evolutionary_design",
+      "generations": 30,
+      "esm_score": 0.7671471405029296,
+      "comp_score": 1.0,
+      "diversity_score": 1.0,
+      "length": 95,
+      "created_at": "2026-07-28T03:37:59.233513"
+    }
+  },
+  {
+    "sequence": "GIEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRVHQSSELEWEEERRGGG",
+    "structure": null,
+    "plddt": 76.64816665649414,
+    "pae": null,
+    "fitness": 0.7664816665649414,
+    "metadata": {
+      "method": "evolutionary_design",
+      "generations": 30,
+      "esm_score": 0.7664816665649414,
+      "comp_score": 1.0,
+      "diversity_score": 1.0,
+      "length": 95,
+      "created_at": "2026-07-28T03:37:59.233513"
+    }
+  },
+  {
+    "sequence": "GDEEEESLEELFSVMRDDSVADSVSGCDGRESRRITGSTNATANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+    "structure": null,
+    "plddt": 76.49308204650879,
+    "pae": null,
+    "fitness": 0.7649308204650879,
+    "metadata": {
+      "method": "evolutionary_design",
+      "generations": 30,
+      "esm_score": 0.7649308204650879,
+      "comp_score": 1.0,
+      "diversity_score": 1.0,
+      "length": 95,
+      "created_at": "2026-07-28T03:37:59.234526"
+    }
+  },
+  {
+    "sequence": "GDEEEESLEELFSVMRDDSVAKSYSGCDGRESRRIHTSTNRTANGGGDVVHTTTMTTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+    "structure": null,
+    "plddt": 76.38179779052734,
+    "pae": null,
+    "fitness": 0.7638179779052734,
+    "metadata": {
+      "method": "evolutionary_design",
+      "generations": 30,
+      "esm_score": 0.7638179779052734,
+      "comp_score": 1.0,
+      "diversity_score": 1.0,
+      "length": 95,
+      "created_at": "2026-07-28T03:37:59.234526"
+    }
+  },
+  {
+    "sequence": "GDEEEESLEELFSGMMDDSTADSVSGCDGRESRRITGSTNATANGGGNGVHTTTMTTDFCSHTTTSNPPRWRWRRKRRVHQSSELEWEEERRGGG",
+    "structure": null,
+    "plddt": 75.90126609802246,
+    "pae": null,
+    "fitness": 0.7590126609802246,
+    "metadata": {
+      "method": "evolutionary_design",
+      "generations": 30,
+      "esm_score": 0.7590126609802246,
+      "comp_score": 1.0,
+      "diversity_score": 1.0,
+      "length": 95,
+      "created_at": "2026-07-28T03:37:59.234526"
+    }
+  },
+  {
+    "sequence": "GIEEEESLEELFSVMRDDSVAKSYSGCGGRESPRIRPSTTRTANGGGDVVHTTTMKTDFCSHTTTSNPPRWRWRRKRRKHQSSELEWEEERRGGG",
+    "structure": null,
+    "plddt": 75.8696460723877,
+    "pae": null,
+    "fitness": 0.758696460723877,
+    "metadata": {
+      "method": "evolutionary_design",
+      "generations": 30,
+      "esm_score": 0.758696460723877,
+      "comp_score": 1.0,
+      "diversity_score": 1.0,
+      "length": 95,
+      "created_at": "2026-07-28T03:37:59.234526"
+    }
+  }
+]

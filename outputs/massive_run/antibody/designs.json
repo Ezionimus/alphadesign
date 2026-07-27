@@ -1,0 +1,1442 @@
+[
+  {
+    "sequence": "MAQEALRQGVGMSVTTGPNVAIDMETGALVAFREIPLDRAYLATYACINSTKPPGAIRALLDAIISPEH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.7928264116610424,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.7226712713170171,
+      "comp_score": 0.9565217391304348,
+      "diversity_score": 0.5,
+      "length": 69,
+      "created_at": "2026-07-28T04:40:33.180731",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MDKETLSVDDAAKQLAELFKKVNAERENKMACMTAVAGVRKVEEKEKIKKILDQQALKKQAAELRVQPFTGTSKPISRY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.7096693110322214,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.6015167372793038,
+      "comp_score": 0.9620253164556962,
+      "diversity_score": 0.5,
+      "length": 79,
+      "created_at": "2026-07-28T04:40:44.213381",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "PPLAPRLDEGELCRRARAAALVRRGSLEVLRRGAMALPSSLLLALLKVAGLAACVQNPRRPKEKLIYKKLLPTVKTKVEVPGRVVEADTWARRFGDLIELGNEN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.707484745788582,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.6192089775001721,
+      "comp_score": 0.9134615384615384,
+      "diversity_score": 0.5,
+      "length": 104,
+      "created_at": "2026-07-28T04:40:37.639402",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "DRKADGTVNLTKPKKPTSIDDNNKKAAKDAALPSNSNATAKGSQSKDRSTESKSKSRQNPISFTQALPSTLAMVQEKLHHEARGPASRRSHLGLPGQIEQMREAVSDMMGPTAARMHADVESGSDSEDQSSHE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6984649580357452,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5692356543367788,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 133,
+      "created_at": "2026-07-28T04:40:19.577200",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MRTIPIELVCENKHVHILDDGSMGDDTQVEIDNAALLDLENRKISIIGPYTRAPPLTRREFLERLGCAVGLVARAAARREAEIEGPMDNFFEGAERNFPAGPGHGGGDQGRGEDYEGPEFEKMAGER",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6856458758362428,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5711701488324279,
+      "comp_score": 0.952755905511811,
+      "diversity_score": 0.5,
+      "length": 127,
+      "created_at": "2026-07-28T04:39:51.098395",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "VKIDKIPINFDLIGTMSPFLENLCVIGGQADHAGRTEWATLLRNALAMLLKACDGLGIDQPLDFTAICHDMYPNLIPESDGSVSTLVQVDGKGTLSVETDPLAKARRIAMLVDAFAKGV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6701559179040014,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5720114553490537,
+      "comp_score": 0.8991596638655462,
+      "diversity_score": 0.5,
+      "length": 119,
+      "created_at": "2026-07-28T04:40:45.147854",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "ETTPEAELKAEENTEIATPKENVENLEMESSPQISHTANAAENIDKESEKVEVGTDQRATQTEPELPCDSEICSKGATTLDHELCERTVQKLTVVNDSRKGNGNSHHLTAMDKGKQGKEDT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6671793542940632,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5564191484012,
+      "comp_score": 0.9256198347107438,
+      "diversity_score": 0.5,
+      "length": 121,
+      "created_at": "2026-07-28T04:39:56.926509",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MAAGFHEASVMAHTTGVDPQPGTLLEWGADGLPDVKSYKETVAKALDMDYEQVEYQAGTLGCGGGFDIYDIAVELADNPPDTELRFGKEDCLDQAKEISRAHG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6638654862290745,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5572558263744061,
+      "comp_score": 0.912621359223301,
+      "diversity_score": 0.5,
+      "length": 103,
+      "created_at": "2026-07-28T04:39:54.072383",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MLETTVEPILSSAPEGVGRLRFLIKHPEIIPQKQPIHTTVLPNDGETLALPLPFEA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6621047430003609,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5172924900005157,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 56,
+      "created_at": "2026-07-28T04:40:42.105761",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MSSENANLGIIPEMMTTHVYSGKSKKVSKSSTRVNPIRTQHSHAGVTNLYAKLSQRRKNISSTTPNAKLVKQFGHVKPEVVKEILLYLSSLDGNVREMPFLVKIQYTGAYRRFILLTACIILPV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.658548761072836,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5225811794128074,
+      "comp_score": 0.9758064516129032,
+      "diversity_score": 0.5,
+      "length": 124,
+      "created_at": "2026-07-28T04:40:15.014100",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "PDAEESNIFHDDDNKSPFGVVNFGQGSSSQIPSLPADRFAGRGLNDGLEIDLQDLKHGSLPKIDDLDDQQI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6570772651162582,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5101103787375117,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 71,
+      "created_at": "2026-07-28T04:39:45.396854",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MTNQENRRHAQTIEAIESLSPQRKKSPTEPTDEIGSDFIPLAAKSSTFCA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6542087547307398,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5317267924724856,
+      "comp_score": 0.94,
+      "diversity_score": 0.5,
+      "length": 50,
+      "created_at": "2026-07-28T04:40:51.869244",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "EPGITNTEASVARQAHASPFAASGAGGERISFAVTPPSASPFASTTDELAELAADLVESIVHSTDGTRNWSNNGCAGRYSRDHWRFALGIPDHEDAQADLAYYHNKRDDPPIIVPTASAELRAEALLRAAFDRANGDHLFENDRGEARAVAV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6526810143772164,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5292059603885046,
+      "comp_score": 0.9407894736842105,
+      "diversity_score": 0.5,
+      "length": 152,
+      "created_at": "2026-07-28T04:40:08.936396",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "QVQESRRSSKKKASPMAALGKVQAVLDAHYEKLGEVLPDGHLYSCYLDNGGRRPRSRYIRAVLPLAGHRDVPKVGR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6487850238029446,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5151816129515749,
+      "comp_score": 0.9605263157894737,
+      "diversity_score": 0.5,
+      "length": 76,
+      "created_at": "2026-07-28T04:40:02.237948",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MTATAEDTTALDYVELAAAVAVDANQFDTFADVEGQASFNLVAGLAVYQSAADFFGVAVLQLGHVMPNRATTKGMLRPIGVIKDQAVWNMLVRSGASSGTFVSEDDTAAARAKASAPVGVAIPWDQGEF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6462322667356203,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5145510787253048,
+      "comp_score": 0.9534883720930233,
+      "diversity_score": 0.5,
+      "length": 129,
+      "created_at": "2026-07-28T04:39:55.806115",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MYLLHDVDLLAKLGENGMLTLANAKVIMAGAADYGGEEEDAKVIVDFPSVVGKLKYLFKKFGVNLMYQRLMVGEANLV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6448958579674764,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.49270836852496636,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 78,
+      "created_at": "2026-07-28T04:40:45.643043",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MNVPPSEENGPGDLLPLSSFEPTDEVRGKHYEGFDGRPYKLEEGSNPRSLAVGPVLELVLRPRAADLRHLSGTPISEIEALLVPPNLLGSQKRPELSGLTTYDELNVHEQKEEIRTAKIRRPPENDADILESIMGKEQPK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6424636432593362,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48923377608476615,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 140,
+      "created_at": "2026-07-28T04:39:42.140048",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MDTINVYAAREDVSDEIIRVYGNARRLHEEIHDYNPGEEIRMEGRLTLYQQAVQVARMAGADPSTYFGLIFEMNVKEPIAEGEEIGVIRIPATANDLAPVSRATALDIYFGGAWKANTQYPTNGQGTVISIGAPWSWALAPTSRNTGGYRFLTASARGKIFEEAAEAEVVQSDTH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6422165677466085,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5109216273931143,
+      "comp_score": 0.9485714285714286,
+      "diversity_score": 0.5,
+      "length": 175,
+      "created_at": "2026-07-28T04:40:26.773956",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MKSFRPVIRVTGDRTVVISDKNNGEIVISGPAAWKLLTTTLLDNKPIPDRTHVDTQHILTNTLRYPIPNGANPIGEQKSTWSGLGIDFSMGG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.641511278316915,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5158235652974562,
+      "comp_score": 0.9347826086956522,
+      "diversity_score": 0.5,
+      "length": 92,
+      "created_at": "2026-07-28T04:40:46.304104",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MPNIFSGYIGNQKNNNDPSNTVIVPDMLGQNILELAGIGDKNKKASSSLTFAQDQTLRKGKKPSVLVPDGLFTSYNVITGAAPITESALLNTEFSGYVSSRGLAPKQSNKRWGILSVTNTTVIFTHASTLIRLYNGLDANVEGFLEEEELGLTSLVD",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6412853424920646,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.495739752240711,
+      "comp_score": 0.9808917197452229,
+      "diversity_score": 0.5,
+      "length": 157,
+      "created_at": "2026-07-28T04:40:31.531502",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "EVLNSELEQPAGWPPDSPTLVPDPSGRFNDDKGLQHDVALGMSFDATDLEIVMTFLETFVFDTEFREGELSDAFLRFVPNDDDTAADSRVMTLSPLDFDIYLTKRGIIGFKDLGDGDSR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6400019763941854,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4965214308632422,
+      "comp_score": 0.9747899159663865,
+      "diversity_score": 0.5,
+      "length": 119,
+      "created_at": "2026-07-28T04:40:41.771451",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MVTQIVELRRGDKKICDETVIRIRNDISNQIAESKIPRLKNNNLQYVMEFFRGTSRVVQSLQKARSNLLLKPSKRRPEPSVKAIVDALVDMKRVNPQQWCTSRT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6370236276847909,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5185502373518992,
+      "comp_score": 0.9134615384615384,
+      "diversity_score": 0.5,
+      "length": 104,
+      "created_at": "2026-07-28T04:40:21.562642",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MAVGGKGADNKVRHMFAGSSNLNVADGKIARFVFYAYSRVVFKTKYFQRGTERAVVRALRCVL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.634029908270092,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4975937465082948,
+      "comp_score": 0.9523809523809523,
+      "diversity_score": 0.5,
+      "length": 63,
+      "created_at": "2026-07-28T04:40:10.199331",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "ANHASSSKKQVDHQGEKAASADTYKEEERREHRRLILAKILGECEACHGVFADISGLKNNGRVRLTTEDIDGAFANAIDKCKNIGAAKDIIVKPIEVTSMGFGM",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6323711216787529,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5119038002004161,
+      "comp_score": 0.9134615384615384,
+      "diversity_score": 0.5,
+      "length": 104,
+      "created_at": "2026-07-28T04:40:43.695696",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MFPRLFLTRLDVGTLLERKDVQSTQKERAKTIVEYWQNIEPTIKINDVKRRNVFRILSYIRKKNHYRTRHKIPTSLLIGDPSSDIWHHLRRPLFSKEDKDDN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.631778862216064,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4991798871994193,
+      "comp_score": 0.9411764705882353,
+      "diversity_score": 0.5,
+      "length": 102,
+      "created_at": "2026-07-28T04:40:05.550751",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MFDARRLSRHFIGDEDAELCYGDPDLEASSRIKLLTNVSCDIEEGSDASFKESIITDETDVFAIDNFTIKAVGMLGVPPKIDISALVDGVKMGSLGPASLISTLMRVGKELEIRGLLNKFGDDTEARTIEELNESIDVER",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.630402803086533,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4903713513481084,
+      "comp_score": 0.9571428571428572,
+      "diversity_score": 0.5,
+      "length": 140,
+      "created_at": "2026-07-28T04:40:20.792721",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MGTVIYASAIVSISSSSSRRRSEPDGSIVARASAERHPVANPRACGLSKRRDNPWKTHAISKQSDNDHHEGMTLSPPAWMGKYVPLFSTQILFGVGY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6293808019558841,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5103083621461084,
+      "comp_score": 0.9072164948453608,
+      "diversity_score": 0.5,
+      "length": 97,
+      "created_at": "2026-07-28T04:40:18.415945",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MAMGITRGLDNPRELLSKFIASLGCTSKSVNVEPRSAHESRIETDILIMVVDIPIGSKIQGEGLNTPIKNLLLARPESRLVEEIKLHVVETQVVDLRGQAQDLAAVKADARMDSTVMVVETSGED",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6279577877493767,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47879683964196673,
+      "comp_score": 0.976,
+      "diversity_score": 0.5,
+      "length": 125,
+      "created_at": "2026-07-28T04:40:04.814952",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "QGQDNTPYVAMFLLEVPEQKVKEHRENVAHFNGQGKPSPLVKHEAIIFGRPGHVDCVKYMDFSRYPSLERFFLSSDNAAVEAYRATRTDPRGKDDK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6254456622938722,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47831523184838887,
+      "comp_score": 0.96875,
+      "diversity_score": 0.5,
+      "length": 96,
+      "created_at": "2026-07-28T04:39:38.787264",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "IGEFLTESYGSTDVTYFDYAESAAADRLHEITAHKMGSVFYMQVIGSYTREEAERRICRQEGIVRPVSI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6244193449942346,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4820897475072917,
+      "comp_score": 0.9565217391304348,
+      "diversity_score": 0.5,
+      "length": 69,
+      "created_at": "2026-07-28T04:39:37.556563",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MHQRDPAKECMSVKTACDQNSASVRTQSFRPVPICTVVPEKVETMLVALKNALGNSRYLSRLVGDLEAEPRLFEILVGSIAAVHDGLRKALVEAYIKPYKEHFMGVEKAEKFFHEASPDRPRSAAESGTPSRCTLI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6243477159419194,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.501169005967448,
+      "comp_score": 0.9117647058823529,
+      "diversity_score": 0.5,
+      "length": 136,
+      "created_at": "2026-07-28T04:40:36.848162",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MAFVGYRLLDPKTMIDSAMIRELNMYGFLMVGAFCFYFLEAEMTPSLTSISHLILEMLADQLDFAKTGTVFYFNALILGSYYTKDSAGLASGDN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6232459581960372,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4754577518302052,
+      "comp_score": 0.9680851063829787,
+      "diversity_score": 0.5,
+      "length": 94,
+      "created_at": "2026-07-28T04:40:32.708666",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "FIGSLGYLAAQAEKHGAVRSSWIDSAFESSNKPLIEQMILNCKIFHSKNSFHTAILDVITVDNEDSAAVFQTNYLHPVHGVVEDLINIAREGEELLRKDVLSAAHRLGEATDYVMRGPEHRMSSDQSSTISPPSPGCST",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6222540602782587,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4881121724427334,
+      "comp_score": 0.935251798561151,
+      "diversity_score": 0.5,
+      "length": 139,
+      "created_at": "2026-07-28T04:39:49.227436",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "SAIRKRSLKRASRKTSQSPDLEDDNLAWMLILALSPSLLSLAARPLFAQPALYGAEFALLASNSFLGNRSLFYPAGAVLGFPRLTAQVLIVQDAEPNASRKIEKSINKILCELREDASVKREKLKDMCQKTVPMVLNFN",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6221217195140731,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4879231142081826,
+      "comp_score": 0.935251798561151,
+      "diversity_score": 0.5,
+      "length": 139,
+      "created_at": "2026-07-28T04:40:23.716212",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "PELAEALDYLLKHRYMPVGDNLIVPVGEGKWAPADFDKDVTYKSFGADMSFVSQVLSNHGFEVAVSFVRRFQDGNALLVSGVSMLNAQTVLVTYEKPQMTVSYGKGYGRTRRIRQASDPVQKKNYRDLSYDALLLWDAGVPGDDAMKLPDL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6203663684313316,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4746955689037945,
+      "comp_score": 0.9602649006622517,
+      "diversity_score": 0.5,
+      "length": 151,
+      "created_at": "2026-07-28T04:40:00.574557",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "KKFFDNGVEISPLGQPGNELVRLLRRYPWGSLAQLLAENYGVDAHLTHVKRSESLRFPVTDSEFAKREFDAT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6146506769159163,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46735810987988047,
+      "comp_score": 0.9583333333333334,
+      "diversity_score": 0.5,
+      "length": 72,
+      "created_at": "2026-07-28T04:39:47.892942",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "ARLAIANQTASVYCYSPKTSGKGSGRAEQYVQSLNALFRATQWGDKENADFNIPTNTVTWVKGELALKEPNDDAKSEDSNIGPASLATKRFNVEMGEPGRYAWGFRIYGNPTPDTILRDVNRVSAKSRAVVPAMARELGGSKISPDGKSGTGGGGQGAKLSKEIENEIETLSS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6141879806040464,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47856747022708546,
+      "comp_score": 0.930635838150289,
+      "diversity_score": 0.5,
+      "length": 173,
+      "created_at": "2026-07-28T04:39:53.140249",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MDENSEEDDQPPGENDEEIAAIFDEFSKDRLSLFRDWDNSEVNIKRKLASNNRHGVPDYLSDFEWLICDNIEKYRLERRFLVGELARNVVAKEAPEIHAVVHSLLMIEYDLQVWMALKQGTAFTTLNKSELQVVYMHETDQLILQLFTEGKANTKTRKLTVFGMAKYTS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.613538205082339,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47834282890038293,
+      "comp_score": 0.9289940828402367,
+      "diversity_score": 0.5,
+      "length": 169,
+      "created_at": "2026-07-28T04:40:49.913788",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "GVERLTDNLHGSRQPIHSQVSLAKGLGAAELHGIRNFPETHHRKALDSFKPGRLFAFNRDIPKDALLTRSH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6134919666870016,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4478456666957167,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 71,
+      "created_at": "2026-07-28T04:39:38.053774",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "DPVHKIARTQTSKPMISGQVDFLVSGDAFLVTPSVDVLATIARDLGSDEGVSQPPVFCISMQDVILVGGDMASVVQRSTLYEEVWNKMKISACVSAVGGVRVTNLYRFITKELREHFVAGYRIVRTKDIEKSVGRNLG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6121723385161462,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4739107941535008,
+      "comp_score": 0.9347826086956522,
+      "diversity_score": 0.5,
+      "length": 138,
+      "created_at": "2026-07-28T04:39:47.411139",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MYETKEISRLSLEKLEKGGRTSGNVMVACLLLAERDSEYEELGYNILKFALPEANKMKNCHVIGYSDALNVLQCSISRLRVSPRQWLGIFRCDTLRVLFVLSDSILY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6111003615271717,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.5045091947050384,
+      "comp_score": 0.8598130841121495,
+      "diversity_score": 0.5,
+      "length": 107,
+      "created_at": "2026-07-28T04:40:42.913883",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "IGSIASAIEHPGSIEYYGTAYAGEPVPGALRKSEQVVKFDITLLPRIPNNGFVKTAFVKSHIKETPKKAFMKAAKRHSQLTALQGLIKYGTSMQDLFPASAIHRK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6092443479231981,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44177763989028307,
+      "comp_score": 1.0,
+      "diversity_score": 0.5,
+      "length": 105,
+      "created_at": "2026-07-28T04:39:42.991012",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MFTHEKFTVTVKSEGNYKVICPGNEWVEQKPGPSVKRSRRTYNLEASDIAGYENVLTGRDGWVTGGLALQTSFHGYTTLVSREKNREPGFREVMSPYKRPVTGDEGRLVQEKDGKNLISVIAGSGTSIGYRERPLLAVTKYSAWLMKITTGLNWLPFITGRDWRELRRNLLRRVRQRQEI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6069537286335178,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4813624694764541,
+      "comp_score": 0.9,
+      "diversity_score": 0.5,
+      "length": 180,
+      "created_at": "2026-07-28T04:40:53.824797",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MFEPTWWERMVLAGRKMRLEQMAASGPAERVGLGGGRSEQCAYYNAKSVAVGDLGANFERDPAYRFSFRPDDINSKFRCASASALAATLRVDVARPAVAIVPHERRIDAFRKGLAKNAISIKKAKKFDLAPRPVEWTEL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6067121444492685,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4844089216695614,
+      "comp_score": 0.8920863309352518,
+      "diversity_score": 0.5,
+      "length": 139,
+      "created_at": "2026-07-28T04:40:39.917789",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MQRREPSCTIKTQLAAIQGVEVDNLIGYANGGNPIDDNFRLWFMVLLTIALAGRWILTHYSGERYDFDSGDFRRLPRTSNDAAERRGIEDGDVIWGGIAVAVGLGRVILMLCPGIINKATIGDLCMAYSAAITLFILFYGLSGQIERERDQAMTMVEKRQEKKKTECGA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6066803874298956,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4913692770553878,
+      "comp_score": 0.8757396449704142,
+      "diversity_score": 0.5,
+      "length": 169,
+      "created_at": "2026-07-28T04:39:44.912616",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "YAKGASTSDYIDLPEVLHTLSDKVVVGGSGREEQCVARSHDKPQNVPEPEKCDEQREGCIDVSGGYVPPMFDPTFHSGVYDLHKLPAVPIREIPESAFYPEGEIPLNAPPHSLK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6063573294674568,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.471487914276818,
+      "comp_score": 0.9210526315789473,
+      "diversity_score": 0.5,
+      "length": 114,
+      "created_at": "2026-07-28T04:40:09.810595",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MIKRCESTEIGNYTSEEILNQLPIDNADMGEITRDIDNSIATGWYIYIEAVGQDFSSFVKIMTRLKA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6060759761876688,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.475630925470657,
+      "comp_score": 0.9104477611940298,
+      "diversity_score": 0.5,
+      "length": 67,
+      "created_at": "2026-07-28T04:40:32.013721",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MDAGTQGEFLFARKNKVAEATIEQMRVSGVSMIHMNNGFANELYASHIPDLGPIWKYMPAIGAIAKQGF",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6042156482492478,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.453227323585882,
+      "comp_score": 0.9565217391304348,
+      "diversity_score": 0.5,
+      "length": 69,
+      "created_at": "2026-07-28T04:40:07.412634",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "KANVDGIRRCKGREEAAALVDEDFISRLVDLKAGDDVGTLPRVPGKCMWVPLNILRKHDAFGLKIVSLNLSEESS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6029417652497391,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4842025217853415,
+      "comp_score": 0.88,
+      "diversity_score": 0.5,
+      "length": 75,
+      "created_at": "2026-07-28T04:40:27.305811",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MPSLLSSLGLNGKEDWEKSTLNWNEQKVKTPPKEEVAIIGYPSGRGVPNGSIVPKLPKSTKRSFIPIIYDGSEISMVLDTFVHMQEFLRQIDPEYVVRVKQVKDYEQVDSCGRSCKSYPDSPPGQHGAGSAFRTVVSLCKLEALKAYK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6027420461230217,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.47592493075489584,
+      "comp_score": 0.8986486486486487,
+      "diversity_score": 0.5,
+      "length": 148,
+      "created_at": "2026-07-28T04:39:40.232645",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "GATGYPKFIRKGKEIGKDIYIDHRFPYTSKYFGCGERYMEFYLKLLKMQMGKNGNR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.6024325552300819,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.455005691145015,
+      "comp_score": 0.9464285714285714,
+      "diversity_score": 0.5,
+      "length": 56,
+      "created_at": "2026-07-28T04:40:33.555812",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "QMQLAIAAIQRGYEDVYQEDLLSSADVGGLVRPYPAWGVLSQYEIYTDKFYKENGKYGGCVFPLLNYVSTKSTVDGRSVVGTYVGDTTGCSGASLIQGPACDTSACSMSNPLGYVRNKDKDLPSFKDSTRSLLSSQSLCPLSDGST",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5994364016690118,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.48060386148410694,
+      "comp_score": 0.8767123287671232,
+      "diversity_score": 0.5,
+      "length": 146,
+      "created_at": "2026-07-28T04:40:48.122798",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "WAKKGATKYKKALEDASTLNERWGQRESKQNSSNSLDDDGGQPNAFSLSRDAQPSGDKTNVSPAQKINEIMLGTMQTGEATPDGGISEGIEDGEPSLFGGVQILAAKGLSVPYAYVHYLGQDE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5989553055202013,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4479849312309495,
+      "comp_score": 0.9512195121951219,
+      "diversity_score": 0.5,
+      "length": 123,
+      "created_at": "2026-07-28T04:40:38.634532",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MTGKSDIMHVQVMDQKSSILIKERESSNFGGKILELREQPVTEWTCGRAKQIRRRATLGEAQKGIPVGYTTNRKKY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5988526815282763,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46076698864941734,
+      "comp_score": 0.9210526315789473,
+      "diversity_score": 0.5,
+      "length": 76,
+      "created_at": "2026-07-28T04:40:46.791337",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MATKNPKRLQTMVSTMDKPFMTKLQGDLVYPNIAVNMARGFVESIDEGSQMQKAACHSLRLVRAMPLQRYTSSMTCDRIFIANNIPMADREQLTLTAMALAQGEAPTLPGCGYGSQRHSAHSMTSADFLYPVDILKRDDPLQSKEEIPLQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5984877293569206,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45212532765274394,
+      "comp_score": 0.94,
+      "diversity_score": 0.5,
+      "length": 150,
+      "created_at": "2026-07-28T04:40:06.941362",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "YTEYFSGYNRLNKTLYCPIHTKEIRIPRDMEPLPRMLPEVALAGANGAANTENKAQGTKDIVAFASPIISFGKRGWLPGKEAQEAIEFNYGALAGKSIRALGVKRKEYSVRPIYNLFHINPRLEANGQIKGAKIKYLRLGIRPSFILSRRKTWVPL",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5980391222330057,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45049544934385444,
+      "comp_score": 0.9423076923076923,
+      "diversity_score": 0.5,
+      "length": 156,
+      "created_at": "2026-07-28T04:40:13.986796",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MCAALRYADVDAQTNLAAGTASAGYSKKGNNTRYGLNPNVYLTPTANLCAVLADCSEARSQLETDPKTAYAPS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.596511443952189,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4764253504600745,
+      "comp_score": 0.8767123287671232,
+      "diversity_score": 0.5,
+      "length": 73,
+      "created_at": "2026-07-28T04:40:12.505240",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "KEEEEVEPFDYNPVRDYMQYSEDQLEAFETIIRTFTEYETGSNFRSASVEKPESYTYLVPPQNSQVLAVFKVHPGLCFVFDIANGVGKLLAFVQCLMVVSCDHLDSLCPFLLESHRQDTS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5927939757431285,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4611342510616122,
+      "comp_score": 0.9,
+      "diversity_score": 0.5,
+      "length": 120,
+      "created_at": "2026-07-28T04:40:03.292982",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MCKRMVYGEPPLICLHLMLVKGVQQLVDELLRRQVDPESKLRVFLDIMNCLMGVYLFVSTVILLVMGSHYTQMDK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5927875779529268,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4696965399327525,
+      "comp_score": 0.88,
+      "diversity_score": 0.5,
+      "length": 75,
+      "created_at": "2026-07-28T04:40:24.716844",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MQNDQEIRAISIDRPSRKWSTTERNSPYLLYSDSTDIQNRVGSFFLGAAVGMALVMAMLEIMGYNNWLKLQGPACILLVARSVDNEKMSQDQSCLFEVPFSFLLLTAGPGADNRC",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5852349468117023,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46337911656330144,
+      "comp_score": 0.8695652173913043,
+      "diversity_score": 0.5,
+      "length": 115,
+      "created_at": "2026-07-28T04:40:40.807181",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MFKPLHRHSIVTRLPHAPKLPWIYVLTLAMSWAQEIQRARPLITNSSPTQDPGRDTG",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5843619283451682,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.45134410816227033,
+      "comp_score": 0.8947368421052632,
+      "diversity_score": 0.5,
+      "length": 57,
+      "created_at": "2026-07-28T04:39:54.494097",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MIAAITSVGYQITYPHHSITSNQEFSMAVESLAYQNDEFINTDVGMRQGDLYYVGVLRGGDHHDVCNDLQRK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5842254778608305,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4238935398011865,
+      "comp_score": 0.9583333333333334,
+      "diversity_score": 0.5,
+      "length": 72,
+      "created_at": "2026-07-28T04:40:24.198082",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MPLVGTNIYIDLNTSSHQDRGSSLQLPDAQIAANPMMGLQGLNVRVGMKGSFIRDWVMPRTPLKPALKGLCKFTQCLMHCTVRGCCSALGGAGVRIHAYNSGHERPGDGGMILAGRQADGQIFVIPMELEVRRLGGHAAIRLSRSP",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5832444610613924,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4574725177589364,
+      "comp_score": 0.8767123287671232,
+      "diversity_score": 0.5,
+      "length": 146,
+      "created_at": "2026-07-28T04:40:34.966700",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "IDGTPARTTAAARVPTIILINCFPGRLCGSASGPEPMPYCGAVHVDGGSR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5831700293405947,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4816714704865639,
+      "comp_score": 0.8200000000000001,
+      "diversity_score": 0.5,
+      "length": 50,
+      "created_at": "2026-07-28T04:39:57.318843",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "SSKRLPMNEMSFIYQNMSITSEKFPGSVSLEIWTEKMTTCYLIRGENFAFLLELLFTRSLPSGLDCIPSGTAPAQVPGSVISSAPGQNCRLSRERKVQLMKECKCFPIKKILTVTYDDVFRKVNRPLADMGRQAESAEAVV",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5818794097346869,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4573961172501606,
+      "comp_score": 0.8723404255319149,
+      "diversity_score": 0.5,
+      "length": 141,
+      "created_at": "2026-07-28T04:40:17.745611",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "KLGVPLSPKPAQIEIFIMDAMTEVGEFLSILGDGIFEIRISTRIYKLLLHVVLRALKYWYQDIASVLVPATML",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5798205493797963,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.41735616643297724,
+      "comp_score": 0.9589041095890412,
+      "diversity_score": 0.5,
+      "length": 73,
+      "created_at": "2026-07-28T04:40:01.688882",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MKSRDRGLDYSDSETSYVRRKRLGAPILNIVARHVPSEPDTWVCRLHSKQTGYAQSQLMPQALERALYDVYREVWTIGR",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5792631527619392,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4477719542168752,
+      "comp_score": 0.8860759493670887,
+      "diversity_score": 0.5,
+      "length": 79,
+      "created_at": "2026-07-28T04:40:35.587366",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "GADREIRHLQKHDLDAHTELIEAADLFTMNTDEDKLWLPLPTGPLIHPPGTHPA",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5781537125622405,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.42117197032701026,
+      "comp_score": 0.9444444444444444,
+      "diversity_score": 0.5,
+      "length": 54,
+      "created_at": "2026-07-28T04:40:03.683668",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "LSALGAAAIAETAVGTRAGNQDNEYAIAQLIAARGYPGWTLSAHLHRDPPAQTVSLAVLFNRMEVPPPYICSIPCRTEDQ",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5763634410472818,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44301920149611684,
+      "comp_score": 0.8875,
+      "diversity_score": 0.5,
+      "length": 80,
+      "created_at": "2026-07-28T04:40:01.168507",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MPRPKCTPRHGTLQHFQLSAPGLVDDHNVTCECCTFLETEEEWSSKGNQKPINLDPGTVDRGGEKEVTRKRLEAELAASSLAQGRHQRSDKKIRVSWRPEEH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5743169545016531,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4675116156746305,
+      "comp_score": 0.8235294117647058,
+      "diversity_score": 0.5,
+      "length": 102,
+      "created_at": "2026-07-28T04:40:22.337494",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "KGRHVLSHVDLLWAINFKVDFLQTKNQPWPDPYAIIKIRNSKHNMVVRIDAFLTNTERRKPKIMIIDVYSNFPFYSQLMMNKMVLGEVFYKGFSVLFTLRVKIKNRGRLTGKRLRCVSSLRLLNRIISGKQASGWPLIPPPSSTKFLFLWKIADQEAAKVHYCVIPNYSPYFH",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5736554055838359,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.43552754059457977,
+      "comp_score": 0.8959537572254336,
+      "diversity_score": 0.5,
+      "length": 173,
+      "created_at": "2026-07-28T04:40:12.045133",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MQINVNNKGQSSRKNAHKNRKAKGRYCGNVPFNIKLMYNKYNTTKVTCQKLLTNAKAWVDEDGKTTWASQSICTKIRQTTGRCAK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5731271780503189,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4809379854500355,
+      "comp_score": 0.788235294117647,
+      "diversity_score": 0.5,
+      "length": 85,
+      "created_at": "2026-07-28T04:39:49.893887",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MMEEKDDQSTLLRDGDQCLSFERKGEGKRPDSLPLKVIIYKWYSSLEGSAVSPCECESAAGYLPVGMAQQPRFWQGQNEGKIVKT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5697243434732269,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.46095074277687875,
+      "comp_score": 0.8235294117647058,
+      "diversity_score": 0.5,
+      "length": 85,
+      "created_at": "2026-07-28T04:40:16.430925",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MREVWLQGPRNGKEDSRQNKLPVDLDDLLPPDPDPLYNVTPGPKYRISAPWVKRCLVNTQLTEHVISEQGPCILTQRLIKS",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5679227690228376,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44623887638183146,
+      "comp_score": 0.8518518518518519,
+      "diversity_score": 0.5,
+      "length": 81,
+      "created_at": "2026-07-28T04:39:40.807108",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MDVMKYYGLDLLLSLLADDPMDIFNSVCKHDLPCIGHSYVIIEDERCSDTVHVGTQTLGMQIGREGSLSACNFEMCKLTNREDDYDDVGRCVSPVARTPGGSATVGLVLRINGQDVAGRPATAVLPQHSLILYGWPTYCSILSMGNSSPHGSQHT",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5641433757564164,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4437071266566317,
+      "comp_score": 0.8451612903225807,
+      "diversity_score": 0.5,
+      "length": 155,
+      "created_at": "2026-07-28T04:39:58.978721",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MWKSMVELLLFERLKRPSKILYKIKVEQDHRLGRKCKHLVKTCSEIKEFTNFPTKTVCTKAHKIRLNVVRPNKSESKQLPGTTCCGMSQNVHKSTENSLDASKPGSHLECSMPPITHGKKGNAEGLIPGQAKCPDGWAVGDMTGGVSDVGGVEISQRPNGY",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5603904401559563,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44385857023166786,
+      "comp_score": 0.8322981366459627,
+      "diversity_score": 0.5,
+      "length": 161,
+      "created_at": "2026-07-28T04:40:51.561505",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "MASSVMATIVPSFLTWQALYETITIQNPRHLKISQCTIIDFWAINKYADYYLEACPFRGCLMVDDQLYSLLMFTDSAKLGQARGMIKAGSVLLQSKSQRMSE",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5533913531698615,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.4250128574695502,
+      "comp_score": 0.8529411764705882,
+      "diversity_score": 0.5,
+      "length": 102,
+      "created_at": "2026-07-28T04:39:46.157029",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "GGAPTVTAWQFLSADDAAEFPANHESGCWQAAKRSIMIALLLHIATQWDAVHETLRKLWNSVLVSDEFVLYQCILTDGKHGHLNKPISPRLELHWDDVLLLIDKTRYIPLNVAFRFADRPGFNVCKQECSCPVDEGLPLNKGDTVEFLDLSVQPENHCSIIGIFVAI",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5365595911194819,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.42263004035032925,
+      "comp_score": 0.8023952095808383,
+      "diversity_score": 0.5,
+      "length": 167,
+      "created_at": "2026-07-28T04:40:29.862881",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "SSLVAQLIDRLQKATQVQPQIGWDHELGVPAIAGAQDPVVRLGSIGSGLCTRLLLILHHHQAFRCLSCICAVIHQCRISQFPRQWWLAQGVPK",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5318894885039811,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.44186977620384404,
+      "comp_score": 0.7419354838709677,
+      "diversity_score": 0.5,
+      "length": 93,
+      "created_at": "2026-07-28T04:40:27.975325",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  },
+  {
+    "sequence": "NLNTHELYCSTPLMKGTPMLMFDFAVCSRGLAPDSSDIHLIGSDYEINCSLVPARILVKPVKIGWNCGKGCIPKGKPSYEEYAIIAAAHHYKSYQGSLGRMHGVQVGLGNCLPW",
+    "structure": null,
+    "plddt": null,
+    "pae": null,
+    "fitness": 0.5108947485091594,
+    "metadata": {
+      "method": "masked_lm_refinement",
+      "iterations": 8,
+      "esm_score": 0.3915037760657165,
+      "comp_score": 0.7894736842105263,
+      "diversity_score": 0.5,
+      "length": 114,
+      "created_at": "2026-07-28T04:40:15.880863",
+      "target": "antibody",
+      "target_name": "Antibody Mimetics"
+    }
+  }
+]
