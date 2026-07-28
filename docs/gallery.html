@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AlphaDesign — Structure Gallery</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;700&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'JetBrains Mono', monospace; background: #0a0b0e; color: #c5d1e8; overflow-x: hidden; }
+.grain { position: fixed; inset: 0; opacity: 0.03; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"); pointer-events: none; z-index: 0; }
+header { 
+  background: linear-gradient(135deg, rgba(10,11,14,0.95), rgba(20,30,50,0.9));
+  border-bottom: 1px solid rgba(100,150,255,0.15);
+  padding: 2rem 5%;
+  position: relative; z-index: 1;
+}
+h1 { font-size: 1.8rem; font-weight: 700; background: linear-gradient(135deg, #6eb0ff, #c084fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.subtitle { color: #6b7a9e; font-size: 0.9rem; margin-top: 0.3rem; }
+nav { display: flex; gap: 1.5rem; margin-top: 1.5rem; }
+nav a { color: #6b7a9e; text-decoration: none; font-size: 0.85rem; transition: 0.3s; }
+nav a:hover { color: #6eb0ff; }
+nav .active { color: #6eb0ff; border-bottom: 2px solid #6eb0ff; }
+.container { max-width: 1400px; margin: 0 auto; padding: 2rem 5%; position: relative; z-index: 1; }
+.stats-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; margin-bottom: 2rem; }
+.stat-card { background: rgba(255,255,255,0.03); border: 1px solid rgba(100,150,255,0.1); border-radius: 12px; padding: 1.2rem; }
+.stat-card .value { font-size: 1.6rem; font-weight: 700; color: #6eb0ff; }
+.stat-card .label { font-size: 0.75rem; color: #6b7a9e; margin-top: 0.3rem; }
+
+.gallery-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1.5rem; }
+.design-card { 
+  background: rgba(255,255,255,0.02); border: 1px solid rgba(100,150,255,0.08);
+  border-radius: 16px; padding: 1.5rem; transition: 0.4s; position: relative; overflow: hidden;
+}
+.design-card:hover { border-color: rgba(100,150,255,0.25); transform: translateY(-2px); }
+.card-header { display: flex; justify-content: space-between; align-items: start; margin-bottom: 1rem; }
+.rank-badge { 
+  background: linear-gradient(135deg, #6eb0ff, #c084fc); 
+  font-size: 0.75rem; font-weight: 700; padding: 0.2rem 0.6rem; border-radius: 6px;
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+}
+.target-badge { font-size: 0.7rem; padding: 0.15rem 0.5rem; border-radius: 4px; 
+  background: rgba(100,150,255,0.1); color: #6eb0ff; border: 1px solid rgba(100,150,255,0.15); }
+.scores { display: flex; gap: 1rem; margin-bottom: 0.8rem; font-size: 0.8rem; }
+.score-item { display: flex; gap: 0.3rem; }
+.score-value { color: #6eb0ff; font-weight: 600; }
+.contact-map { text-align: center; margin: 0.8rem 0; background: rgba(0,0,0,0.3); border-radius: 8px; padding: 0.5rem; }
+.contact-map svg { width: 140px; height: 140px; }
+.sequence { font-size: 0.6rem; color: #6b7a9e; word-break: break-all; line-height: 1.4; margin-top: 0.5rem; font-family: 'JetBrains Mono', monospace; }
+</style>
+</head>
+<body>
+<div class="grain"></div>
+<header>
+  <h1>✦ AlphaDesign</h1>
+  <div class="subtitle">AI Protein Engineering · Structure-Aware Design</div>
+  <nav>
+    <a href="https://ezionimus.github.io/alphadesign/">Portfolio</a>
+    <a class="active" href="#">Structure Gallery</a>
+    <a href="https://github.com/Ezionimus/alphadesign">GitHub →</a>
+  </nav>
+</header>
+<div class="container">
+  <div class="stats-row">
+    <div class="stat-card"><div class="value">500</div><div class="label">Total Designs</div></div>
+    <div class="stat-card"><div class="value">0.69</div><div class="label">Top Combined Score</div></div>
+    <div class="stat-card"><div class="value">5</div><div class="label">Target Categories</div></div>
+    <div class="stat-card"><div class="value">650M</div><div class="label">ESM-2 Model + Attention Contacts</div></div>
+  </div>
+
+  <div style="margin-bottom: 2rem;">
+    <h2 style="color: #c5d1e8; font-size: 1.2rem; margin-bottom: 0.5rem;">🔬 Structure-Aware Scoring</h2>
+    <p style="color: #6b7a9e; font-size: 0.85rem;">Each design is scored by BOTH sequence likelihood (ESM-2 masked LM) AND structural plausibility (ESM-2 attention contact maps). Contact maps show predicted residue-residue proximity — real proteins have structured diagonal patterns.</p>
+  </div>
+
+  <div class="gallery-grid">
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#1</span>
+        <span class="target-badge">antibody</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6929</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5931</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7928</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MAQEALRQGVGMSVTTGPNVAIDMETGALVAFREIPLDRAYLATYACINSTKPPGAIRAL...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#2</span>
+        <span class="target-badge">longevity</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6779</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.6609</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6949</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MLKAVPVNDLVIVNDSEYTLDATSYDSFLTSVKSFDGVWVENVASKNPSIGTTFFQNGIV...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#3</span>
+        <span class="target-badge">diagnostic</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6652</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.6064</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7240</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MLYGVASSARPSRHGLWPGLQVGLSGRYLGVRRTLGVGHFWLDARDRTDRVVEGRFLTPN...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#4</span>
+        <span class="target-badge">antimicrobial</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6587</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5897</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7277</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MYVPGEMALLLDGDHVGDARVFSTHFMRELFGLDPKNVIKGREIVSRENLDTLRAVFQGV...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#5</span>
+        <span class="target-badge">diagnostic</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6560</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5814</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7306</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MIRIEGGGSTDQMLDNIAKVHTQISQMPTVMNQMMQSLSPDERLAMEDLVRPDEIVAKVK...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#6</span>
+        <span class="target-badge">longevity</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6559</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5875</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7244</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">PQGYSLPPVYIQKATGIQQALGTVPPAHAGQKQMDVQTAYDKLTGYAPTPEQQANIITAI...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#7</span>
+        <span class="target-badge">enzyme</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6537</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.6052</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7022</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">VLSLRVGDEISIKHGDCIFGAYGALFIGGVVSWAYGQKKGYPNLVPGIDVAALEFAAAPA...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#8</span>
+        <span class="target-badge">enzyme</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6488</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5729</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7246</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">PESINSKIPNSPSYENSNKPQLTESKALKSKSVESASSEQNSFDVNDEKR...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#9</span>
+        <span class="target-badge">antibody</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6485</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5985</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6985</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">DRKADGTVNLTKPKKPTSIDDNNKKAAKDAALPSNSNATAKGSQSKDRSTESKSKSRQNP...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#10</span>
+        <span class="target-badge">longevity</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6446</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5847</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7046</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">AERPLTEESVVEVPVADEPLAEGNNVVAVVMDSPKDVMKSKMEAVAQNLAAEKANSSGSG...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#11</span>
+        <span class="target-badge">enzyme</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6445</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5942</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6948</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">LAPRIDLARQLPEVSQLTNLGLTENLAENLASPPVNDALIAHLINLPPGAVKAIPFVFYV...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#12</span>
+        <span class="target-badge">diagnostic</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6444</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5972</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6915</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">KNGKYYLGRPAEMEIALEKLKMRHFIAVPLKSVTSPELATALNTGASERIHRLRQELQVP...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#13</span>
+        <span class="target-badge">longevity</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6440</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5973</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6906</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MQQLLDIFALQAQAGMSRDDFFGKDLVLQALNTLWDAFKLSYRTAADLEARPGAEGQLLA...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#14</span>
+        <span class="target-badge">diagnostic</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6436</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5704</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7167</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MEHSTTVKPPQRMILEISKISGVSQGFLYRLFQKEGMIADQWSIEKIQEHHQSFSE...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#15</span>
+        <span class="target-badge">enzyme</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6432</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5513</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7351</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MNLTISGSTTANTAAGASPLAVPSKARSIAKEPMITPFFINSSSLAPISIAKSRRNNASL...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#16</span>
+        <span class="target-badge">antibody</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6430</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.6221</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6639</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MAAGFHEASVMAHTTGVDPQPGTLLEWGADGLPDVKSYKETVAKALDMDYEQVEYQAGTL...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#17</span>
+        <span class="target-badge">longevity</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6425</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.6017</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6834</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">NFPRSTRGSVLAARYKEKLDVTLVGGFEKEMALANVRARAGRGGSGGASISLDDLQGTLV...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#18</span>
+        <span class="target-badge">antimicrobial</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6423</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.6054</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6792</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MLRVRLALASRILTYWSGYHRRPINMITGYEITSPVPSGESGKSVDPAAQEFTGDLARTQ...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#19</span>
+        <span class="target-badge">diagnostic</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6414</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.6092</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6736</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">DMRPALETLPTLISIMESKKSLLVLSELAKLKEEDHAIKKCIPSTSSTKELMLSRYAKKN...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#20</span>
+        <span class="target-badge">antibody</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6412</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5728</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7097</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MDKETLSVDDAAKQLAELFKKVNAERENKMACMTAVAGVRKVEEKEKIKKILDQQALKKQ...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#21</span>
+        <span class="target-badge">enzyme</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6399</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5863</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6935</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">PGDICYSRIRAKQPSSRNGGDASRTAPANGIAAMLLLHSGPVLPLLAMLPEGDKLGLVLQ...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#22</span>
+        <span class="target-badge">antimicrobial</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6394</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5906</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6881</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MLYWYLDARRKFRRVFAGGLRKNGVFRRGLILLLIVLVLVLNVLILTMQAVDKGENVRRL...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#23</span>
+        <span class="target-badge">enzyme</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6391</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5955</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6827</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">ASPAAHVEDIIAAAAKLKEEPKEQRSFWRFFRGNKQKDDEQFLAFQAMEEELKKITLGAS...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#24</span>
+        <span class="target-badge">antibody</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6386</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5916</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6856</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MRTIPIELVCENKHVHILDDGSMGDDTQVEIDNAALLDLENRKISIIGPYTRAPPLTRRE...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#25</span>
+        <span class="target-badge">enzyme</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6375</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5873</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6877</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MAKGDTLGQRNFLLLEGFEDEGNGIDLLNTCLYLKAEGGTLDRPVYRLLLSRDHHNKRRG...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#26</span>
+        <span class="target-badge">antibody</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6369</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5662</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.7075</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">PPLAPRLDEGELCRRARAAALVRRGSLEVLRRGAMALPSSLLLALLKVAGLAACVQNPRR...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#27</span>
+        <span class="target-badge">enzyme</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6364</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5936</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6793</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MADKKTERIAVHSGSGKASDARKIAEKDWGDDLILFPGKASFHTAVKNYNAFVAEVLLAL...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#28</span>
+        <span class="target-badge">longevity</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6362</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5991</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6733</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">AGDIFARFMRRDSKSVLASLDFNVLRDIGSAAAFDLGVSSDQGQRKNLNAHLSAAVRLDL...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#29</span>
+        <span class="target-badge">enzyme</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6361</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5823</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6900</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">ANVDLDVTLSIKSIPTHGFNDVVALYKATRAAYNFLVEQMESYLQKQHAETAIPFRIREL...</div>
+    </div>
+    <div class="design-card">
+      <div class="card-header">
+        <span class="rank-badge">#30</span>
+        <span class="target-badge">antimicrobial</span>
+      </div>
+      <div class="scores">
+        <div class="score-item">Combined: <span class="score-value">0.6361</span></div>
+        <div class="score-item">Struct: <span class="score-value">0.5941</span></div>
+        <div class="score-item">Seq: <span class="score-value">0.6781</span></div>
+      </div>
+      <div class="contact-map">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140"></svg>
+      </div>
+      <div class="sequence">MEYLIEIQDAHCTDTGGIVVIRRPGLDVSGQHLERQTVCPALPLWRYSAIDEAARAYTKL...</div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

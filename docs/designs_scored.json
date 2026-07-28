@@ -1,0 +1,4502 @@
+[
+  {
+    "design_id": "DES_0420",
+    "sequence": "MAQEALRQGVGMSVTTGPNVAIDMETGALVAFREIPLDRAYLATYACINSTKPPGAIRALLDAIISPEH",
+    "full_length": 69,
+    "sequence_score": 0.7928,
+    "structure_score": 0.5931,
+    "combined_score": 0.6929,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0002",
+    "sequence": "MLKAVPVNDLVIVNDSEYTLDATSYDSFLTSVKSFDGVWVENVASKNPSIGTTFFQNGIVKDVYMNSVYHIAGTGLASYVQAASINFVDVTSVTLPANNS",
+    "full_length": 145,
+    "sequence_score": 0.6949,
+    "structure_score": 0.6609,
+    "combined_score": 0.6779,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0121",
+    "sequence": "MLYGVASSARPSRHGLWPGLQVGLSGRYLGVRRTLGVGHFWLDARDRTDRVVEGRFLTPNDTTVEQPLDYRVLRRVELFTVRVAVRW",
+    "full_length": 87,
+    "sequence_score": 0.724,
+    "structure_score": 0.6064,
+    "combined_score": 0.6652,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0320",
+    "sequence": "MYVPGEMALLLDGDHVGDARVFSTHFMRELFGLDPKNVIKGREIVSRENLDTLRAVFQGVAEYQADAPVVREERGAAVPARPRRGLL",
+    "full_length": 87,
+    "sequence_score": 0.7277,
+    "structure_score": 0.5897,
+    "combined_score": 0.6587,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0120",
+    "sequence": "MIRIEGGGSTDQMLDNIAKVHTQISQMPTVMNQMMQSLSPDERLAMEDLVRPDEIVAKVKGGPGGGKAPNFGNGKAAAMLTPGGKVTKGSDMLSHAL",
+    "full_length": 97,
+    "sequence_score": 0.7306,
+    "structure_score": 0.5814,
+    "combined_score": 0.656,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0000",
+    "sequence": "PQGYSLPPVYIQKATGIQQALGTVPPAHAGQKQMDVQTAYDKLTGYAPTPEQQANIITAIMNYSKPEVLQLAKNIISVFPGYMKILQAKP",
+    "full_length": 90,
+    "sequence_score": 0.7244,
+    "structure_score": 0.5875,
+    "combined_score": 0.6559,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0222",
+    "sequence": "VLSLRVGDEISIKHGDCIFGAYGALFIGGVVSWAYGQKKGYPNLVPGIDVAALEFAAAPAMVAEHLTESDLVVLSALGNIDESFFGSVDEAARIVGEYIA",
+    "full_length": 122,
+    "sequence_score": 0.7022,
+    "structure_score": 0.6052,
+    "combined_score": 0.6537,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0221",
+    "sequence": "PESINSKIPNSPSYENSNKPQLTESKALKSKSVESASSEQNSFDVNDEKR",
+    "full_length": 50,
+    "sequence_score": 0.7246,
+    "structure_score": 0.5729,
+    "combined_score": 0.6488,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0423",
+    "sequence": "DRKADGTVNLTKPKKPTSIDDNNKKAAKDAALPSNSNATAKGSQSKDRSTESKSKSRQNPISFTQALPSTLAMVQEKLHHEARGPASRRSHLGLPGQIEQ",
+    "full_length": 133,
+    "sequence_score": 0.6985,
+    "structure_score": 0.5985,
+    "combined_score": 0.6485,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0001",
+    "sequence": "AERPLTEESVVEVPVADEPLAEGNNVVAVVMDSPKDVMKSKMEAVAQNLAAEKANSSGSGSKHKQRYLDQSNSHTDKQRTEGDANSAMAAGTTKVSVSAR",
+    "full_length": 137,
+    "sequence_score": 0.7046,
+    "structure_score": 0.5847,
+    "combined_score": 0.6446,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0223",
+    "sequence": "LAPRIDLARQLPEVSQLTNLGLTENLAENLASPPVNDALIAHLINLPPGAVKAIPFVFYVKAAEIFQRRRSVKELAASPGGSESFSRAFLERYDFQELQK",
+    "full_length": 178,
+    "sequence_score": 0.6948,
+    "structure_score": 0.5942,
+    "combined_score": 0.6445,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0124",
+    "sequence": "KNGKYYLGRPAEMEIALEKLKMRHFIAVPLKSVTSPELATALNTGASERIHRLRQELQVPEGEGAGDERTA",
+    "full_length": 71,
+    "sequence_score": 0.6915,
+    "structure_score": 0.5972,
+    "combined_score": 0.6444,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0003",
+    "sequence": "MQQLLDIFALQAQAGMSRDDFFGKDLVLQALNTLWDAFKLSYRTAADLEARPGAEGQLLAGFKGALSLLVEGLFARGQPETGAVVKTLRQWYLRRVFR",
+    "full_length": 98,
+    "sequence_score": 0.6906,
+    "structure_score": 0.5973,
+    "combined_score": 0.644,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0122",
+    "sequence": "MEHSTTVKPPQRMILEISKISGVSQGFLYRLFQKEGMIADQWSIEKIQEHHQSFSE",
+    "full_length": 56,
+    "sequence_score": 0.7167,
+    "structure_score": 0.5704,
+    "combined_score": 0.6436,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0220",
+    "sequence": "MNLTISGSTTANTAAGASPLAVPSKARSIAKEPMITPFFINSSSLAPISIAKSRRNNASLKNQI",
+    "full_length": 64,
+    "sequence_score": 0.7351,
+    "structure_score": 0.5513,
+    "combined_score": 0.6432,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0427",
+    "sequence": "MAAGFHEASVMAHTTGVDPQPGTLLEWGADGLPDVKSYKETVAKALDMDYEQVEYQAGTLGCGGGFDIYDIAVELADNPPDTELRFGKEDCLDQAKEISR",
+    "full_length": 103,
+    "sequence_score": 0.6639,
+    "structure_score": 0.6221,
+    "combined_score": 0.643,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0004",
+    "sequence": "NFPRSTRGSVLAARYKEKLDVTLVGGFEKEMALANVRARAGRGGSGGASISLDDLQGTLVVVFDAFNNRVLSNDPLISGVPLVSSMDVLSQAIEGQQQEA",
+    "full_length": 166,
+    "sequence_score": 0.6834,
+    "structure_score": 0.6017,
+    "combined_score": 0.6425,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0322",
+    "sequence": "MLRVRLALASRILTYWSGYHRRPINMITGYEITSPVPSGESGKSVDPAAQEFTGDLARTQAVFQAAGGFESVKIIGDPYKIRALGKHLGNLADSLPGTNI",
+    "full_length": 155,
+    "sequence_score": 0.6792,
+    "structure_score": 0.6054,
+    "combined_score": 0.6423,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0129",
+    "sequence": "DMRPALETLPTLISIMESKKSLLVLSELAKLKEEDHAIKKCIPSTSSTKELMLSRYAKKNNFKLYYIDDEVKSYYNTDSLVLRSLLGKNNTELFQLPFAK",
+    "full_length": 106,
+    "sequence_score": 0.6736,
+    "structure_score": 0.6092,
+    "combined_score": 0.6414,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0421",
+    "sequence": "MDKETLSVDDAAKQLAELFKKVNAERENKMACMTAVAGVRKVEEKEKIKKILDQQALKKQAAELRVQPFTGTSKPISRY",
+    "full_length": 79,
+    "sequence_score": 0.7097,
+    "structure_score": 0.5728,
+    "combined_score": 0.6412,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0224",
+    "sequence": "PGDICYSRIRAKQPSSRNGGDASRTAPANGIAAMLLLHSGPVLPLLAMLPEGDKLGLVLQFTVLASVFVGGLLMAVVPREVASVLGYDGGRSPLVLPDGD",
+    "full_length": 104,
+    "sequence_score": 0.6935,
+    "structure_score": 0.5863,
+    "combined_score": 0.6399,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0321",
+    "sequence": "MLYWYLDARRKFRRVFAGGLRKNGVFRRGLILLLIVLVLVLNVLILTMQAVDKGENVRRLKSALIEELKLEAALMGDDPQFSLADAQAVGDELRKQASVL",
+    "full_length": 163,
+    "sequence_score": 0.6881,
+    "structure_score": 0.5906,
+    "combined_score": 0.6394,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0228",
+    "sequence": "ASPAAHVEDIIAAAAKLKEEPKEQRSFWRFFRGNKQKDDEQFLAFQAMEEELKKITLGASVNAWRFDGMITMMLPDPSISDGINIIKDKYFSSNIEKARE",
+    "full_length": 134,
+    "sequence_score": 0.6827,
+    "structure_score": 0.5955,
+    "combined_score": 0.6391,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0424",
+    "sequence": "MRTIPIELVCENKHVHILDDGSMGDDTQVEIDNAALLDLENRKISIIGPYTRAPPLTRREFLERLGCAVGLVARAAARREAEIEGPMDNFFEGAERNFPA",
+    "full_length": 127,
+    "sequence_score": 0.6856,
+    "structure_score": 0.5916,
+    "combined_score": 0.6386,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0226",
+    "sequence": "MAKGDTLGQRNFLLLEGFEDEGNGIDLLNTCLYLKAEGGTLDRPVYRLLLSRDHHNKRRGVLPRAKAEEGRSSRLVTFFPIKGGTRRKCVQQKLRVLVRL",
+    "full_length": 123,
+    "sequence_score": 0.6877,
+    "structure_score": 0.5873,
+    "combined_score": 0.6375,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0422",
+    "sequence": "PPLAPRLDEGELCRRARAAALVRRGSLEVLRRGAMALPSSLLLALLKVAGLAACVQNPRRPKEKLIYKKLLPTVKTKVEVPGRVVEADTWARRFGDLIEL",
+    "full_length": 104,
+    "sequence_score": 0.7075,
+    "structure_score": 0.5662,
+    "combined_score": 0.6369,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0229",
+    "sequence": "MADKKTERIAVHSGSGKASDARKIAEKDWGDDLILFPGKASFHTAVKNYNAFVAEVLLALRVKNP",
+    "full_length": 65,
+    "sequence_score": 0.6793,
+    "structure_score": 0.5936,
+    "combined_score": 0.6364,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0006",
+    "sequence": "AGDIFARFMRRDSKSVLASLDFNVLRDIGSAAAFDLGVSSDQGQRKNLNAHLSAAVRLDLSSFLIASHALRLQVVEGYTGGIELADGSFKLSADDPNNVK",
+    "full_length": 135,
+    "sequence_score": 0.6733,
+    "structure_score": 0.5991,
+    "combined_score": 0.6362,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0225",
+    "sequence": "ANVDLDVTLSIKSIPTHGFNDVVALYKATRAAYNFLVEQMESYLQKQHAETAIPFRIRELHLKESSGQNITKDDLKFLVGDEEDEDD",
+    "full_length": 87,
+    "sequence_score": 0.69,
+    "structure_score": 0.5823,
+    "combined_score": 0.6361,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0323",
+    "sequence": "MEYLIEIQDAHCTDTGGIVVIRRPGLDVSGQHLERQTVCPALPLWRYSAIDEAARAYTKLLAQEALAQAARENGRPVRSIIDLE",
+    "full_length": 84,
+    "sequence_score": 0.6781,
+    "structure_score": 0.5941,
+    "combined_score": 0.6361,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0009",
+    "sequence": "NLLYVVIKEPSGISLSQGFSELSIDNLRCFISQEWTAEVFEKAAGLALSSLQPSYKNPLYASAVKQKGVLANYLISALSQVPDQYFLRSLEVNEIVMENR",
+    "full_length": 152,
+    "sequence_score": 0.6719,
+    "structure_score": 0.5998,
+    "combined_score": 0.6358,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0123",
+    "sequence": "MQQRLLAPRLESPLDWDDLVDAESPHARGATILTVSHTPPPNLPILFPGSIQQDTRRMILEDDMRERIAKLTREIQDVEERLLNLEMARRLSTAR",
+    "full_length": 95,
+    "sequence_score": 0.6927,
+    "structure_score": 0.5781,
+    "combined_score": 0.6354,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0142",
+    "sequence": "MNHSVPPITEITGLVALKSVEIRALRDVQTYFQPVTDLAASCGIRLTLMFPAAERESASLLSYIGNGSMFLEEDDSQLQMVVLQSAPDGVLWELDRDRII",
+    "full_length": 148,
+    "sequence_score": 0.647,
+    "structure_score": 0.6202,
+    "combined_score": 0.6336,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0007",
+    "sequence": "MISDAAARDAALEALHALETMPVEAPGNGSRIPGAGRGNSLVLRSNGETGLRNRCSEEITVALLMHLDDIILSLLSTSNSVGNDSQMIQAILPKAMYVPV",
+    "full_length": 134,
+    "sequence_score": 0.673,
+    "structure_score": 0.5928,
+    "combined_score": 0.6329,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0227",
+    "sequence": "ELQSAAEAFLLLNLDIVDMLAEFRLLGNISVLFDMLESFDSVVTPTLYLPAFKTRELTAKGLPERRLATGIRTMADKAAEIGAKNALVGLQR",
+    "full_length": 92,
+    "sequence_score": 0.6828,
+    "structure_score": 0.5828,
+    "combined_score": 0.6328,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0027",
+    "sequence": "VIQCSLVRYIPVAFEGTYTDARGECVALYRGERADEGSTVTVKLGAKNYHRQDVSVDSIPAGNRLEIGGHFQPKKGLLSHLYIGSDAKTPPFVRGDDIAF",
+    "full_length": 114,
+    "sequence_score": 0.6471,
+    "structure_score": 0.6182,
+    "combined_score": 0.6326,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0425",
+    "sequence": "VKIDKIPINFDLIGTMSPFLENLCVIGGQADHAGRTEWATLLRNALAMLLKACDGLGIDQPLDFTAICHDMYPNLIPESDGSVSTLVQVDGKGTLSVETD",
+    "full_length": 119,
+    "sequence_score": 0.6702,
+    "structure_score": 0.5946,
+    "combined_score": 0.6324,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0325",
+    "sequence": "MNVPSLNRPNAVRTTVEMPVFGSKSFDKPLEVMLHGPLLPHELRPTVIAELLQNLAHGKRWRESQSLESDTFLEFTISWHADDAPPAQADVHWTHGPVDT",
+    "full_length": 132,
+    "sequence_score": 0.6598,
+    "structure_score": 0.6045,
+    "combined_score": 0.6321,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0016",
+    "sequence": "MASRVSEAGKPSGAPSEEALRQRFAKDPNKALAMEPGWRGMQQLARFNSGSTNPVGVNVAPPESINVLEKRVGNVEGKGRYGDIYFQIYEPAAEDPRGIL",
+    "full_length": 173,
+    "sequence_score": 0.6586,
+    "structure_score": 0.6052,
+    "combined_score": 0.6319,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0125",
+    "sequence": "MKLDTKLLAATAEPQLLPKPFTSNPLDAKKIILTLEGLGGNVDAQFFIPIGGGIDPESRTS",
+    "full_length": 61,
+    "sequence_score": 0.6838,
+    "structure_score": 0.5787,
+    "combined_score": 0.6312,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0230",
+    "sequence": "IPRRGVLTARRIAQAQAAAKSALREDMLANCKRDALSSAYQTGLKLYAAQIKKAAALKNAFNPEKNKAAFRTEQERVKQQCGPAVGTLEAKAKTLKMLAA",
+    "full_length": 114,
+    "sequence_score": 0.6767,
+    "structure_score": 0.5856,
+    "combined_score": 0.6312,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0426",
+    "sequence": "ETTPEAELKAEENTEIATPKENVENLEMESSPQISHTANAAENIDKESEKVEVGTDQRATQTEPELPCDSEICSKGATTLDHELCERTVQKLTVVNDSRK",
+    "full_length": 121,
+    "sequence_score": 0.6672,
+    "structure_score": 0.595,
+    "combined_score": 0.6311,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0130",
+    "sequence": "MPSACSLLLQPASLPVILPSSLSAAAAAATGVRRNSQPKPAGSARRHISMSAINRSDAISLATPEISKLAFEAKTSLSGLSMHSSVSMDDIPWGDVGLSV",
+    "full_length": 154,
+    "sequence_score": 0.6733,
+    "structure_score": 0.5882,
+    "combined_score": 0.6308,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0334",
+    "sequence": "MDLNTKNMKPITIPPTVAPATLSAKIPFINKRLDLLKPGTILIRVDQRFASDSRGRILVDIGIDKSWFQTIDSAGQPETDHSYLKEKLDENGKFLAIHSH",
+    "full_length": 123,
+    "sequence_score": 0.6507,
+    "structure_score": 0.6098,
+    "combined_score": 0.6303,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0014",
+    "sequence": "RLALVSSRGFEDGGGGDNGESQQAEYTTVSSNPASEHANEEDEAGDDSLNTSLLVSLSSSPLVLLSSESNVLFIYHFQRWGEGSSKAPQGIRGGQEINSR",
+    "full_length": 134,
+    "sequence_score": 0.6617,
+    "structure_score": 0.5984,
+    "combined_score": 0.6301,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0331",
+    "sequence": "MTKDEAQTALKTRVRAGGSIQVGNFGAGASHALSRRLRVELSVGSGHHRNVRKAGFLSKADRVGVEPYLRKIAALDLRLIYFLGTGLASAFSDIQVEFGG",
+    "full_length": 136,
+    "sequence_score": 0.6518,
+    "structure_score": 0.6074,
+    "combined_score": 0.6296,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0132",
+    "sequence": "MQSDNDGLRSELTTVDLPLVTRVTQVTLSNEATAKLVLRYSPKKSYIEFESPFAEGLKVGRLFFAGGDRGRRGELVMNALLRGLGQKIAARPDLEAPANI",
+    "full_length": 159,
+    "sequence_score": 0.6629,
+    "structure_score": 0.5962,
+    "combined_score": 0.6295,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0126",
+    "sequence": "MKRHDGRVVNLLAVEGTGQSVDTQGQPIVGSVGEKGSSLLKSHTDGEPIPAVHADVGAVAVVEVEEDDMEFMLLVNQLLDIMFDNPDVLDDIVDPSWKLI",
+    "full_length": 119,
+    "sequence_score": 0.6771,
+    "structure_score": 0.5818,
+    "combined_score": 0.6294,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0136",
+    "sequence": "PPTPENGQAAISPSTPPGELQLSPPPLNEDAPIVMNVGEVVAVGGRGLFLSTNLKPGDTSEYELTVSDDAPYACGQLELKLHLPSAYRKFWAA",
+    "full_length": 93,
+    "sequence_score": 0.6616,
+    "structure_score": 0.5964,
+    "combined_score": 0.629,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0128",
+    "sequence": "MTDEVPGQESTPSNPTSVQKPVPFDTAKLDFFTSTTYLQSAAYEIRSCKIERLSSLHNGLSLALPVGELVKLAEIEFGLPEAVMHPAAPIAQSRAYAITR",
+    "full_length": 169,
+    "sequence_score": 0.6739,
+    "structure_score": 0.5838,
+    "combined_score": 0.6289,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0127",
+    "sequence": "DAEAELKLSHLKRRMIEMREEEDRVKYKVGYSFKDLKRRNEEEEKKLLEDQKRYKLFSVGENIGAVQRAFGKVSFTATCTKLSAGKSPRLSASFDISPTS",
+    "full_length": 129,
+    "sequence_score": 0.6765,
+    "structure_score": 0.581,
+    "combined_score": 0.6288,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0139",
+    "sequence": "MKPCTFEEYAALCAAVIQPVEHRYILLLGGVFAVERHAASIPSLTSPERLRPGMLSGCVAGRVDLVKLESVIASGQTPRSLAGFLAGIYGARVHHYEEIL",
+    "full_length": 175,
+    "sequence_score": 0.6525,
+    "structure_score": 0.6022,
+    "combined_score": 0.6273,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0329",
+    "sequence": "MGERFQSIIEQSLDEGECALVYAIRHDFEAEMRPIEDFLGEKIEFTAELETAWQEKLAKLTSLRGDIILDYIEPNPKHTAFYLYFSVTSVGDINAGSAHR",
+    "full_length": 165,
+    "sequence_score": 0.6544,
+    "structure_score": 0.6001,
+    "combined_score": 0.6272,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0011",
+    "sequence": "KNLVIDDVDPAAEVNDKKNSAPELREKFLTGENLLWALQEEDKALEAAEETRRPPAAAAADIHVGQTMEGKLKMNKK",
+    "full_length": 77,
+    "sequence_score": 0.67,
+    "structure_score": 0.5839,
+    "combined_score": 0.6269,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0133",
+    "sequence": "MNRSHNFYKSASGAIRDRARHMQELFGEDDEINISIAGEPNHSSLIRRWQRPYRFNFQLMFYSMTILASIIAVLVLTGLFAGHFNISLPYSGRMIRVQNV",
+    "full_length": 153,
+    "sequence_score": 0.6628,
+    "structure_score": 0.591,
+    "combined_score": 0.6269,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0138",
+    "sequence": "MSARNTRGKNAKSRRAAEVTRRVHVVNEGQTLRTSPHIHKGRDIRMIREAKNVDLKALCSEYGASGMFSRMTRPGMDDIISVLESKPKKKNIKDKRSAPF",
+    "full_length": 144,
+    "sequence_score": 0.6562,
+    "structure_score": 0.5975,
+    "combined_score": 0.6269,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0019",
+    "sequence": "MSEEEGEMLFGELAPPAAEITNGSILLPLQEADVRAYCNTAIPGSFVYLTSQTEEGGSVAQAMEDAYTPYRPMLAVAMGVIKHQGPTQTYVHKGDIIAMH",
+    "full_length": 177,
+    "sequence_score": 0.6552,
+    "structure_score": 0.5984,
+    "combined_score": 0.6268,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0429",
+    "sequence": "MSSENANLGIIPEMMTTHVYSGKSKKVSKSSTRVNPIRTQHSHAGVTNLYAKLSQRRKNISSTTPNAKLVKQFGHVKPEVVKEILLYLSSLDGNVREMPF",
+    "full_length": 124,
+    "sequence_score": 0.6585,
+    "structure_score": 0.5951,
+    "combined_score": 0.6268,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0031",
+    "sequence": "ARNLTVQILDGVLSRANETKGTVYAISEDVFFAANHGPIDPPKDVVYELEQVFQRGGIKAVRYPDEQAYKELTLDVLYISAETPSGDFMLYSRRMVGT",
+    "full_length": 98,
+    "sequence_score": 0.6415,
+    "structure_score": 0.612,
+    "combined_score": 0.6267,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0134",
+    "sequence": "MIDLLIEQVRNSVSWAAHQTASRLQEAVGTANATDAAVTHDGKNVVHVAIKPGAHHINGAKIIVRPDILHIRLGAVGAGLTAFSFWYDITRGSLSSRSPG",
+    "full_length": 177,
+    "sequence_score": 0.6627,
+    "structure_score": 0.59,
+    "combined_score": 0.6264,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0233",
+    "sequence": "IFRLEAMSKDLVVKLEEVTPGILEVEGHAMKLDLEPYAAPADVATRLTTHISAVAVGDLLDREYRMQVRAFKVPGEHQPERSQAAPEALACSTTGGVEFT",
+    "full_length": 123,
+    "sequence_score": 0.6588,
+    "structure_score": 0.5936,
+    "combined_score": 0.6262,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0236",
+    "sequence": "NCATDGNGGEPPFDDLAPLPPISPKKGAQDHISGYLGGSGGATSPVSSDPPDISQFSASPLARVVFADDLDSAEEKEIYHRACLEEGQRIFAAAGAGGDW",
+    "full_length": 143,
+    "sequence_score": 0.6536,
+    "structure_score": 0.5987,
+    "combined_score": 0.6262,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0245",
+    "sequence": "MAIDPYAIVNREIAAIVHDEEGFQDILGVNPNIVGVVTAIVYVFNHGYDEYPRAEKGDYVLYVKETLVVPLDDGWVKAVDRSGYPWELETDTESEEIHTY",
+    "full_length": 162,
+    "sequence_score": 0.6378,
+    "structure_score": 0.6146,
+    "combined_score": 0.6262,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0137",
+    "sequence": "MFLQKLETEITNMTLERAPLDNNPLSPQTVNGLNVSGSKKYLPGFGDDPGGSFGGGLGPGAHRYLDCILKDTQHPRLPLPEPGLTMILRTLQEPSPGKKM",
+    "full_length": 140,
+    "sequence_score": 0.6572,
+    "structure_score": 0.5941,
+    "combined_score": 0.6257,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0259",
+    "sequence": "MPVILSMDEAIAMNYSKPVIAAQYDEVWSIAATLDGVQTKLFLVYAGFPRAMAESAINTHKVGFVDRGGDQN",
+    "full_length": 72,
+    "sequence_score": 0.6303,
+    "structure_score": 0.621,
+    "combined_score": 0.6257,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0328",
+    "sequence": "MNREAPDDDGRMGICKILGTDINCGSCGSSSSGRRLNCTLKIPEIVDGRLVVWLPDGSTGKVETPLHPPIQNTDGSITLPQEMPPMA",
+    "full_length": 87,
+    "sequence_score": 0.6568,
+    "structure_score": 0.594,
+    "combined_score": 0.6254,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0017",
+    "sequence": "QVKQYDLNSVSSDPDVERKFNDLHTTLKCYEHLAVLRPDGKVSNILVPDRDQLVAELQQSSPVTNQPLAIGPLDLA",
+    "full_length": 76,
+    "sequence_score": 0.6574,
+    "structure_score": 0.5929,
+    "combined_score": 0.6252,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0432",
+    "sequence": "EPGITNTEASVARQAHASPFAASGAGGERISFAVTPPSASPFASTTDELAELAADLVESIVHSTDGTRNWSNNGCAGRYSRDHWRFALGIPDHEDAQADL",
+    "full_length": 152,
+    "sequence_score": 0.6527,
+    "structure_score": 0.5976,
+    "combined_score": 0.6252,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0012",
+    "sequence": "MSPDEVDQNVHVENHRPSSADAFDLLRALYRDPGNRVISRFDRTYIAIPAILRELIARG",
+    "full_length": 59,
+    "sequence_score": 0.6655,
+    "structure_score": 0.5841,
+    "combined_score": 0.6248,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0238",
+    "sequence": "LLVEAGGILHIKEFTGGSQQPGQKNPPMMVAVGGWTRLSRNLVESILQALSASQPVTTITGTHEVNTAQLASSIAAAEMEADAKA",
+    "full_length": 85,
+    "sequence_score": 0.6512,
+    "structure_score": 0.5981,
+    "combined_score": 0.6246,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0231",
+    "sequence": "MGSKEAASKAISTLARKRFEQKPRLTREMVIDRKLDDLDSYLYWMRPNPREEEDL",
+    "full_length": 55,
+    "sequence_score": 0.6716,
+    "structure_score": 0.5773,
+    "combined_score": 0.6245,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0008",
+    "sequence": "MIVKKLQGVQYEDFEQSLYSRYLKGGEQEINPVKLIETTDSREQVKKEDGSQKDSKERLLTSLLELALNGAPVLPGIPN",
+    "full_length": 79,
+    "sequence_score": 0.6723,
+    "structure_score": 0.5762,
+    "combined_score": 0.6243,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0022",
+    "sequence": "GDGPLVRDVRQLTDTEWLNLAANGDKLSAAYEIPFRYPTGGTLDAIGPVLELHYSGITKEPASDAYVVEVSGHKFEAKNDLGETPLILEKFKF",
+    "full_length": 93,
+    "sequence_score": 0.6514,
+    "structure_score": 0.5972,
+    "combined_score": 0.6243,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0330",
+    "sequence": "MLIKSRVFLSKDVIDAEPIDSVSVGLEGIGAPKKRKTTRADLHRLPPGLTGWVEAAADMLASRDRTLSIDLRPYIMQSDAADYQSLFGQLPGRVHGYDSR",
+    "full_length": 141,
+    "sequence_score": 0.652,
+    "structure_score": 0.5957,
+    "combined_score": 0.6239,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0005",
+    "sequence": "MFHKLLTVLVHDNVLRVDIVIGMDASSSPAAGHAGQAHSNDQSGNEGLLGEGPSGGSGGAVFAPKI",
+    "full_length": 66,
+    "sequence_score": 0.678,
+    "structure_score": 0.5696,
+    "combined_score": 0.6238,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0430",
+    "sequence": "PDAEESNIFHDDDNKSPFGVVNFGQGSSSQIPSLPADRFAGRGLNDGLEIDLQDLKHGSLPKIDDLDDQQI",
+    "full_length": 71,
+    "sequence_score": 0.6571,
+    "structure_score": 0.5897,
+    "combined_score": 0.6234,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0021",
+    "sequence": "MFCLKRDDDALDIRCVQDALTAVPKLPPEIGYRAAQSGSLGIATLILEASRLFGIGPDKVLDVSVNPSNVINAGYYAAGITFLAQAFRGLRETEHAVLPI",
+    "full_length": 153,
+    "sequence_score": 0.6518,
+    "structure_score": 0.5944,
+    "combined_score": 0.6231,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0135",
+    "sequence": "MRPYELNGRRPGEYIRDDERIDIDYMAAVKEGRFWSRPGELPRHPKDPGTGRPAEWAVR",
+    "full_length": 59,
+    "sequence_score": 0.6626,
+    "structure_score": 0.5837,
+    "combined_score": 0.6231,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0241",
+    "sequence": "MEKLLAFPSRPGWITNEFHKIEQRLREVHDAETKVAVVGVYDETDIIPVLLYRVNGETIKNIDFRRSKPFMDLISKQYLDSHRDVQDAGRTIYERGREAS",
+    "full_length": 120,
+    "sequence_score": 0.645,
+    "structure_score": 0.6007,
+    "combined_score": 0.6229,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0435",
+    "sequence": "MYLLHDVDLLAKLGENGMLTLANAKVIMAGAADYGGEEEDAKVIVDFPSVVGKLKYLFKKFGVNLMYQRLMVGEANLV",
+    "full_length": 78,
+    "sequence_score": 0.6449,
+    "structure_score": 0.6003,
+    "combined_score": 0.6226,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0437",
+    "sequence": "MDTINVYAAREDVSDEIIRVYGNARRLHEEIHDYNPGEEIRMEGRLTLYQQAVQVARMAGADPSTYFGLIFEMNVKEPIAEGEEIGVIRIPATANDLAPV",
+    "full_length": 175,
+    "sequence_score": 0.6422,
+    "structure_score": 0.6029,
+    "combined_score": 0.6226,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0340",
+    "sequence": "VSIPSQLLELNKFIALILEGSRGPIDPGTSLTPLRIGLTLPQVAAENAAAAFGYPGLWHSHPAANPEPQANDRHDNQIHDIETALLINIAPKYLAFQAVA",
+    "full_length": 163,
+    "sequence_score": 0.6404,
+    "structure_score": 0.6045,
+    "combined_score": 0.6225,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0143",
+    "sequence": "ETLLTLPPNAPVVPLLLNGKADCDPYAGANAGKPSIVTTDTIQTILEMAGENAMPVEAKMHELGEQLKIEAMAHE",
+    "full_length": 75,
+    "sequence_score": 0.6451,
+    "structure_score": 0.5993,
+    "combined_score": 0.6222,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0337",
+    "sequence": "MLRRSHEVGIKVLIADEIDHMEERGLMSRVQDTLTSQNAQPIWASPPAPNSIKSIRKALQNETPFLASSVWTTAAEQQEAQRTNKWPVDEKVVAMGL",
+    "full_length": 97,
+    "sequence_score": 0.6452,
+    "structure_score": 0.5985,
+    "combined_score": 0.6219,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0428",
+    "sequence": "MLETTVEPILSSAPEGVGRLRFLIKHPEIIPQKQPIHTTVLPNDGETLALPLPFEA",
+    "full_length": 56,
+    "sequence_score": 0.6621,
+    "structure_score": 0.5816,
+    "combined_score": 0.6219,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0327",
+    "sequence": "MTPQTILVEHGHTCEFCGAKHTVLKLLTPGVISVPAYAAEKANMITLLDESGLKEIERRYKPL",
+    "full_length": 63,
+    "sequence_score": 0.6577,
+    "structure_score": 0.5858,
+    "combined_score": 0.6217,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0341",
+    "sequence": "MEYGVELILHTKNVHLYTLINGEFRKVNKYTYVIASGYISSQYIPIPDVTTGISIFTPGEVPSKTTKAVRATSGTVKLYLGGATSKELDDLWGKLAYYKG",
+    "full_length": 165,
+    "sequence_score": 0.6401,
+    "structure_score": 0.603,
+    "combined_score": 0.6216,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0020",
+    "sequence": "VRLGAFIRSKRARGKPEPFFAASRVAGRLFAAVAAFYSASGRGVPFVWTGFMLRRNSPLHFSASRARVKPPSPLSPQDWLFVSCLGMSRARSAVAGVPPS",
+    "full_length": 161,
+    "sequence_score": 0.6541,
+    "structure_score": 0.5887,
+    "combined_score": 0.6214,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0029",
+    "sequence": "MVDDVLPIGLELALYAPPFSMAHLPVAESILKPQEKPRTPEVKTSELRNSSKAQDLMAQLVILEPKGQTFGKGFSLSNHDKIEPDSPPLDTQEIQAVPLQ",
+    "full_length": 163,
+    "sequence_score": 0.6448,
+    "structure_score": 0.5974,
+    "combined_score": 0.6211,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0018",
+    "sequence": "DRARLDGDSEAPVSGLLLHVVSFGYASCSSHSDASSNHISEGGRLGDGLPPYEDDNRNPDDGEEDRVTIAQVREAGADIVLGGEAEAEGQK",
+    "full_length": 91,
+    "sequence_score": 0.6561,
+    "structure_score": 0.5855,
+    "combined_score": 0.6208,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0140",
+    "sequence": "AGGGIGWPFSIEGDSIGYMDKLETRLGAVGPLVEELETRVADGNGSLAQGAYKLVPLVIDSTETDVGQVPSRDAANRHGLSVGVVIEDHNDTVDEEDKVL",
+    "full_length": 164,
+    "sequence_score": 0.6504,
+    "structure_score": 0.5912,
+    "combined_score": 0.6208,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0257",
+    "sequence": "MINKPVHLKCIISAKASPQDMYLADGQTREGVATGDFKPSETARLIIKGKGRLDGKVSKPVEVNVTWDFEQEFRIPPHDIPDGADVFFGKQFGKGFFLWL",
+    "full_length": 127,
+    "sequence_score": 0.6306,
+    "structure_score": 0.6108,
+    "combined_score": 0.6207,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0246",
+    "sequence": "MEDHAGMITLPPPSSVVAGTHQGIVDYDNVIGTIGDPLLGDSDSRIKSVDTEITYTPFDATQTVVNELQPDFTVNTGVQIQPEPMVPYFPTKGYDPEGDT",
+    "full_length": 177,
+    "sequence_score": 0.637,
+    "structure_score": 0.6039,
+    "combined_score": 0.6205,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0032",
+    "sequence": "MPFTNTSEEEDVFNILVQNLLNHDPGGISVSASASSNSVSIESLPNAHCGKGCHIKRNSFMSTAQFINKAQRALRYNRTVSISGSNDTGGFSGRSDSKAI",
+    "full_length": 148,
+    "sequence_score": 0.6407,
+    "structure_score": 0.6002,
+    "combined_score": 0.6204,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0026",
+    "sequence": "GLYVATQDDVDGGNYVQQGGVLASKSATQAIRWAIASLKERLMPLRRRVERRDWLDAQVLAGHRAVTLMRQADALAQQVATQKHAIMRRTGASAVIRYVD",
+    "full_length": 174,
+    "sequence_score": 0.6474,
+    "structure_score": 0.5931,
+    "combined_score": 0.6203,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0237",
+    "sequence": "EKSSRATHDSDSDNDDSAESDRVPGSDPEAYLTDGTNVHITSEGEWATATQVSTADSVKGLYARPITNSQAAEYTFRYQVGQLPTVQQPKRVTWARVSEV",
+    "full_length": 129,
+    "sequence_score": 0.6515,
+    "structure_score": 0.5888,
+    "combined_score": 0.6202,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0256",
+    "sequence": "STLTLPFPNGSQSISVDDGDSVLIQAPACLMINGNNVSKCKPFVKYEARVTSVQKGDDSDVYWKTIIGGFDSGPLPENWTGVIQAHPRWQEIK",
+    "full_length": 93,
+    "sequence_score": 0.6311,
+    "structure_score": 0.6092,
+    "combined_score": 0.6202,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0326",
+    "sequence": "MLLYRSKDWLDYYAPLLELEPYAPPGTKPEGVPAEWVELLTSTYSPWTKATIVATRNAIDG",
+    "full_length": 61,
+    "sequence_score": 0.6585,
+    "structure_score": 0.5819,
+    "combined_score": 0.6202,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0040",
+    "sequence": "MIAQREIIPQLFHRFYTLHLGPALNGTHGPGNPYSDVEDLAQESLEKAAGAQRAEGARLKRDGKRYSFRSFYRGVIGRISAASVFDREGTMTHQVYDAKI",
+    "full_length": 104,
+    "sequence_score": 0.6315,
+    "structure_score": 0.6086,
+    "combined_score": 0.6201,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0153",
+    "sequence": "TLLILEAGYPFIGLNFINFTERVSAIYGGPETPTVPFKRVLQPMLVESHILVFLDCCNTTEQSNLYTRLIKTKEDMVEDEVKVINLHKPNRSCTSLVVGN",
+    "full_length": 166,
+    "sequence_score": 0.6311,
+    "structure_score": 0.6088,
+    "combined_score": 0.62,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0234",
+    "sequence": "MASTCNQPAYNSPQACRVVERRTGSSAGYASYGLVGIQFAAACVLILIGAPMSFPGFGKEQFDSSKVFQFAVGAYLGVEYCLYFTGIKREALDIAANKAP",
+    "full_length": 156,
+    "sequence_score": 0.6575,
+    "structure_score": 0.5825,
+    "combined_score": 0.62,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0247",
+    "sequence": "MEHYSKGKKEHEADTAPSPTTGNSARSNTESFADQDEELELSMKSHTTDDDHERMEIRTEGQISDSLESNCKTDEYYPCESLSPHLGSPLSHKTMELQDA",
+    "full_length": 179,
+    "sequence_score": 0.635,
+    "structure_score": 0.6048,
+    "combined_score": 0.6199,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0025",
+    "sequence": "MLLAHSALLGWRRRLGNAGLPTQSASPKLLNERDGTLFDVAEAVPGYKLRALSPQLTTPKHPETAPLQIKCGGASAKILIPSV",
+    "full_length": 83,
+    "sequence_score": 0.6486,
+    "structure_score": 0.591,
+    "combined_score": 0.6198,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0333",
+    "sequence": "SSPLIASEGAAEKEAIWRNFVARLGPPASAAIGSELEGANVNKTISGSLRDAVGGERVGGSEFSEAEQSAYELPAIQLAVVRALPRVPEIQLPLVSIGHF",
+    "full_length": 136,
+    "sequence_score": 0.651,
+    "structure_score": 0.5887,
+    "combined_score": 0.6198,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0344",
+    "sequence": "MSTKSDLGSSESLYDAFHSGIASSQGLTSSRKTTRSSPLHEFQGDDAQEMKSAKITHSGLSTRALMVKLKVKASDRIAHVTRVLPPYIVPPYLDPNIPFD",
+    "full_length": 178,
+    "sequence_score": 0.6351,
+    "structure_score": 0.604,
+    "combined_score": 0.6195,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0343",
+    "sequence": "MKDLKQLHNYGIYLSEANSPLTEWVSQYTKALSEEEQKLYMYSIIDHDGDGYILTIRPREPERVLNVSWQEVKNAFPSGHVDSYVIGQHVSAVDTLAEIL",
+    "full_length": 131,
+    "sequence_score": 0.6354,
+    "structure_score": 0.6032,
+    "combined_score": 0.6193,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0023",
+    "sequence": "MVNDLEDLLARAHASIVIEHANGGFTTEEQIDAFSILNACSTQKWTQPTFHQQRIINFKTSEELAAECLERNEWAILEQLRAQGKLPDDNHN",
+    "full_length": 92,
+    "sequence_score": 0.6504,
+    "structure_score": 0.5881,
+    "combined_score": 0.6192,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0235",
+    "sequence": "MIFLGFCSSALMPKISAPFLVAEAANISGQSYTSRLNAGHAGFRFVIAHGQGGFSYAMHFEPGASPLAYATTSLAEREFNVGTVQAALESASAPVT",
+    "full_length": 96,
+    "sequence_score": 0.6552,
+    "structure_score": 0.5827,
+    "combined_score": 0.6189,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0336",
+    "sequence": "MISSYSLGSDMEQAKNGYRRGVKSVWSKLFPSKRRQLRLQVPASLAHHWCQEMLDHLGVTKPDLNDSVHYKIVLLDPATGEKSFSVVTDIKDYILGSTNG",
+    "full_length": 130,
+    "sequence_score": 0.6465,
+    "structure_score": 0.5905,
+    "combined_score": 0.6185,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0440",
+    "sequence": "EVLNSELEQPAGWPPDSPTLVPDPSGRFNDDKGLQHDVALGMSFDATDLEIVMTFLETFVFDTEFREGELSDAFLRFVPNDDDTAADSRVMTLSPLDFDI",
+    "full_length": 119,
+    "sequence_score": 0.64,
+    "structure_score": 0.5968,
+    "combined_score": 0.6184,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0266",
+    "sequence": "GISGSIAMGLSGASMVHMLSQCKDKLVALIGGAGVAVVRNNKERNKGFYKKGMYGKGRLKLNGGERGAFTREALKAALDDFGLNKEIEIIEEVTCTNANG",
+    "full_length": 172,
+    "sequence_score": 0.6248,
+    "structure_score": 0.6118,
+    "combined_score": 0.6183,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0439",
+    "sequence": "MPNIFSGYIGNQKNNNDPSNTVIVPDMLGQNILELAGIGDKNKKASSSLTFAQDQTLRKGKKPSVLVPDGLFTSYNVITGAAPITESALLNTEFSGYVSS",
+    "full_length": 157,
+    "sequence_score": 0.6413,
+    "structure_score": 0.5943,
+    "combined_score": 0.6178,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0036",
+    "sequence": "MGKSEFPAESFCTEPEALIEIMFAYYDLRSDVHAPGYHRDPGVIKWDDPDPTAVPIDFPANAMDAILRQHKFVYFADDGSIFKIVCEGDNWWCQDIDGSE",
+    "full_length": 132,
+    "sequence_score": 0.636,
+    "structure_score": 0.5995,
+    "combined_score": 0.6177,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0434",
+    "sequence": "MTATAEDTTALDYVELAAAVAVDANQFDTFADVEGQASFNLVAGLAVYQSAADFFGVAVLQLGHVMPNRATTKGMLRPIGVIKDQAVWNMLVRSGASSGT",
+    "full_length": 129,
+    "sequence_score": 0.6462,
+    "structure_score": 0.588,
+    "combined_score": 0.6171,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0436",
+    "sequence": "MNVPPSEENGPGDLLPLSSFEPTDEVRGKHYEGFDGRPYKLEEGSNPRSLAVGPVLELVLRPRAADLRHLSGTPISEIEALLVPPNLLGSQKRPELSGLT",
+    "full_length": 140,
+    "sequence_score": 0.6425,
+    "structure_score": 0.5917,
+    "combined_score": 0.6171,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0232",
+    "sequence": "MRIKRSSVHVPDALAEASVEGQELRISHRQDCSDGVGAGRDAEDEKVTMNSSIRQAQTAEDGDAVDLEDGVVQLVSDRADVSVEPASETAFFSAHIQVR",
+    "full_length": 99,
+    "sequence_score": 0.6669,
+    "structure_score": 0.5667,
+    "combined_score": 0.6168,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0324",
+    "sequence": "MSSHVSFISSCSLTHTVLITFCGCLALAALAQADERQKMIDDGLTESFFERLMTQAAPTSDRLVTFDVDVRHKVPVFREVEMARAFGSK",
+    "full_length": 89,
+    "sequence_score": 0.6681,
+    "structure_score": 0.5651,
+    "combined_score": 0.6166,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0013",
+    "sequence": "MVIHALLDHHVERIAAEAPNADDLLDAERSERIAKILGWTLASKLFAQNPFQAYGNRRVHRGEAALQLQLAVCLSTGEADVVHGNRPRAGHAPLEPGFSD",
+    "full_length": 153,
+    "sequence_score": 0.6655,
+    "structure_score": 0.5675,
+    "combined_score": 0.6165,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0028",
+    "sequence": "GELRHLSRTPSPPPAGTFVRGQGGPGGVHICRTHSPISLPSSGAATLTKKHVAPRPKIYINVLLQTKSILAHNYEDVRTKLH",
+    "full_length": 82,
+    "sequence_score": 0.6459,
+    "structure_score": 0.5871,
+    "combined_score": 0.6165,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0239",
+    "sequence": "MKKLAANFLKDLQKEIEDTSGRVLTSHHTFLFLLEAQKTANSVELEEKSMHDIPTMLAELTGSVWTF",
+    "full_length": 67,
+    "sequence_score": 0.65,
+    "structure_score": 0.5823,
+    "combined_score": 0.6162,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0131",
+    "sequence": "IYGNRLTKSFLILTSISKAQKKANSQASADFIKQKKSTDAETNSYNCGECPGPYCFCKEYSSVKHFYSSLPNRMKSEATVKSSLSNVPDVKSDITAITTT",
+    "full_length": 144,
+    "sequence_score": 0.6679,
+    "structure_score": 0.5642,
+    "combined_score": 0.616,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0033",
+    "sequence": "MYNSGSPNLAGRTYSRGLDKGGTSILKLQGRLSAVENDKTTEVDSGIEISAPAILVDNIGDTQQSIAALTLIGQSIDLYDETTGTALCVWQDDEAFSSNV",
+    "full_length": 108,
+    "sequence_score": 0.6393,
+    "structure_score": 0.5923,
+    "combined_score": 0.6158,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0260",
+    "sequence": "LQPSEWNQLPAARVQAFSPEVPDSETFRRLPVLFEAVAVARAGWLGSLSSAAARDTPPLEEISEEDAGEALCPDYVALEQAIGRTPQLQYLVLEVRNKST",
+    "full_length": 174,
+    "sequence_score": 0.6302,
+    "structure_score": 0.6013,
+    "combined_score": 0.6157,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0037",
+    "sequence": "KTKVNHGPIAPGTRKGLIIFKCHQKESDPESMQDDSLREYRIDSTYRPYISEAIVEAEDPVEQQETRKDWDAEMDFLRQADSFQWSYGKFTHSSSNVSQS",
+    "full_length": 169,
+    "sequence_score": 0.6345,
+    "structure_score": 0.5967,
+    "combined_score": 0.6156,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0141",
+    "sequence": "MSIKITNQGCLLDDEIGWNIAHSQNNEPIKLILRQPLTTFGGAVIPDGIYAILHLRGQDTNNPLTVVLDLVYYD",
+    "full_length": 74,
+    "sequence_score": 0.6483,
+    "structure_score": 0.5829,
+    "combined_score": 0.6156,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0339",
+    "sequence": "KKGKDGLSKAGSILALGGDYASTFAKEIVSKQIRFLGVPDLGHTCMLMEKPLEAITGINDI",
+    "full_length": 61,
+    "sequence_score": 0.6442,
+    "structure_score": 0.5864,
+    "combined_score": 0.6153,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0010",
+    "sequence": "MDPRVASLIMLSNVVFADMSFGFSGAALLGMAVFIMEPVIVTSKATVAGLLALPSNH",
+    "full_length": 57,
+    "sequence_score": 0.6717,
+    "structure_score": 0.5588,
+    "combined_score": 0.6152,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0249",
+    "sequence": "MNTSKNPYLPFDEIMTHPMNDRAWMIEQTTKLNMGVPSDNRPDIQANARLDAARKPADAAVPPKKGLMHGILTAGIAFAPPRLHQCGGGAYDKGWLLQGR",
+    "full_length": 170,
+    "sequence_score": 0.6332,
+    "structure_score": 0.597,
+    "combined_score": 0.6151,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0450",
+    "sequence": "MHQRDPAKECMSVKTACDQNSASVRTQSFRPVPICTVVPEKVETMLVALKNALGNSRYLSRLVGDLEAEPRLFEILVGSIAAVHDGLRKALVEAYIKPYK",
+    "full_length": 136,
+    "sequence_score": 0.6243,
+    "structure_score": 0.6058,
+    "combined_score": 0.6151,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0039",
+    "sequence": "MKDVVIALGAEVGLFAPPGPDGTKPAQLPIDEWEQERGLRAALGYPHTDDAGIKFIIDRLMTDPANGNKGPADPLWVVPGRCDEVLRTDDPGDQARAPRD",
+    "full_length": 116,
+    "sequence_score": 0.6318,
+    "structure_score": 0.5982,
+    "combined_score": 0.615,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0448",
+    "sequence": "QGQDNTPYVAMFLLEVPEQKVKEHRENVAHFNGQGKPSPLVKHEAIIFGRPGHVDCVKYMDFSRYPSLERFFLSSDNAAVEAYRATRTDPRGKDDK",
+    "full_length": 96,
+    "sequence_score": 0.6254,
+    "structure_score": 0.6044,
+    "combined_score": 0.6149,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0258",
+    "sequence": "MTPRQPQPVMVRKGTEYGAGKAVMLCVVMALFFGCLVSFVGFLIPAPVDGVQGNKQSLTSAQVEKALFQSVVAGYRDPIYAHHVVHCPHMVMVWKASNDQ",
+    "full_length": 168,
+    "sequence_score": 0.6306,
+    "structure_score": 0.5991,
+    "combined_score": 0.6148,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0345",
+    "sequence": "MRQAAMEGEGYGCYIPNPLQKRELDQRMFQLKQESFKNSGRYDWHDRVYGGDSTSTGTVSKAGQIQEIAEEFQSTLASDYRGRRRPEQAVQAATAQPSSL",
+    "full_length": 132,
+    "sequence_score": 0.6339,
+    "structure_score": 0.5948,
+    "combined_score": 0.6143,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0355",
+    "sequence": "TILVALSGNPAHAIIGRFAIDAPSVKTVFPEGAELEVRKDQPEICFHFDGAADIIVVPDKAALIRACGHFLRYGVYLAKAPGGAHFYWLA",
+    "full_length": 90,
+    "sequence_score": 0.6223,
+    "structure_score": 0.606,
+    "combined_score": 0.6142,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0242",
+    "sequence": "MIGDFSVNYDPVGLHEKVIAKAVVGSLYVIAYTPSPLNSIMFNDDSGGDNVQVASGRISNQGITGFHLHLGRVLDLLGPTSPSTALPIGPSPVAGPVSDG",
+    "full_length": 137,
+    "sequence_score": 0.6431,
+    "structure_score": 0.5851,
+    "combined_score": 0.6141,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0433",
+    "sequence": "QVQESRRSSKKKASPMAALGKVQAVLDAHYEKLGEVLPDGHLYSCYLDNGGRRPRSRYIRAVLPLAGHRDVPKVGR",
+    "full_length": 76,
+    "sequence_score": 0.6488,
+    "structure_score": 0.5795,
+    "combined_score": 0.6141,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0163",
+    "sequence": "MCWFVNLFEPTQIYRCEKCEVVVKPLKEKLSAPVAVGVRISRGVDTNRLQLYAEPIEDKDWKGTAGSFETINFSFEFMHTGPGYGAIVSGGEYHRGNRNY",
+    "full_length": 145,
+    "sequence_score": 0.6247,
+    "structure_score": 0.603,
+    "combined_score": 0.6139,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0342",
+    "sequence": "MEKDGDSENEENQRNQLYISSGARYDGRLETIPMDSQDEFYLSQTYDVVQASLNVPEIEPDRREIRFNLQDPL",
+    "full_length": 73,
+    "sequence_score": 0.6386,
+    "structure_score": 0.5892,
+    "combined_score": 0.6139,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0445",
+    "sequence": "MFDARRLSRHFIGDEDAELCYGDPDLEASSRIKLLTNVSCDIEEGSDASFKESIITDETDVFAIDNFTIKAVGMLGVPPKIDISALVDGVKMGSLGPASL",
+    "full_length": 140,
+    "sequence_score": 0.6304,
+    "structure_score": 0.5973,
+    "combined_score": 0.6138,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0158",
+    "sequence": "MVELEDWDYGGPSVARKGKATIAEFSRQKTDTTAQGGRIEIEGIKIIFRYLGLLQDNAKEGKPYYIHPDPADLGKFEPLLKNKSKTLKSHDLLSALTGKK",
+    "full_length": 101,
+    "sequence_score": 0.6283,
+    "structure_score": 0.5989,
+    "combined_score": 0.6136,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0438",
+    "sequence": "MKSFRPVIRVTGDRTVVISDKNNGEIVISGPAAWKLLTTTLLDNKPIPDRTHVDTQHILTNTLRYPIPNGANPIGEQKSTWSGLGIDFSMGG",
+    "full_length": 92,
+    "sequence_score": 0.6415,
+    "structure_score": 0.5855,
+    "combined_score": 0.6135,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0024",
+    "sequence": "VSDKPGVNPLFTECATGRLLVSLLGPGTGVNGIGISNLERVKDGSAKTSKPTDGRSQRIRDTRRKKKKKKDEKQKYADNVYQRVKELLRQLLRKHPDVIT",
+    "full_length": 121,
+    "sequence_score": 0.6487,
+    "structure_score": 0.5778,
+    "combined_score": 0.6133,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0353",
+    "sequence": "MATPNNHVVRNHIIYYYPYPKAFQIDARYLSNDDIHWVVPLVSTVETGQVLYGRVIKITTNNGTSNNVVTVMRKDEQGIYLGLKMVEKADMFYSAYTTKS",
+    "full_length": 101,
+    "sequence_score": 0.6227,
+    "structure_score": 0.604,
+    "combined_score": 0.6133,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0144",
+    "sequence": "VYGGSLVGLVHSGGMSQTCSSISIAANIPSMLDTEKVRDALTNLFTSTIPSIEAELEILLEEERVQTERWLFQNEPEFDGWPAVTDAGTLHYVGRVLVLF",
+    "full_length": 134,
+    "sequence_score": 0.6384,
+    "structure_score": 0.5881,
+    "combined_score": 0.6132,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0038",
+    "sequence": "PLCSALKKVSPLCEPYLDTLVGRTILEARDADAEGPSKAYAIGFQTMFIAPKMLMYDVDGERESIEESDDGVSASLTDFEMESVDMDMGMENVDTGKSNH",
+    "full_length": 117,
+    "sequence_score": 0.6325,
+    "structure_score": 0.5937,
+    "combined_score": 0.6131,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0243",
+    "sequence": "MMQVATLYKNNDKLQVPSALDDLAELQIARRSKLRRSALAMGYESTLARAVSTQIDKIHHRFLSQNSQSKI",
+    "full_length": 71,
+    "sequence_score": 0.6406,
+    "structure_score": 0.5856,
+    "combined_score": 0.6131,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0155",
+    "sequence": "SVKGLEHGILNVEKVRYLAGFTDRLHTLFKAVEGQTERAIVFQPFFLTLMALVDFAWQDKFYHELPHPSKAAQRKVDIFMNGQTLRELIASYVGERLTGQ",
+    "full_length": 127,
+    "sequence_score": 0.629,
+    "structure_score": 0.5971,
+    "combined_score": 0.613,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0152",
+    "sequence": "KIAQKWDIVANKIGLGEEQEKGIQLWWKGDSLTLVHYPNTFTKGRTKTIELFINCPRKCIKMSRGFFIRVGNVAGKRTEGLQAERDQSDMAEAALASALE",
+    "full_length": 158,
+    "sequence_score": 0.6316,
+    "structure_score": 0.5942,
+    "combined_score": 0.6129,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0149",
+    "sequence": "VGEPITPEEQARVPDIPWAGMHKKTLAGAWTAKKLGCPADGVDPDAYRSQPVAEAQVAQALGKAGAVWRAAKGDKIAPVFL",
+    "full_length": 81,
+    "sequence_score": 0.6342,
+    "structure_score": 0.5913,
+    "combined_score": 0.6128,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0338",
+    "sequence": "MPGQFGFAESAKGTVYAWGFPTPSVIVEGAAQLVFRHPQGFQLRKIGDWIVLLKDAIFAGDQKVVADGYADVENEHDHIAEQYVRILRGQPRVDIQNKLQ",
+    "full_length": 152,
+    "sequence_score": 0.6451,
+    "structure_score": 0.5806,
+    "combined_score": 0.6128,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0015",
+    "sequence": "MMNGSMRQRHPDLATLEGFIGQEAHLLDQALSSSVDGAHPNRGNTGRPGNPYFLRHHPFATPV",
+    "full_length": 63,
+    "sequence_score": 0.6603,
+    "structure_score": 0.5652,
+    "combined_score": 0.6127,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0072",
+    "sequence": "MAEKARRADIWGVRRAMAEIMVCDGGSGLRIDIKSSFLVGATIALRLTPDVGNGPIPGGDVDFSAGQTQVAGYGLQTIMPDKHLFGYRYPEDTQHNPEYI",
+    "full_length": 105,
+    "sequence_score": 0.604,
+    "structure_score": 0.6209,
+    "combined_score": 0.6124,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0173",
+    "sequence": "TVQDKPSLTQATANAYVSYDHLDEEEIQEIAQIILETIQKLPKADDIDQQDKEDLLIGDWMTTLESNIDDLTASFDIVCKEIQAADEVLVGLELEPALGL",
+    "full_length": 169,
+    "sequence_score": 0.6189,
+    "structure_score": 0.6056,
+    "combined_score": 0.6123,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0449",
+    "sequence": "IGEFLTESYGSTDVTYFDYAESAAADRLHEITAHKMGSVFYMQVIGSYTREEAERRICRQEGIVRPVSI",
+    "full_length": 69,
+    "sequence_score": 0.6244,
+    "structure_score": 0.6002,
+    "combined_score": 0.6123,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0076",
+    "sequence": "PLSQNLGGDGYCASGQIQGKSQANIPQTFLAKVVRLPALFQFLPTDLAGYHYASQMEKILKDTPLTATPEKWIKNVHYENLQCLRERWNNAFAKEATKGL",
+    "full_length": 142,
+    "sequence_score": 0.6012,
+    "structure_score": 0.6231,
+    "combined_score": 0.6122,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0145",
+    "sequence": "MSRLTDTQPAWYGDLSEFGSTPGHAVYLQGKVVVPDVILDQLFYGTPTLANAQLVSFLMELHQANRLDAELVGSLDHYCTSTQ",
+    "full_length": 83,
+    "sequence_score": 0.6366,
+    "structure_score": 0.5873,
+    "combined_score": 0.6119,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0150",
+    "sequence": "MKIGLKTIGNLESSHKARIGNLKHISAHISHLLDSLYEVAKAQSGNIMEGINIEEFPLPEDHEQGDEFYGRDEGASDESTADIGVAEENTHIVIEKHGEE",
+    "full_length": 164,
+    "sequence_score": 0.6334,
+    "structure_score": 0.5901,
+    "combined_score": 0.6118,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0269",
+    "sequence": "MWTSAAVPDDPAYGSGYDARSIHVPGDRPTLPGEFAIANTPEVSYHSVSVEPLLPTSSAGEVAVGANNGHWTHRVGFGYYPSTIAIGGTPASISPTAGPH",
+    "full_length": 174,
+    "sequence_score": 0.6194,
+    "structure_score": 0.6041,
+    "combined_score": 0.6117,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0348",
+    "sequence": "MELGTILGRIRKSAGYLDKGTGRATRYSADKGFALISNDRIKHTFAEYDRMISEDPAFRDKHGVLLEEKERAISPISRAEDELMGRLVEVSAAADAQVPL",
+    "full_length": 105,
+    "sequence_score": 0.6323,
+    "structure_score": 0.5901,
+    "combined_score": 0.6112,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0165",
+    "sequence": "AAPSPSSAAALQPQIDHNEPNQGHWPDGMNREHIENHDTASPCAEKRGEPYRMKVMKQKAKFPRYFSGGTRNVNSVSFIAETTEPAEMNLFAFLDSTEDR",
+    "full_length": 171,
+    "sequence_score": 0.624,
+    "structure_score": 0.5981,
+    "combined_score": 0.6111,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0151",
+    "sequence": "MLDEDLQWLAGFLNNSQSESLAECLDTGNYALNTMCCASTQPLESALVMGLSQATASALFQADTVLSMIGLHYWAFPDLDLNLIPTLGEESVTASPSSTS",
+    "full_length": 107,
+    "sequence_score": 0.6317,
+    "structure_score": 0.5904,
+    "combined_score": 0.611,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0157",
+    "sequence": "MRQPVMLNAENMITEAQVTYKVGNGSSGNIIAPTLLHPATGGQIITAEVAAESVSYGLDNEPVTLHPDGVKSKEPEKPFKKWSS",
+    "full_length": 84,
+    "sequence_score": 0.6285,
+    "structure_score": 0.593,
+    "combined_score": 0.6108,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0287",
+    "sequence": "IDLHTHQLKLVSIELSTVAGLAPPIGGVPKILPGTPVQLKLNPLLLPPDATEVEQTRLIICQEEKPEIEPAAFLVHLKGQWVYLVDSFDFDVFHELGEEG",
+    "full_length": 163,
+    "sequence_score": 0.6,
+    "structure_score": 0.6216,
+    "combined_score": 0.6108,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0335",
+    "sequence": "MTDAAVGFMKTQAQIPSIGSIEVSTVKAPDKVQASTADRFIDIGSLTYPLIVEFARAIEAIFSL",
+    "full_length": 64,
+    "sequence_score": 0.6507,
+    "structure_score": 0.5708,
+    "combined_score": 0.6108,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0034",
+    "sequence": "MTEPPDRDEQSARLINELPGQNSQGASNDKQIFIPDADPVRPRTNHFTIDEIKKAI",
+    "full_length": 56,
+    "sequence_score": 0.6387,
+    "structure_score": 0.5826,
+    "combined_score": 0.6107,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0267",
+    "sequence": "PGVAGELPLMTGKDRLPKHQEYRPAAGSELDDECLFCADIVMAMDRCPGAREGQDTADHRMVELVQISMPKQIADLIASVVHENEKVMSAGGGAAARNVV",
+    "full_length": 165,
+    "sequence_score": 0.6246,
+    "structure_score": 0.5964,
+    "combined_score": 0.6105,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0035",
+    "sequence": "FGVDPTEKGEPQRKAKDLPLSTHMAGLSSQEDEVSVIDVDDVDDSERTLVNGAVYSRAERVQHVNTGLSGSDLGLFR",
+    "full_length": 77,
+    "sequence_score": 0.6374,
+    "structure_score": 0.5834,
+    "combined_score": 0.6104,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0431",
+    "sequence": "MTNQENRRHAQTIEAIESLSPQRKKSPTEPTDEIGSDFIPLAAKSSTFCA",
+    "full_length": 50,
+    "sequence_score": 0.6542,
+    "structure_score": 0.5663,
+    "combined_score": 0.6103,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0254",
+    "sequence": "IGHIKMYGEVVDFAAESPTAFNQLEEVITPLLLSEKYGFEPNVQKIARFAEPQQREAVIQEKSIKLGGEFESHMKAQKRTKQLAKQSGTDWIVVDLTG",
+    "full_length": 98,
+    "sequence_score": 0.6317,
+    "structure_score": 0.5888,
+    "combined_score": 0.6102,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0030",
+    "sequence": "MSYNKKELQQEARQKVIEYSPNTTPKLDPETSQWYTHLRDENLHTPHHLLI",
+    "full_length": 51,
+    "sequence_score": 0.6426,
+    "structure_score": 0.5775,
+    "combined_score": 0.61,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0332",
+    "sequence": "MPKEMRVSVIFDVAGESKSALAVTRLDTWVHTKKPPAPELPGRYDTSFWEGVIEELKREEG",
+    "full_length": 61,
+    "sequence_score": 0.651,
+    "structure_score": 0.5685,
+    "combined_score": 0.6098,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0050",
+    "sequence": "MGGGNIELNVADAMPAVKENKTSRYRCGNRYVSKHKLYRKQAERRVEFESALKEGMTLSGGRTALNAAGYNAMGALRRGSQYVAALRYVGAVAERVPGRW",
+    "full_length": 180,
+    "sequence_score": 0.6226,
+    "structure_score": 0.5967,
+    "combined_score": 0.6097,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0346",
+    "sequence": "MLDPLPFVRGRQHRPTPEGLEGPSDRDLERSSDLYRRGVFAGPMSADTSCAPCDV",
+    "full_length": 55,
+    "sequence_score": 0.6336,
+    "structure_score": 0.5858,
+    "combined_score": 0.6097,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0055",
+    "sequence": "GAANQIRTAVTARDAVELLLNTLGIDTSNHRVDQIASNPDILPYAGNGLFMALIPKPLQLTAARENCIQAQPTLIVQADRGTRSSTVHNASHAHFDDMRQ",
+    "full_length": 113,
+    "sequence_score": 0.6187,
+    "structure_score": 0.6001,
+    "combined_score": 0.6094,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0352",
+    "sequence": "LIKHLGAHAGYLTGWRRIKSLYNVGNRVGPVLIPDEAGPFMLAHNDPIAKVEAAVEINLKLGSGIGNTQLLTLTKKISRDYLAPINHLVLGTLLDLETIQ",
+    "full_length": 180,
+    "sequence_score": 0.6238,
+    "structure_score": 0.5944,
+    "combined_score": 0.6091,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0441",
+    "sequence": "MVTQIVELRRGDKKICDETVIRIRNDISNQIAESKIPRLKNNNLQYVMEFFRGTSRVVQSLQKARSNLLLKPSKRRPEPSVKAIVDALVDMKRVNPQQWC",
+    "full_length": 104,
+    "sequence_score": 0.637,
+    "structure_score": 0.581,
+    "combined_score": 0.609,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0057",
+    "sequence": "LIFSLRGSLYPDLKKRGFKPIRMRRLFFEKLAINLFMKAGSPQLANLPLQALRFGQGDAANLLKRVEPTQTTFPARQAPEQRWSLLNYAKSAVDIAPVAL",
+    "full_length": 152,
+    "sequence_score": 0.6168,
+    "structure_score": 0.601,
+    "combined_score": 0.6089,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0351",
+    "sequence": "MHDMLRSSSSRKPAAPKEHPGGNVSATSLLKCTKRGSPQYLPRSLHTTPENGRMCTKALTTAILDDGEIFLIDSRSALPPAENIQEGQGIRSRQSPIPAE",
+    "full_length": 128,
+    "sequence_score": 0.6279,
+    "structure_score": 0.5896,
+    "combined_score": 0.6088,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0171",
+    "sequence": "MYPYSLPETGVGENKIGKRDISPVWLLIPTLVGESAQEKRREIGSHQEVEIKEMNESSRCPTALASVILRHGAPTGGRKEAIGVWPTSKPNQQPPFQQFD",
+    "full_length": 147,
+    "sequence_score": 0.619,
+    "structure_score": 0.5985,
+    "combined_score": 0.6087,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0443",
+    "sequence": "ANHASSSKKQVDHQGEKAASADTYKEEERREHRRLILAKILGECEACHGVFADISGLKNNGRVRLTTEDIDGAFANAIDKCKNIGAAKDIIVKPIEVTSM",
+    "full_length": 104,
+    "sequence_score": 0.6324,
+    "structure_score": 0.585,
+    "combined_score": 0.6087,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0459",
+    "sequence": "DPVHKIARTQTSKPMISGQVDFLVSGDAFLVTPSVDVLATIARDLGSDEGVSQPPVFCISMQDVILVGGDMASVVQRSTLYEEVWNKMKISACVSAVGGV",
+    "full_length": 138,
+    "sequence_score": 0.6122,
+    "structure_score": 0.6051,
+    "combined_score": 0.6086,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0262",
+    "sequence": "MDWQLAGRLGNSRFGLTSRPTPAQGSGAYVWFKIEEFDPRKPEQEQLPPFPGIDNILPKAFGRRFSFAGNYYKRYGNDLLVLPEDIPAPLWIGLIISLSF",
+    "full_length": 169,
+    "sequence_score": 0.6275,
+    "structure_score": 0.5891,
+    "combined_score": 0.6083,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0444",
+    "sequence": "MFPRLFLTRLDVGTLLERKDVQSTQKERAKTIVEYWQNIEPTIKINDVKRRNVFRILSYIRKKNHYRTRHKIPTSLLIGDPSSDIWHHLRRPLFSKEDKD",
+    "full_length": 102,
+    "sequence_score": 0.6318,
+    "structure_score": 0.5842,
+    "combined_score": 0.608,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0240",
+    "sequence": "MAIHVEGLLEMEGLKICPNPELDYLKFLVLLICRFASETILLVIIFREQLLEIRFLGLLETSDLMSKMNFIDVGYRRCSSEMVVPPPQLFTENERRMYNH",
+    "full_length": 145,
+    "sequence_score": 0.6464,
+    "structure_score": 0.5694,
+    "combined_score": 0.6079,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0354",
+    "sequence": "KVLELSTDSGLHWQLGAAVRVGCDKAPYMLEEYNTTSLFGQWEGFEVILTGPGTYTEIRFSINETHGLGRWHGLQELSLFCRRPE",
+    "full_length": 85,
+    "sequence_score": 0.6224,
+    "structure_score": 0.5933,
+    "combined_score": 0.6079,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0369",
+    "sequence": "MKLTLNGYPGRPVPNGEKPGHNGILYPVGTSIDKTFDVNDQALSFMVWRGPYERELTREAQAKCRPDKLKADHIHVPDNNQGGAPCGIAGDVVKGTHVLD",
+    "full_length": 104,
+    "sequence_score": 0.608,
+    "structure_score": 0.6077,
+    "combined_score": 0.6079,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0147",
+    "sequence": "ATTQRVKIAVRKRKKARKSLKDMYEQRMGEMVLQLLAGQARDAKLRGVLDDDEGQGQETKCTLEVMEYLDKGGIQFGDPDGLLSALQTAHNTFPPLVPSL",
+    "full_length": 102,
+    "sequence_score": 0.6355,
+    "structure_score": 0.5794,
+    "combined_score": 0.6074,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0456",
+    "sequence": "ARLAIANQTASVYCYSPKTSGKGSGRAEQYVQSLNALFRATQWGDKENADFNIPTNTVTWVKGELALKEPNDDAKSEDSNIGPASLATKRFNVEMGEPGR",
+    "full_length": 173,
+    "sequence_score": 0.6142,
+    "structure_score": 0.6005,
+    "combined_score": 0.6074,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0065",
+    "sequence": "MKALPNRNQEQVLVLLYIALVEDHYIDRRYLDQSDTSENGGEPFENTADDAGTYIVSKYILMS",
+    "full_length": 63,
+    "sequence_score": 0.6097,
+    "structure_score": 0.605,
+    "combined_score": 0.6073,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0160",
+    "sequence": "MSLANENNLMQDDIPRVGIFSSFYGPLKSALSGMPALSEALVRIVGMPQVFFIVQGVQQKELGFRLAARFFSDQCVVALGQEQNNSKIRLLIGALVVDVA",
+    "full_length": 108,
+    "sequence_score": 0.6265,
+    "structure_score": 0.5881,
+    "combined_score": 0.6073,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0178",
+    "sequence": "MVDDVPGGVTNGLRLLKTGELFVIGDTYANEFLTWVAGRREELHREYSQFVLLRLDDSCIPHSFTFHTDSEAVDYGPLKAAIASAWTEDLVKSITPMRVT",
+    "full_length": 135,
+    "sequence_score": 0.6112,
+    "structure_score": 0.6032,
+    "combined_score": 0.6072,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0454",
+    "sequence": "PELAEALDYLLKHRYMPVGDNLIVPVGEGKWAPADFDKDVTYKSFGADMSFVSQVLSNHGFEVAVSFVRRFQDGNALLVSGVSMLNAQTVLVTYEKPQMT",
+    "full_length": 151,
+    "sequence_score": 0.6204,
+    "structure_score": 0.5941,
+    "combined_score": 0.6072,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0268",
+    "sequence": "EKFDRTPQYIGNPKGAVSQKTKSKGKGPTTLLPGNQEKFLRHNGALPYSEVKRLFESKAKRAPVPSAAVTIKLNANDVTPNARADISMFSNFELNPNTVY",
+    "full_length": 109,
+    "sequence_score": 0.6202,
+    "structure_score": 0.5937,
+    "combined_score": 0.607,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0360",
+    "sequence": "SALDLLEVSIRLIRVWLTPGILTRVHADEASTQALRAEIPNEMFAPSIGELAGRTLKAIEFSKQPDRPKTPEEVADCIHSREYYMAADPTA",
+    "full_length": 91,
+    "sequence_score": 0.612,
+    "structure_score": 0.6019,
+    "combined_score": 0.607,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0169",
+    "sequence": "EIRAVLLAIATLAMMTQKQLQLAQADLLATAATPTDFHHLMADFDFNEKNSDGAAKPYLVGDSLVFESNVREWVSAHNVGVLYDRQAPCLVLEIGNGEEE",
+    "full_length": 154,
+    "sequence_score": 0.6219,
+    "structure_score": 0.5918,
+    "combined_score": 0.6069,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0264",
+    "sequence": "MASFRRVHTTSAASSSGLEDRSKKEQLTTSLVDGSVEQPRCRAQLVGDSAQNGASLQDLRVTSHKEAGYRKLLSATASSKEDAELDNTNDNCEDERCPKL",
+    "full_length": 171,
+    "sequence_score": 0.6265,
+    "structure_score": 0.5873,
+    "combined_score": 0.6069,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0174",
+    "sequence": "AGFIEGYTEESMNVPIASEVEGGTMVLLVLELTRGLSTWRSQGHQPAGVHKRSQIADGLNVDVPQSIEEPITDNSSATEHRRDTNEWALVITGLAGGNDI",
+    "full_length": 150,
+    "sequence_score": 0.6186,
+    "structure_score": 0.5949,
+    "combined_score": 0.6067,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0081",
+    "sequence": "MWTYQWHNFRDSGQQGMLDLPPGRFGPEAAMVVDARRPGLAFIPLWYDVEDPWPAELGDRIDPSLFELDINHPEAPIDAFEEGGEVLLVDPFTGKSQSTD",
+    "full_length": 167,
+    "sequence_score": 0.5983,
+    "structure_score": 0.6146,
+    "combined_score": 0.6065,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0053",
+    "sequence": "ITVYARDIKYIFEPMKILGFDIDVQMFILVSEEGEFYRVDEISALLSEEMKVALGTEMLLMRLGIRIFVKSPTTVTLLNPGHVFTQKYAKSMMNSYF",
+    "full_length": 97,
+    "sequence_score": 0.6198,
+    "structure_score": 0.593,
+    "combined_score": 0.6064,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0272",
+    "sequence": "MGAFPLSDTLQSVMQDAGIYRKMKKNIPAKWVTKQTKWFKQPSTSGVLQVTPGQPDFLTMREVSSAQDMSSANSQSSSGVNSGGDPIGFKLTYLSNKQSI",
+    "full_length": 151,
+    "sequence_score": 0.6161,
+    "structure_score": 0.5966,
+    "combined_score": 0.6063,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0356",
+    "sequence": "MPPTVGFPNARRMFAWLGPNISDHPVFADISGFGNMAGIAVNVLTKAYTWGSHRNPLAKIQLEEDPEAVMDRFLYFLEREYTST",
+    "full_length": 84,
+    "sequence_score": 0.6194,
+    "structure_score": 0.5932,
+    "combined_score": 0.6063,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0074",
+    "sequence": "MAIDSDDNELSVYAGLARLYKYEAINGLLVKPVPVVAPASSRGRIMASIYHTWTTTSAWDGQMHNVIDCVLGVDARHNFGAEMTTLISARDLPFYYRLDG",
+    "full_length": 132,
+    "sequence_score": 0.6034,
+    "structure_score": 0.6087,
+    "combined_score": 0.6061,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0368",
+    "sequence": "MMGLLGEGSPVAAYEYDGKDPNGLKVTQISEVLLLKRGPLRYTGAQDAHGNTMAPLPLPVGKCGISAGSKKEYKTVVAYNGLEGACLYSWYNQAYGLSAE",
+    "full_length": 119,
+    "sequence_score": 0.6084,
+    "structure_score": 0.6037,
+    "combined_score": 0.606,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0452",
+    "sequence": "FIGSLGYLAAQAEKHGAVRSSWIDSAFESSNKPLIEQMILNCKIFHSKNSFHTAILDVITVDNEDSAAVFQTNYLHPVHGVVEDLINIAREGEELLRKDV",
+    "full_length": 139,
+    "sequence_score": 0.6223,
+    "structure_score": 0.5896,
+    "combined_score": 0.6059,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0042",
+    "sequence": "MESLLITSKNRGDLCLSLKSNSIITIMIFLNGYLKYVYIMKTTANPERSTEDTFVAHLKGVTFLRADYIESSFKASTIIQASFRPFLPLNIAPEPLALRS",
+    "full_length": 177,
+    "sequence_score": 0.6291,
+    "structure_score": 0.5821,
+    "combined_score": 0.6056,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0471",
+    "sequence": "QMQLAIAAIQRGYEDVYQEDLLSSADVGGLVRPYPAWGVLSQYEIYTDKFYKENGKYGGCVFPLLNYVSTKSTVDGRSVVGTYVGDTTGCSGASLIQGPA",
+    "full_length": 146,
+    "sequence_score": 0.5994,
+    "structure_score": 0.6116,
+    "combined_score": 0.6055,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0278",
+    "sequence": "VLTKVAVMQSASFQYSEDVLMDLLTAAQQPGTLCESFEEAHHFFAVKEGEDNVEADLYRFGEGQALLATYYNLTGRQGLNEATIAPLAIQFISPEEEVP",
+    "full_length": 99,
+    "sequence_score": 0.6088,
+    "structure_score": 0.602,
+    "combined_score": 0.6054,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0045",
+    "sequence": "SGSLHHEMKRTDAVLQLMDKLCSALAKYSGHFYISRDGRFITLHPGIVMQNPLKNDGLSEWLMRLVHETNMKITAEFLKTAVDRCVDVKDNDLLIQMKSY",
+    "full_length": 104,
+    "sequence_score": 0.6248,
+    "structure_score": 0.5858,
+    "combined_score": 0.6053,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0047",
+    "sequence": "MPMELAGFDRTLSSYLLLGSMDHSEFLAREDLFSYRPGDALQSDYDADKGDLPPTNERKLLLLPVNRTAKETDILLMEHSHGAVDLGVLCLSRITVAATP",
+    "full_length": 124,
+    "sequence_score": 0.6239,
+    "structure_score": 0.5863,
+    "combined_score": 0.6051,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0051",
+    "sequence": "IYQPDPTGFKEISRTAHQTPHVIDTQVSRKLLAGAVDAVPEEEALVESDLGVYKSQPSEDGLADNLSKSFPYSVQVDEEKSAVMAGSGQANVSFLH",
+    "full_length": 96,
+    "sequence_score": 0.6222,
+    "structure_score": 0.588,
+    "combined_score": 0.6051,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0251",
+    "sequence": "MVVYRPKTRRHTVHALLLLLLTDLMLSRNILAWCLPEFVVQAQNDRVPPQATTGLVDLARVSMRSETPGDGSVRRAAGAAIDDAGTMPGSLILLKIQEEN",
+    "full_length": 122,
+    "sequence_score": 0.633,
+    "structure_score": 0.5772,
+    "combined_score": 0.6051,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0265",
+    "sequence": "MIYSKVTKAVLMNDEFETYMPPGYVFNIRVTNSNNTLDEENAKGSHKGLDLQGSSR",
+    "full_length": 56,
+    "sequence_score": 0.6263,
+    "structure_score": 0.5831,
+    "combined_score": 0.6047,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0372",
+    "sequence": "MGPFIQINYQIGIGAALGQAYGSDSKVAYENLFYGELIGMPAVPVFLLDFLDQYDLPGKASEAAIRLADKSMWENRPSSRTPMPIATPGKREHWSGFDDR",
+    "full_length": 115,
+    "sequence_score": 0.6052,
+    "structure_score": 0.6041,
+    "combined_score": 0.6046,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0349",
+    "sequence": "MHYSYLRGGREIDLYTGRLFAFESNGINASELSNLLGLIIGGTMIVLLLLGGIAIFSLSAFVQRINCWTKEMGDILSTPQYMYLERFDLGLAYESALKSI",
+    "full_length": 166,
+    "sequence_score": 0.6306,
+    "structure_score": 0.5785,
+    "combined_score": 0.6045,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0451",
+    "sequence": "MAFVGYRLLDPKTMIDSAMIRELNMYGFLMVGAFCFYFLEAEMTPSLTSISHLILEMLADQLDFAKTGTVFYFNALILGSYYTKDSAGLASGDN",
+    "full_length": 94,
+    "sequence_score": 0.6232,
+    "structure_score": 0.5858,
+    "combined_score": 0.6045,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0365",
+    "sequence": "SNALQKRKKPNKKDSAGYVNLLSIIQRSESKRLPMRAARVLTVAAAVTRSEKDAQDLEFKNLLTELVNGRFETAPSHSLTAGLVAICSNILNQTSIVHDW",
+    "full_length": 127,
+    "sequence_score": 0.6101,
+    "structure_score": 0.5987,
+    "combined_score": 0.6044,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0347",
+    "sequence": "MKRILSDEEVVTPPAYDYVLVNEIVPNDGELQFIEERYFSAIENQEVHLVDSNCRRYAGIGM",
+    "full_length": 62,
+    "sequence_score": 0.6333,
+    "structure_score": 0.5753,
+    "combined_score": 0.6043,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0364",
+    "sequence": "MRDLAHSPCSADVSMQREILRLLIAAIENFAAEYNAALGVIDAALGIGVQVNNRKQASVEPSLKTVDWSRAIGALVPRMNEIVRWAGVEDKDGDKQSRED",
+    "full_length": 179,
+    "sequence_score": 0.6103,
+    "structure_score": 0.5984,
+    "combined_score": 0.6043,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0164",
+    "sequence": "MTPSSEHGVPTASSSTSPIISSARRRENANTRSLAASHTHEGEQHKLGHDNRVSVSLMTIEMSEYEGDYCGKAGILCILGLRVFRTAAPILINTSRTCSS",
+    "full_length": 131,
+    "sequence_score": 0.6247,
+    "structure_score": 0.5834,
+    "combined_score": 0.6041,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0446",
+    "sequence": "MGTVIYASAIVSISSSSSRRRSEPDGSIVARASAERHPVANPRACGLSKRRDNPWKTHAISKQSDNDHHEGMTLSPPAWMGKYVPLFSTQILFGVGY",
+    "full_length": 97,
+    "sequence_score": 0.6294,
+    "structure_score": 0.5789,
+    "combined_score": 0.6041,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0048",
+    "sequence": "MGFGFAVENFLETILFPSRSTHKKTCPEESLWQIFCNNSQVFTGQDKADEEGVKNFLEKYNMEKSFARGEKEGVIVVG",
+    "full_length": 78,
+    "sequence_score": 0.6234,
+    "structure_score": 0.5846,
+    "combined_score": 0.604,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0350",
+    "sequence": "RERAAMEVVNAENGWDETAQLSDDAWAKAITIELEKEDFEMKEAAKLAAEPALATAAGAVDTTAVAAEWDKILGSDGSKAEKAFDEHQEKYKVTREFEQF",
+    "full_length": 146,
+    "sequence_score": 0.6287,
+    "structure_score": 0.5792,
+    "combined_score": 0.604,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0041",
+    "sequence": "KAFGACTPVIAEERELVPLMIADNTARGRIAIQLPLTLGVLLPLEAVVAAPHDALDANFKPLSLRAGAGRHETPVNV",
+    "full_length": 77,
+    "sequence_score": 0.6295,
+    "structure_score": 0.5784,
+    "combined_score": 0.6039,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0467",
+    "sequence": "MDAGTQGEFLFARKNKVAEATIEQMRVSGVSMIHMNNGFANELYASHIPDLGPIWKYMPAIGAIAKQGF",
+    "full_length": 69,
+    "sequence_score": 0.6042,
+    "structure_score": 0.6036,
+    "combined_score": 0.6039,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0044",
+    "sequence": "MTISESISIDSDNEYYLSETDIINSDTGHAEIPKFVKVVLDSYADLQKWNADPNF",
+    "full_length": 55,
+    "sequence_score": 0.627,
+    "structure_score": 0.5805,
+    "combined_score": 0.6038,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0059",
+    "sequence": "MTPVDMPRTLSAPDKTATEDSYNVPVSNNLMRTQLNELMAQSLNDKLYIARLQSVNVVSKMVESLDGQYTMPWGQALRHACAEGERLVANALTKCAEAHE",
+    "full_length": 131,
+    "sequence_score": 0.6146,
+    "structure_score": 0.5927,
+    "combined_score": 0.6037,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0263",
+    "sequence": "MEQPKPLQPAHEGPSSSNHNAIGSQLSQSSYFSSKRTATAVMHEKESSADEFLLLDEYSLFPHGIPSICHHDTTAEAVAFAVQVDVNSHPDLKRWLEQPI",
+    "full_length": 161,
+    "sequence_score": 0.6273,
+    "structure_score": 0.5797,
+    "combined_score": 0.6035,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0154",
+    "sequence": "MVISHETRHAMDHFHDSTQEATKIESDAREIVIPHFRANDTFVRVNEPALLAILTLLLFCTSSSHGDKYSNDFSNPKTYCEINAAML",
+    "full_length": 87,
+    "sequence_score": 0.6293,
+    "structure_score": 0.5776,
+    "combined_score": 0.6034,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0049",
+    "sequence": "MPARDNRSRPKGQGEEDSVKVRFYGQLTTSVRKLYDQALNPSDAVTPDSYSSYILHDNQSDDSGVQNPIASILKAVRNTGICSLFVVARLTLSSANKPQA",
+    "full_length": 147,
+    "sequence_score": 0.6231,
+    "structure_score": 0.583,
+    "combined_score": 0.6031,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0080",
+    "sequence": "MKDAVTFLRQGVDDQETAIDCVDRKVKLELRTGSTWFLMSDQKPGVWVRNQADLQNLFRTEIVCVFNATRAKDGKVRTVRLVTDDEWDSVQSIVLTNGGF",
+    "full_length": 122,
+    "sequence_score": 0.5986,
+    "structure_score": 0.6064,
+    "combined_score": 0.6025,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0255",
+    "sequence": "MLHVFVPGVVVVGTAVAEDVGIKVVCYSQVMPEFLGDDGIEVTDGILLKRGGATAHCDSTPDVDSDSIDEERRHHQKLQTIRPEVPRRKEEAQFFLKSLA",
+    "full_length": 167,
+    "sequence_score": 0.6312,
+    "structure_score": 0.5724,
+    "combined_score": 0.6018,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0270",
+    "sequence": "MLGANAGLPWLAAKLVNDFGTKGGETTLNQGGYTYLLRKKELLEVERVALERYQSRRPGLPFIVRLSALESTPLFGYISSGLLASLYARGLRGPPVESPE",
+    "full_length": 123,
+    "sequence_score": 0.619,
+    "structure_score": 0.5845,
+    "combined_score": 0.6017,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0374",
+    "sequence": "MLMSALQLQPAVAEEVEGLKIGNGRVMAMRIIMARGQSLPDELVMTASADDCITTLDQFGIGFLAECEDEPPLCENVFAPDLGMVRQPWQKSVSKPL",
+    "full_length": 97,
+    "sequence_score": 0.5992,
+    "structure_score": 0.6041,
+    "combined_score": 0.6016,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0250",
+    "sequence": "MEKRKKGKVGIQRLRILKYSNAMLQFGRHLSPLTPLHIIQASKAVDFKYNKRTRHISGANHGDDIFGEGGIQCIDVVLTSPSHIGYGDANIFHVEGRVSD",
+    "full_length": 101,
+    "sequence_score": 0.633,
+    "structure_score": 0.5699,
+    "combined_score": 0.6015,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0064",
+    "sequence": "MNRSKPPAPGLLAPLAPKILYEPVETPGSPPLRDPDEDGKPVSRIQWKAEPASLPGRMGFVYLDYQGSPRCRAAATSRATFSEIMDIEPAPDCAWENPGQ",
+    "full_length": 107,
+    "sequence_score": 0.61,
+    "structure_score": 0.5928,
+    "combined_score": 0.6014,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0457",
+    "sequence": "MDENSEEDDQPPGENDEEIAAIFDEFSKDRLSLFRDWDNSEVNIKRKLASNNRHGVPDYLSDFEWLICDNIEKYRLERRFLVGELARNVVAKEAPEIHAV",
+    "full_length": 169,
+    "sequence_score": 0.6135,
+    "structure_score": 0.5893,
+    "combined_score": 0.6014,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0148",
+    "sequence": "MFGFALSDEDSKGSDPITELLEHHIGNRWFGFGNFDGEVAYEREVNDNGTDLPLMVLGDELFNLGAKYGRLDLALTSVNLTLQKTLVAVKHSILHKTRQL",
+    "full_length": 120,
+    "sequence_score": 0.6351,
+    "structure_score": 0.5672,
+    "combined_score": 0.6012,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0273",
+    "sequence": "PYSLATLGKRPLSARMNLEHIRMRVPTRALEDDVFQRRSRSRVYGAPKGVFGASSKDLGEVASMPDRDGQWVGGRTLDDQHFGDININAKRKGKATSPKQ",
+    "full_length": 149,
+    "sequence_score": 0.6135,
+    "structure_score": 0.5889,
+    "combined_score": 0.6012,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0146",
+    "sequence": "MIETDADADNGRTDHQGVDLGGSLWQICLFQEKAGGQNLKIRQFSPKSQLGEAVLNSSFKNR",
+    "full_length": 62,
+    "sequence_score": 0.6359,
+    "structure_score": 0.5663,
+    "combined_score": 0.6011,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0275",
+    "sequence": "MTKVDGSGIELVIDVRGRGEVTFFADCTVPDAHANHISIGAMRNPGVYLLKVERDGRWKNLWTPEFVPFV",
+    "full_length": 70,
+    "sequence_score": 0.6119,
+    "structure_score": 0.5901,
+    "combined_score": 0.601,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0043",
+    "sequence": "MLAEVFPPSPSRRAAAGTSPGAEIQGHDNLDSIEFVELSRCLELQPAHNSELAQIYGYVASIQLKVNNTAVEITNGVERMLICF",
+    "full_length": 84,
+    "sequence_score": 0.6271,
+    "structure_score": 0.5747,
+    "combined_score": 0.6009,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0068",
+    "sequence": "ERHTYEVIVWQHKNQEMIHKIQNIGVGTDLLFPTVMFVENRIVNDEKITKEALPAPTTEAIKELFTSLESLYLQELTVAYASHPIFATKNIVTKAWEFPY",
+    "full_length": 146,
+    "sequence_score": 0.6066,
+    "structure_score": 0.5953,
+    "combined_score": 0.6009,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0185",
+    "sequence": "VAPVDNHGKESEIHIDFTTVRSNILAEQLYKYLSESMRGTPFILFALSTQNRHVAFFDIVPKHPIDGYERQTYKLKAGRPLFRLGKSPGHRYLYKTKVVG",
+    "full_length": 132,
+    "sequence_score": 0.599,
+    "structure_score": 0.6027,
+    "combined_score": 0.6009,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0188",
+    "sequence": "FIALGTYLDKLSKRSYPPRTQILDELGLAVREVAKSQTNVFVGTSRVYEKIVEREMGVDRDRLSLIDPDPAMPSWRLLTYRLHELYCEDTYDEPTQSRSL",
+    "full_length": 126,
+    "sequence_score": 0.5977,
+    "structure_score": 0.6041,
+    "combined_score": 0.6009,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0281",
+    "sequence": "DNVQQGSRSQGGGAAMTVENTTSFGGDGSILEKTKRATLLVFGSAAQSDFKPLGKDGTFGPGQTGEADISSLPVESYEVQEQTSREARYMRLSHVCLRAA",
+    "full_length": 153,
+    "sequence_score": 0.6027,
+    "structure_score": 0.5986,
+    "combined_score": 0.6007,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0362",
+    "sequence": "MVQTSTENQIIVIWRFGGASNTYPKSDLSPNSNNTHIQSERRPKTFVAIPRIDVTNSGKVEYPGNPPVPLINFARDDLPPPMAGAE",
+    "full_length": 86,
+    "sequence_score": 0.6117,
+    "structure_score": 0.5894,
+    "combined_score": 0.6006,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0061",
+    "sequence": "MDRENTVLYNAVLLIILSVERHGSLIRQQWTGKGRRELPGEVRLRSQRIRKLKGKFRTDCKQIRSSRFLTELGLEGEFLNMVENGWSCDIVSKYETMENK",
+    "full_length": 180,
+    "sequence_score": 0.6114,
+    "structure_score": 0.5894,
+    "combined_score": 0.6004,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0161",
+    "sequence": "MSCMDVTYELVLSAFNISLFAPKPLDKNAYKRIIFGILRTVCGRGLKRTHLSTGKIIRERFIRLPLTPSAAVNILKPYNSFTGTNDVSIEQFNIPKTV",
+    "full_length": 98,
+    "sequence_score": 0.6251,
+    "structure_score": 0.5755,
+    "combined_score": 0.6003,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0465",
+    "sequence": "YAKGASTSDYIDLPEVLHTLSDKVVVGGSGREEQCVARSHDKPQNVPEPEKCDEQREGCIDVSGGYVPPMFDPTFHSGVYDLHKLPAVPIREIPESAFYP",
+    "full_length": 114,
+    "sequence_score": 0.6064,
+    "structure_score": 0.5942,
+    "combined_score": 0.6003,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0202",
+    "sequence": "MFSAFPQLHGKQHWKSVLLEDPHGKAMQPDPKGVLLVTVVRLAAGYRLDGDINFEFHIDKAITSEATTGRTWSFWVYISGKQMTDVREEGYRLTHVLSRK",
+    "full_length": 134,
+    "sequence_score": 0.5812,
+    "structure_score": 0.6192,
+    "combined_score": 0.6002,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0462",
+    "sequence": "MFTHEKFTVTVKSEGNYKVICPGNEWVEQKPGPSVKRSRRTYNLEASDIAGYENVLTGRDGWVTGGLALQTSFHGYTTLVSREKNREPGFREVMSPYKRP",
+    "full_length": 180,
+    "sequence_score": 0.607,
+    "structure_score": 0.5934,
+    "combined_score": 0.6002,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0464",
+    "sequence": "MQRREPSCTIKTQLAAIQGVEVDNLIGYANGGNPIDDNFRLWFMVLLTIALAGRWILTHYSGERYDFDSGDFRRLPRTSNDAAERRGIEDGDVIWGGIAV",
+    "full_length": 169,
+    "sequence_score": 0.6067,
+    "structure_score": 0.5938,
+    "combined_score": 0.6002,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0056",
+    "sequence": "MRKYRARENGIRGGFIVALRLGKIVITKKSPASCSPERLRPFLYGELNFYQADRLLSTSSSYDPKAKTLSNLVTKANQMNLDHWSDMSPWAPDDFRMWTE",
+    "full_length": 149,
+    "sequence_score": 0.6177,
+    "structure_score": 0.5824,
+    "combined_score": 0.6,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0384",
+    "sequence": "MELESLRNLIPHTLITSLGVIWADKSKAAVGEPWPASGIEQYFLTRLGRRTLSARLVPTETSTVIDVRQWISLEGGQVIVRWAFQGNSKREVTFPADKQP",
+    "full_length": 139,
+    "sequence_score": 0.591,
+    "structure_score": 0.609,
+    "combined_score": 0.6,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0176",
+    "sequence": "QVGFRQFDELVFGVVSERRTEDGSVEMDGVEPMVRNLKPIVNASIEARQGEELNSENPQAAVTGIGALKWYSDPSGGVNPASQTENNVATREEAGENGGG",
+    "full_length": 156,
+    "sequence_score": 0.6159,
+    "structure_score": 0.584,
+    "combined_score": 0.5999,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0253",
+    "sequence": "ERHHGRKSAESAGGFLTERKKTNLGKNTVKGKLREPQDKIKAITSKAPLATF",
+    "full_length": 52,
+    "sequence_score": 0.632,
+    "structure_score": 0.5677,
+    "combined_score": 0.5998,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0357",
+    "sequence": "LTSIAIEIEARGVLDALHRGKKSTLDDRTYVGPDLLAGTAKMSLNEFYSIANRYVLSLGEEIRKILCDPTKDQAPYAKTDESDKVKAL",
+    "full_length": 88,
+    "sequence_score": 0.6189,
+    "structure_score": 0.5807,
+    "combined_score": 0.5998,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0183",
+    "sequence": "DFLHKKTKLLRARGIAEPPNLLHEYMTIPRMGMNEDPYESIALAYDGTSHVMDLSTKSRQSILPYEARAQYQNSLTIKCRLPSGVPQGRVGGIVEFPQEG",
+    "full_length": 170,
+    "sequence_score": 0.6028,
+    "structure_score": 0.5964,
+    "combined_score": 0.5996,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0172",
+    "sequence": "MRKESKGKHERPRRAPGNSHPGSISFRTQKGKLVSALAQLPCEKWKETAQGGARRKLIKIRMEAGVTLPIRVIDYRKIFGNKDMEISIPMVNPRIFTH",
+    "full_length": 98,
+    "sequence_score": 0.6189,
+    "structure_score": 0.58,
+    "combined_score": 0.5995,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0463",
+    "sequence": "MFEPTWWERMVLAGRKMRLEQMAASGPAERVGLGGGRSEQCAYYNAKSVAVGDLGANFERDPAYRFSFRPDDINSKFRCASASALAATLRVDVARPAVAI",
+    "full_length": 139,
+    "sequence_score": 0.6067,
+    "structure_score": 0.5923,
+    "combined_score": 0.5995,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0455",
+    "sequence": "KKFFDNGVEISPLGQPGNELVRLLRRYPWGSLAQLLAENYGVDAHLTHVKRSESLRFPVTDSEFAKREFDAT",
+    "full_length": 72,
+    "sequence_score": 0.6147,
+    "structure_score": 0.5833,
+    "combined_score": 0.599,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0252",
+    "sequence": "MIVDLSSYAADAYRSKALDLEMSLEVATPGFSFDSTACSADYSAGRHTPSQYSMLG",
+    "full_length": 56,
+    "sequence_score": 0.6327,
+    "structure_score": 0.565,
+    "combined_score": 0.5989,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0244",
+    "sequence": "MTHAPKVLATTTGISILADNIPTIENLLPRKETFVMATSSKPNSRPYTPYGACSGSEVTYAS",
+    "full_length": 62,
+    "sequence_score": 0.6392,
+    "structure_score": 0.5583,
+    "combined_score": 0.5988,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0469",
+    "sequence": "MPSLLSSLGLNGKEDWEKSTLNWNEQKVKTPPKEEVAIIGYPSGRGVPNGSIVPKLPKSTKRSFIPIIYDGSEISMVLDTFVHMQEFLRQIDPEYVVRVK",
+    "full_length": 148,
+    "sequence_score": 0.6027,
+    "structure_score": 0.5949,
+    "combined_score": 0.5988,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0461",
+    "sequence": "IGSIASAIEHPGSIEYYGTAYAGEPVPGALRKSEQVVKFDITLLPRIPNNGFVKTAFVKSHIKETPKKAFMKAAKRHSQLTALQGLIKYGTSMQDLFPAS",
+    "full_length": 105,
+    "sequence_score": 0.6092,
+    "structure_score": 0.5881,
+    "combined_score": 0.5987,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0066",
+    "sequence": "AVIIDDMPTDADLKPLSEEQTLFVLSIRDYLDTLSRLGDIRAKIQYSDEYAEFKYLSQEVNNAGMRQADTSTGKARLHYWQVNVAGVGFLPGRKNDLQRL",
+    "full_length": 154,
+    "sequence_score": 0.6093,
+    "structure_score": 0.5879,
+    "combined_score": 0.5986,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0284",
+    "sequence": "MGTNGKSSRLVMLLPSNLHSKEQGPKSARTRWPSQAFDMGSSGFCSQKKQKIGSQQGGKVVCSLSMASDLTLPANNKNSKSKKRRKSNWPVALLINHDVS",
+    "full_length": 131,
+    "sequence_score": 0.6018,
+    "structure_score": 0.5955,
+    "combined_score": 0.5986,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0159",
+    "sequence": "MRLRSNVQSNRRIQPARPQRKDLRLFPELRKKKHKLIKDFPFTTIMVGSEQFKFNLFKMNESISEM",
+    "full_length": 66,
+    "sequence_score": 0.6278,
+    "structure_score": 0.5692,
+    "combined_score": 0.5985,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0380",
+    "sequence": "MQWLMDIPMVAAASVCEPAWHPGMACFTLNVASSIYEGVQKAHQGLINAAIFVSNDAVVQKAGIRFGRPAPGELKSNNQGVHVIDLFSMDDPGMVLQGCV",
+    "full_length": 179,
+    "sequence_score": 0.5934,
+    "structure_score": 0.6037,
+    "combined_score": 0.5985,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0156",
+    "sequence": "LVLIQAEARMASQPKEFYSNGRLKHRVRREGITAPILVRACLGLREALDEFVAPLLLARGLRDSGEQPGQHCRDAQNGFVPAQTSPMPILPSAKSSISSA",
+    "full_length": 163,
+    "sequence_score": 0.6288,
+    "structure_score": 0.568,
+    "combined_score": 0.5984,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0175",
+    "sequence": "PSDVPMEVVHHDSPLVEADEGFNFEFPSPLNLLIHINDFIIISAPTLTSPFNACIIVLYGNEFASSSPQP",
+    "full_length": 70,
+    "sequence_score": 0.6163,
+    "structure_score": 0.5802,
+    "combined_score": 0.5983,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0186",
+    "sequence": "MSYPDLLDRGGQAIAGQKNNETYLNVLLRYKQATLQALDEQWGQENYRRCYELELVENAQGHRTPVLKRYIKGAKADQKASEHDLSHNLFEGLFALQEEG",
+    "full_length": 159,
+    "sequence_score": 0.5986,
+    "structure_score": 0.5977,
+    "combined_score": 0.5982,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0062",
+    "sequence": "YYKTTQATRRYLRWKKVRPIEVASCCTKSNRFDIARTRYAERDPPRTPRVRTDLFPAADGELGSASINIPARERHIRSMGDEVEARAALERRLELREIMA",
+    "full_length": 147,
+    "sequence_score": 0.6108,
+    "structure_score": 0.5854,
+    "combined_score": 0.5981,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0361",
+    "sequence": "MGVCNASAVETFLPLESMRGGETMIASNIAMNSQLVLIRLIGVILVLARLDVPDDILWPGLRLGSRFHLRDAMRQYAIKPKIFRAFISFPQRGTVTIIVT",
+    "full_length": 160,
+    "sequence_score": 0.6118,
+    "structure_score": 0.5844,
+    "combined_score": 0.5981,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0447",
+    "sequence": "MAMGITRGLDNPRELLSKFIASLGCTSKSVNVEPRSAHESRIETDILIMVVDIPIGSKIQGEGLNTPIKNLLLARPESRLVEEIKLHVVETQVVDLRGQA",
+    "full_length": 125,
+    "sequence_score": 0.628,
+    "structure_score": 0.5682,
+    "combined_score": 0.5981,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0067",
+    "sequence": "MDENEPVARFGPFPPPTPDAKGGAGGGVRATFNWRLAAKRRGNDADVHTVPFKVLEMARCGAPAYQLRAHVHALAGQDNGTWYKPIR",
+    "full_length": 87,
+    "sequence_score": 0.6076,
+    "structure_score": 0.5883,
+    "combined_score": 0.5979,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0082",
+    "sequence": "MDYARKEDVDILFSLLGRINAGGAMVAQWAAVGATRLHKIDEVPGKSAHIVQFKSGTAAFTLYFWVPARWPLWDNGNATAWLEELPTGQLEEVHHLAQAN",
+    "full_length": 163,
+    "sequence_score": 0.5948,
+    "structure_score": 0.601,
+    "combined_score": 0.5979,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0187",
+    "sequence": "KPYSFKRDEIIELERLALMLTDPANHIPVFDQIRQWDGSKATDFLLIEAVLVFQPKQEASGLAGTWGYVKATSKKIIGLLELPEKIRRKDSFVTGLHEPR",
+    "full_length": 107,
+    "sequence_score": 0.5986,
+    "structure_score": 0.5972,
+    "combined_score": 0.5979,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0387",
+    "sequence": "MSVIETGPVNGETLSGVLDVTNQEVTFSVPLGLYDVISTAFGQEFTLYKQAMEALSVRCKRRLPMTGNQCLSHKTKRWSFQDEGGDWSYWGPVDHSTISS",
+    "full_length": 156,
+    "sequence_score": 0.5899,
+    "structure_score": 0.6053,
+    "combined_score": 0.5976,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0083",
+    "sequence": "EVSPNSPIHLMDAMHFVVGQSSRKEVPKNDSNDAFLDIQGLDAWAGYENQEAVMKACAQNGERYMAAYAVAGPGRVSLKLLGDEVNVDQHGIKPGNLIER",
+    "full_length": 132,
+    "sequence_score": 0.5938,
+    "structure_score": 0.6012,
+    "combined_score": 0.5975,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0166",
+    "sequence": "MFRFLRTQPYTTVKTQKAKTKAQRRKPWMVVQQHTKKRLQLELRVLTLIPFYGAGQSNEKLGE",
+    "full_length": 63,
+    "sequence_score": 0.623,
+    "structure_score": 0.5719,
+    "combined_score": 0.5975,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0054",
+    "sequence": "MVRAPYGHVHRGLVSGLLPTFGQPHGDIGFDCGNGEPRAFGQTHLNVLGIRNVGRGGNLVLLSELEMRVLGDEDNFEPEEGKTQMMIRAGLLKELISFVS",
+    "full_length": 148,
+    "sequence_score": 0.6188,
+    "structure_score": 0.5757,
+    "combined_score": 0.5972,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0282",
+    "sequence": "DGLAVIRYPIDGTVRAYANPDWLIDLFVRLEEPELEGDDFHQVLCMNRRRAALICNELIVDRRGPSARHPHTVARIRQQNPETFERTDPYRSEAIIEFNR",
+    "full_length": 116,
+    "sequence_score": 0.6025,
+    "structure_score": 0.5916,
+    "combined_score": 0.5971,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0453",
+    "sequence": "SAIRKRSLKRASRKTSQSPDLEDDNLAWMLILALSPSLLSLAARPLFAQPALYGAEFALLASNSFLGNRSLFYPAGAVLGFPRLTAQVLIVQDAEPNASR",
+    "full_length": 139,
+    "sequence_score": 0.6221,
+    "structure_score": 0.5721,
+    "combined_score": 0.5971,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0162",
+    "sequence": "MRNLLHGKEFGQSNSDVVLRALYKSVPRVRMGYGGYSSITQIRLFPSPKKNLVFVEHQQHDVSFIKHKSAFVIKPL",
+    "full_length": 76,
+    "sequence_score": 0.6248,
+    "structure_score": 0.5692,
+    "combined_score": 0.597,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0179",
+    "sequence": "MYEYKLSYPLGEIVAAPNYQYIVDLIKPLVTKTYAIIADGANSIVDRGRFNHIQVRDSAYATNSAFEGQASVPPQESRPVVPPLRQKARGMIENLASDQ",
+    "full_length": 99,
+    "sequence_score": 0.6087,
+    "structure_score": 0.5851,
+    "combined_score": 0.5969,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0071",
+    "sequence": "PNAFEQIASFTDVGEPTVYLKLDELRDAVTHSKYSTFPDSLGQFVNYFVTKQKTIGDPIWHDFDTKTLIAIASGSFAHPLVDTQLRFQGDCYSSDEIALA",
+    "full_length": 162,
+    "sequence_score": 0.6042,
+    "structure_score": 0.5893,
+    "combined_score": 0.5967,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0286",
+    "sequence": "MSWRIPYTNITRKILKMDLFDMIPLPQDNVRQWGIRQKYPGWFTSRRSNGRLEFEFYNYRHQEEQRIFRQELVALITKSDALKNLTEANQNN",
+    "full_length": 92,
+    "sequence_score": 0.6005,
+    "structure_score": 0.593,
+    "combined_score": 0.5967,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0379",
+    "sequence": "METELQEWYDEHPKNDNYAGACIKQVRMSAPDRAELFFEKAIAEATPNGEVIKVNAVGDEFMAYKQYNTYCQSKLPFDGAMYSLPLQYYEVYSKLDLNSG",
+    "full_length": 140,
+    "sequence_score": 0.5938,
+    "structure_score": 0.5996,
+    "combined_score": 0.5967,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0063",
+    "sequence": "MLHCDVLEQNSEYLRSWEIVLGISTNLHSSAVTRFQSKSSHEISGSLARGAPRSAYVEYEDVVGLERFMHLEDCGRDFLEDQRQMYKTNEFDLDDDAPAA",
+    "full_length": 122,
+    "sequence_score": 0.6106,
+    "structure_score": 0.5825,
+    "combined_score": 0.5966,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0271",
+    "sequence": "MRLVRQEKISWGKGEKNGRSPRQCSGYGPQAITACGMPAGLPADISWEKASSSYNKKNIKKWEQR",
+    "full_length": 65,
+    "sequence_score": 0.6168,
+    "structure_score": 0.5765,
+    "combined_score": 0.5966,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0383",
+    "sequence": "MIADLRLEVKKHFNKVYPEETAHAGLVPWIDANNELPQTRGWVDDSTFWIKALGNGGNGTAKFSGFEDIRAMPLKGLAKGQGRVIWANALVSYTSAYEGD",
+    "full_length": 120,
+    "sequence_score": 0.5911,
+    "structure_score": 0.6019,
+    "combined_score": 0.5965,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0248",
+    "sequence": "MTVKPINLQKRVQMLVQQVFKQCTTVSHVTLLQHSNKLAMMLIHQKAAKVKYMTQNFIR",
+    "full_length": 59,
+    "sequence_score": 0.6349,
+    "structure_score": 0.558,
+    "combined_score": 0.5964,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0358",
+    "sequence": "TSDENSSVGDFVSGVCAVVKYLDEHVLNVEETLPDGTDVPRFGVDFPSRTIDI",
+    "full_length": 53,
+    "sequence_score": 0.6178,
+    "structure_score": 0.5751,
+    "combined_score": 0.5964,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0460",
+    "sequence": "MYETKEISRLSLEKLEKGGRTSGNVMVACLLLAERDSEYEELGYNILKFALPEANKMKNCHVIGYSDALNVLQCSISRLRVSPRQWLGIFRCDTLRVLFV",
+    "full_length": 107,
+    "sequence_score": 0.6111,
+    "structure_score": 0.5812,
+    "combined_score": 0.5961,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0359",
+    "sequence": "TSVIGLKNYKQHHDDLKELPVLLYFSAAGTKIITPIILTGHSVTLFSSPIVFHPKFYSQVSPEDSSVTQSDTDIYRCSTQFYFSPPAAQAFKKSVENPLL",
+    "full_length": 119,
+    "sequence_score": 0.6144,
+    "structure_score": 0.5777,
+    "combined_score": 0.596,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0180",
+    "sequence": "ADYLVERQERYDTGILEIVNESVRTLKKPEIINNKALYEDAAEVLVPNFKNFGSVVEGYNNITTDQANKRKSVDRTQE",
+    "full_length": 78,
+    "sequence_score": 0.6082,
+    "structure_score": 0.5833,
+    "combined_score": 0.5958,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0399",
+    "sequence": "MFNQNLKHKTTFVVNKRLAQDSMYFDVVQMIMSNYAIEADGYLFQGALPKSLQCMIKKYQVVYDTQQQFTISDTGSNNKLVFNLDHPIYNIMTLQQAGYE",
+    "full_length": 147,
+    "sequence_score": 0.5776,
+    "structure_score": 0.6139,
+    "combined_score": 0.5957,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0472",
+    "sequence": "WAKKGATKYKKALEDASTLNERWGQRESKQNSSNSLDDDGGQPNAFSLSRDAQPSGDKTNVSPAQKINEIMLGTMQTGEATPDGGISEGIEDGEPSLFGG",
+    "full_length": 123,
+    "sequence_score": 0.599,
+    "structure_score": 0.592,
+    "combined_score": 0.5955,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0079",
+    "sequence": "ADDITYTHTAASEIGGGASVRRKLARDDSGSPKLTSKMAGRRLDQSIIYGAYPVAITTMRDRKTKEVTGRSGVAKVLRPQ",
+    "full_length": 80,
+    "sequence_score": 0.5995,
+    "structure_score": 0.5914,
+    "combined_score": 0.5954,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0276",
+    "sequence": "MARGKAVQQTPVYVRRKRVQGSRVKCIGEWREQTKEIIQVTDVYLVALPFIRFQNKRCELGRKVVFSTIEKKCIGVSVIGIAGAVTGLRSSIQIVVLPAP",
+    "full_length": 136,
+    "sequence_score": 0.6112,
+    "structure_score": 0.5796,
+    "combined_score": 0.5954,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0058",
+    "sequence": "MLNRNLYKLEKEKSNRNLGLETRTRRHMDARRHFSTFTLEFESVENCIIYFQFMQRSWVGFTILSWVSMPIPIVAVATRHFNASIHLGLLRSNLTAMLPK",
+    "full_length": 113,
+    "sequence_score": 0.615,
+    "structure_score": 0.5756,
+    "combined_score": 0.5953,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0077",
+    "sequence": "MFSEGEELSWLIVSVPPDSREIQPPEMEGIPTMERDCSSYPQEIETTRTENYLKSESDSNPSDKSGDLVSKELLNLIMVTGSISKSVDLAPGSFSPCTKQ",
+    "full_length": 132,
+    "sequence_score": 0.6012,
+    "structure_score": 0.5894,
+    "combined_score": 0.5953,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0274",
+    "sequence": "MTTYVTGGRKTLKITALQTERIVRQTFEQTIEKRLGVIPPKYYRLKILHQNYEWEYSCSNKMPAILGIFGIIPDAVFALNYLSHLIVGINFT",
+    "full_length": 92,
+    "sequence_score": 0.6126,
+    "structure_score": 0.578,
+    "combined_score": 0.5953,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0046",
+    "sequence": "MEAAEETDETKCKRSTNRSVANWLLDALLFVARYLEETRVLFNSLTKKQYSDARLTQGVDAERSTVEGIFAGYANDGEGSSERLKG",
+    "full_length": 86,
+    "sequence_score": 0.6248,
+    "structure_score": 0.5657,
+    "combined_score": 0.5952,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0182",
+    "sequence": "GLGLRSHQLPGQSQCALDRGKPGWEGPTRVFKEEGGSLEKFVPSVTKTMALRARGVIEEPLKVRSAESPEEPLGWKQIYGDLSQEQKEFVQVPSTHQYTG",
+    "full_length": 157,
+    "sequence_score": 0.6035,
+    "structure_score": 0.5866,
+    "combined_score": 0.5951,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0285",
+    "sequence": "ACEKRPADNGANFNNISHLHRWAGRPHIADVSSGEKLDKSRILRELAQEEWVRKNSEAAEKTYRWMADRLIHIAPKGLRNLAGTNFEQLSSAISYKERAQ",
+    "full_length": 147,
+    "sequence_score": 0.601,
+    "structure_score": 0.5893,
+    "combined_score": 0.5951,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0073",
+    "sequence": "MLSHTVSAALRPSSTPQRARRRRLPLGGTHALNGPEAEPDPYCCPSASSSNIQKSSKYPMPLSDIYSTSVERIPVFWGQEGHRGSLMRMDCIETIRNTSR",
+    "full_length": 177,
+    "sequence_score": 0.6039,
+    "structure_score": 0.5861,
+    "combined_score": 0.595,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0167",
+    "sequence": "MIQPALIKTRELVIMAYSYGMIITRSHAGVKSALSLDLTLVGPAINLRPSRETTLVHIAMADGDVNEVEH",
+    "full_length": 70,
+    "sequence_score": 0.6226,
+    "structure_score": 0.5674,
+    "combined_score": 0.595,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0261",
+    "sequence": "SSMSTNLSILKISFLPLLENSTSRRFLICPLSAVSDENKGEAIQTVETKTVDPFLIGQARSLPNKKAEEYG",
+    "full_length": 71,
+    "sequence_score": 0.6278,
+    "structure_score": 0.5621,
+    "combined_score": 0.595,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0291",
+    "sequence": "MELDEQKKRFSARRKGNPHSTSLGDLSPIPTVEDSSSRFFSYLTAAELDHWGRTLPQMIPAKVLAQLQSENDNVARVIKCVNGADANDDDHVGIEFAARA",
+    "full_length": 161,
+    "sequence_score": 0.5947,
+    "structure_score": 0.5954,
+    "combined_score": 0.595,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0377",
+    "sequence": "LSEDEANEFIKNLSMDFNAGGYDGGIYQELGTIRKAAEELVASVNVVNHVKATEDETLSTLRASICGTMVGYGDAWKFGNTWMFYTVPD",
+    "full_length": 89,
+    "sequence_score": 0.596,
+    "structure_score": 0.5941,
+    "combined_score": 0.595,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0191",
+    "sequence": "GGVYSTQWFAVDHTARGSRHFEWSSTTSDFVDLVKDVMNASGIPDTVIIAEAKGVAQRDNVLGVVPKEDMYRLDKVPGNAKDDLLRTALKDQLVLECYEE",
+    "full_length": 147,
+    "sequence_score": 0.5961,
+    "structure_score": 0.5936,
+    "combined_score": 0.5949,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0476",
+    "sequence": "MCAALRYADVDAQTNLAAGTASAGYSKKGNNTRYGLNPNVYLTPTANLCAVLADCSEARSQLETDPKTAYAPS",
+    "full_length": 73,
+    "sequence_score": 0.5965,
+    "structure_score": 0.5929,
+    "combined_score": 0.5947,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0466",
+    "sequence": "MIKRCESTEIGNYTSEEILNQLPIDNADMGEITRDIDNSIATGWYIYIEAVGQDFSSFVKIMTRLKA",
+    "full_length": 67,
+    "sequence_score": 0.6061,
+    "structure_score": 0.583,
+    "combined_score": 0.5945,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0370",
+    "sequence": "MFSTRSLATLLGPDKPCLQVREVIICSYIALLQPYSGIPNLPFLTGNYYGVVAVGMMQNMAQVHSLSLSLQIANNCHLLKKHHQPDVIYDE",
+    "full_length": 91,
+    "sequence_score": 0.6074,
+    "structure_score": 0.5815,
+    "combined_score": 0.5944,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0468",
+    "sequence": "KANVDGIRRCKGREEAAALVDEDFISRLVDLKAGDDVGTLPRVPGKCMWVPLNILRKHDAFGLKIVSLNLSEESS",
+    "full_length": 75,
+    "sequence_score": 0.6029,
+    "structure_score": 0.586,
+    "combined_score": 0.5944,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0470",
+    "sequence": "GATGYPKFIRKGKEIGKDIYIDHRFPYTSKYFGCGERYMEFYLKLLKMQMGKNGNR",
+    "full_length": 56,
+    "sequence_score": 0.6024,
+    "structure_score": 0.5863,
+    "combined_score": 0.5944,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0475",
+    "sequence": "YTEYFSGYNRLNKTLYCPIHTKEIRIPRDMEPLPRMLPEVALAGANGAANTENKAQGTKDIVAFASPIISFGKRGWLPGKEAQEAIEFNYGALAGKSIRA",
+    "full_length": 156,
+    "sequence_score": 0.598,
+    "structure_score": 0.5904,
+    "combined_score": 0.5942,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0401",
+    "sequence": "RPLDWALKDSELPEYGDSTVEQVTVDQIATLSGTSSRGSTYQYKDKNKKNSNNNQRAWEPDHVTVVQTLGGCEVSFKITKRNITPPNTAWLLRRGRSTFD",
+    "full_length": 169,
+    "sequence_score": 0.5756,
+    "structure_score": 0.6125,
+    "combined_score": 0.5941,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0474",
+    "sequence": "MATKNPKRLQTMVSTMDKPFMTKLQGDLVYPNIAVNMARGFVESIDEGSQMQKAACHSLRLVRAMPLQRYTSSMTCDRIFIANNIPMADREQLTLTAMAL",
+    "full_length": 150,
+    "sequence_score": 0.5985,
+    "structure_score": 0.5897,
+    "combined_score": 0.5941,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0488",
+    "sequence": "LSALGAAAIAETAVGTRAGNQDNEYAIAQLIAARGYPGWTLSAHLHRDPPAQTVSLAVLFNRMEVPPPYICSIPCRTEDQ",
+    "full_length": 80,
+    "sequence_score": 0.5764,
+    "structure_score": 0.6108,
+    "combined_score": 0.5936,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0170",
+    "sequence": "ANLAGVIGDIAHLAVTTLPKSKHYSQRTIVHYTQGGNLTVQEGGDEGVRDHLLQQRG",
+    "full_length": 57,
+    "sequence_score": 0.6198,
+    "structure_score": 0.567,
+    "combined_score": 0.5934,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0070",
+    "sequence": "METANEHGLALLPLGNAGGFPKKNPELIRKFRLLMRRLRPERMKGDGGLCEQSSKQKEAEAVVEVVPVNFNEIYEDKQKCDEAQLKGWGRPAISEREFDA",
+    "full_length": 120,
+    "sequence_score": 0.6045,
+    "structure_score": 0.5821,
+    "combined_score": 0.5933,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0213",
+    "sequence": "GPSSETGVCDLPFQLYISYLDRIGKSYCDLRMPMSVYLALPYIHQHRPIMKCMGKGGYGWTFRNIAAADLNLLSNGEENQLTHGFHIRVPRSLLKKTMEK",
+    "full_length": 145,
+    "sequence_score": 0.5634,
+    "structure_score": 0.6229,
+    "combined_score": 0.5931,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0093",
+    "sequence": "MGQSIWDRLQTAQENHLMLEDVDVGIGNSADCIYLTIGFQGMANDTDLQDQCVETDQELSLIVSGEESVFPHTAETTPVISNETCAIYGQRNDDMANNMA",
+    "full_length": 129,
+    "sequence_score": 0.585,
+    "structure_score": 0.6011,
+    "combined_score": 0.593,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0381",
+    "sequence": "QLFNIAENEIEVKERSINAAQSGENEVVASVHGTLGSHLLIDEDFFTNMNRTIDDFQDVPRQEHEGMLFRALAKCLPLDKAPISLNREDSSVVMKVK",
+    "full_length": 97,
+    "sequence_score": 0.5931,
+    "structure_score": 0.5928,
+    "combined_score": 0.593,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0091",
+    "sequence": "MQTDEERWVNAAYGQLKEQIGKPFSQELHPQNTSGEGILENHLYVLSGDAAHINEALPVAPDAFSALSLSDITNTFLCVAAPELEDMKRNDNRGIFGLAS",
+    "full_length": 138,
+    "sequence_score": 0.586,
+    "structure_score": 0.5996,
+    "combined_score": 0.5928,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0097",
+    "sequence": "MTSFTIVWLFKYQMNPLHLIFQALKKGVASTHLDCIHWKEFNIALAERAIGTSRVEVLEGATFDVTGWLARREEQQPFDLFE",
+    "full_length": 82,
+    "sequence_score": 0.5766,
+    "structure_score": 0.6087,
+    "combined_score": 0.5926,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0060",
+    "sequence": "WNPTRKEARISTALSTATEGIFQIGNKGKDLLGALITGPATSTNLNKAITQYLLARQQQSRIKIINIETIW",
+    "full_length": 71,
+    "sequence_score": 0.6135,
+    "structure_score": 0.5715,
+    "combined_score": 0.5925,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0168",
+    "sequence": "MQDHSDHIDTGCPKILPNNQVIFNVASAGSYAVWRNLVRVTAVKLNTLDGQASSDSSEVGIVEHVGEEKLNVYPSVHLLEREVEISLDGGFGIEGDLLDF",
+    "full_length": 117,
+    "sequence_score": 0.6225,
+    "structure_score": 0.5626,
+    "combined_score": 0.5925,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0289",
+    "sequence": "GLIVSSTVASAPVHSPTKLFDSRKLITFYNNLQTNQITVIFNASLPWIRGGLYKHLLFSPLLADYAMGYPYFPPCSVVFPLIRWVVTHRYAKLVIKEIQQ",
+    "full_length": 170,
+    "sequence_score": 0.5962,
+    "structure_score": 0.5888,
+    "combined_score": 0.5925,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0442",
+    "sequence": "MAVGGKGADNKVRHMFAGSSNLNVADGKIARFVFYAYSRVVFKTKYFQRGTERAVVRALRCVL",
+    "full_length": 63,
+    "sequence_score": 0.634,
+    "structure_score": 0.551,
+    "combined_score": 0.5925,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0363",
+    "sequence": "MSLNLENSGPCELLVGLAWIGRSYVSDNAEEAMEGISQTNSSEAPREDMSTSSLFREGDYNLRPGGLG",
+    "full_length": 68,
+    "sequence_score": 0.6113,
+    "structure_score": 0.5734,
+    "combined_score": 0.5923,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0367",
+    "sequence": "MASDDTSRCLREIIQQEQDGIHYFHGHFLLDQHLNLLSFGSPKCRAAWRQLKKRPGAGGGEMERRVIY",
+    "full_length": 68,
+    "sequence_score": 0.6087,
+    "structure_score": 0.576,
+    "combined_score": 0.5923,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0184",
+    "sequence": "MIAPEAEKPESKEVPSFHIQATNFCECEIMNQADLEVWAFGTSTSESSSQPTADGEQVPDILFTSKTRPTMTANSTVGQITTFNRAVEEAMAPLKTLSDE",
+    "full_length": 108,
+    "sequence_score": 0.5991,
+    "structure_score": 0.585,
+    "combined_score": 0.5921,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0295",
+    "sequence": "GSYRIPADEDLVDEAMQTLVALQEDKKWIKREIYECGGYVINAPAKKGRKWYLPESGKITIVKPAYHPGGPPGPYSGELLQPRDPAASRADLLTLLCTLG",
+    "full_length": 147,
+    "sequence_score": 0.591,
+    "structure_score": 0.5926,
+    "combined_score": 0.5918,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0477",
+    "sequence": "KEEEEVEPFDYNPVRDYMQYSEDQLEAFETIIRTFTEYETGSNFRSASVEKPESYTYLVPPQNSQVLAVFKVHPGLCFVFDIANGVGKLLAFVQCLMVVS",
+    "full_length": 120,
+    "sequence_score": 0.5928,
+    "structure_score": 0.5904,
+    "combined_score": 0.5916,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0190",
+    "sequence": "MGDSDDMVNGVGRPKTIPSTREVILTDGDGSVCISSHDRELTEQIVHTQKLDFHPELIGKESGYSPLLTVLPVKVYRTLEGKREACHTLLFAARWLLAEE",
+    "full_length": 167,
+    "sequence_score": 0.597,
+    "structure_score": 0.5858,
+    "combined_score": 0.5914,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0086",
+    "sequence": "KYRYDRIKHYKQESRNSMLAPSNASPDLVEELPNQNVPKTDRGKAHQAQTSLTPTKDKRRDLRRKKLVVHKHGFQWSGFDHGKREVDFSTSSVFANPQPT",
+    "full_length": 141,
+    "sequence_score": 0.5903,
+    "structure_score": 0.5922,
+    "combined_score": 0.5913,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0069",
+    "sequence": "SRLAADSFLLLGTELRGGTCREIMSHLPLEHGSLGQVDKTYVEKPGKLKGLLDVENGFFKRLAQTAKGHREICVLLGEYEKALITLK",
+    "full_length": 87,
+    "sequence_score": 0.6065,
+    "structure_score": 0.576,
+    "combined_score": 0.5912,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0394",
+    "sequence": "RHWNALLITVHALDKEADNKMRRGSLLSYVSIASSSQMLAKYGDGIEKQHMENFKNSQLIELTDELYIGDERSLAAGVPLAKSTPLYEADSHMDTYLNWQ",
+    "full_length": 135,
+    "sequence_score": 0.583,
+    "structure_score": 0.5993,
+    "combined_score": 0.5912,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0177",
+    "sequence": "TTTNLRKIQKETVIGQAKKLTGNKKRRNDSKSTFECTFIKMKSLVCVVLRVTKPITQTDVDPQALQLRPVFRALVLKLRPELMVVVPVPEGLKHVSPDPS",
+    "full_length": 114,
+    "sequence_score": 0.6134,
+    "structure_score": 0.5689,
+    "combined_score": 0.5911,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0196",
+    "sequence": "MGDLVGTGKPEVNWPFGPSGQLDQSPNWFTTLQRLAFLEDMLARFANGGGDPYSIDEKSLDMARLLTESVLHAIYNDQLAFVKIWESTPILNGRNGALLK",
+    "full_length": 139,
+    "sequence_score": 0.5892,
+    "structure_score": 0.593,
+    "combined_score": 0.5911,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0201",
+    "sequence": "LAISDRDPLGPLVEEEWVVYKHITKNKGERPALGQDKQDAEQEVTRVALSIVDKQLDRGSIPVAWVERDYDLVSIDDINVRFRRKDDEMDPFIALEEFVI",
+    "full_length": 127,
+    "sequence_score": 0.584,
+    "structure_score": 0.5981,
+    "combined_score": 0.5911,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0371",
+    "sequence": "VYPVIIPSDLLGMVMEKFWPLPTLLILLFAVLAMQSRALRARKVLGLIRAGYSVLTIGTMMQIDQI",
+    "full_length": 66,
+    "sequence_score": 0.6068,
+    "structure_score": 0.5752,
+    "combined_score": 0.591,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0090",
+    "sequence": "VINNCTILQTTNSDFREGLEYSGQHDPGKIKALYWLAESGKAEEARRALTMYNPHNHTKFMDLCFDQFLIMQKATCRQLILLQQVSKTMSRLNFKKTREP",
+    "full_length": 134,
+    "sequence_score": 0.5863,
+    "structure_score": 0.5953,
+    "combined_score": 0.5908,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0096",
+    "sequence": "PKGFEEVSVIATHRNPAFRFIAKELARKQFHFRQWGALSNQELGQLWRPEGNTIFTDSAYVDVVTKWASGKYL",
+    "full_length": 73,
+    "sequence_score": 0.5814,
+    "structure_score": 0.6001,
+    "combined_score": 0.5908,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0181",
+    "sequence": "SEEQMPEVVIKGKLFASKADIGTQNIMIEDCEVNSPNLVLHLRKGGKIDEHYDEK",
+    "full_length": 55,
+    "sequence_score": 0.6054,
+    "structure_score": 0.5762,
+    "combined_score": 0.5908,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0279",
+    "sequence": "MHGLFPNTTLCRLSFPLSSSRDGRWVQSFYITSRRFGDHSRFAASFEWASVKEDPVPSPDGAEKQKQRSDIRSLQPKNGWGDGQLKLSLLVATAYEMGRL",
+    "full_length": 102,
+    "sequence_score": 0.6075,
+    "structure_score": 0.5737,
+    "combined_score": 0.5906,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0088",
+    "sequence": "MIGRNIVVQPKDYTQDTSPATKCTSAAHLVFERIKGAFHIGRPGTPPILAHLKSAHGVRPSPLAGVDRNEAMHGQCGNLITLSSHVYSATDEHFPDCFVP",
+    "full_length": 133,
+    "sequence_score": 0.5875,
+    "structure_score": 0.5935,
+    "combined_score": 0.5905,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0189",
+    "sequence": "MSEQAQILDQLSPSVVGRVSLNLAARSFALVYTVSVQYAQVVTFVAAEQEKGPGIIIVTMCRTCHDPSRCAKGTPAPPLDFSMGFDESTAR",
+    "full_length": 91,
+    "sequence_score": 0.5971,
+    "structure_score": 0.5837,
+    "combined_score": 0.5904,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0376",
+    "sequence": "MGYNKVCNQSLTAHKTELESIARLEYELDDIMTVLAEKTSLDELSDEEYYESNVYHESNWGSSIFRSIDVATAANEFDSWDSNKKTLKRMLFKCQPPCYS",
+    "full_length": 104,
+    "sequence_score": 0.5966,
+    "structure_score": 0.5841,
+    "combined_score": 0.5903,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0294",
+    "sequence": "MEIFLLNATPSLASDCEWYWQATAVMSNSTLPQQIPQLVQLAQHTNIPSGGLAVNLTFLAAMMVNPVFLANACSLELIRRRLQSSAMHINFEPTTGAAKL",
+    "full_length": 111,
+    "sequence_score": 0.5917,
+    "structure_score": 0.5887,
+    "combined_score": 0.5902,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0393",
+    "sequence": "MEMPMTSGCEFEWGALMDPDVASPACLNYYGVAIVQQRPYDIYPEDYFRLLDAYPVLANERIKEAYFGQWPRQAQELLDRLSYAPDGFHKTSLMQFLCQM",
+    "full_length": 112,
+    "sequence_score": 0.5845,
+    "structure_score": 0.5957,
+    "combined_score": 0.5901,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0192",
+    "sequence": "RGVSETILSKELLFRAAFQYTHFPPAKTSLNLALERIKMGRRLRAWQEAICPDPYGDSTVGTGSRSPFRLGTHTSQVIAGGSLLPTDQNYQTAACKPLPT",
+    "full_length": 104,
+    "sequence_score": 0.5959,
+    "structure_score": 0.584,
+    "combined_score": 0.59,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0277",
+    "sequence": "MSPLMSVHITDDFEQLGSTPSINDLNLIANVLNASDQAIIKHIMLCHRKTQVHCSQPVFNGDQSGKLLNFDLKTKRMQKKLKVQQIRADVQTGRTKKLDH",
+    "full_length": 114,
+    "sequence_score": 0.6092,
+    "structure_score": 0.5706,
+    "combined_score": 0.5899,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0300",
+    "sequence": "QARVSILGYEELRRHVAVNQRLRREVIEVAGLTPGMTLGKARWLLVQVGWRLEPGFAECKMLVCLPAVFMNKDEFTMTDPRIHPPRFDDLQTIIQTNPQE",
+    "full_length": 152,
+    "sequence_score": 0.5828,
+    "structure_score": 0.5971,
+    "combined_score": 0.5899,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0211",
+    "sequence": "CNDANQSPRTADKIADYDVYNTPVVVADFEPYLRQLAGECASTFQTSLVWGESQHFIMLVTDIPQVRRMTAHAILRSRSIPPTS",
+    "full_length": 84,
+    "sequence_score": 0.5654,
+    "structure_score": 0.614,
+    "combined_score": 0.5897,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0215",
+    "sequence": "DHCGPRMTFSEFTGDAVTHQNRGVSEALTNGQEFFADSRLGKLIVLTGDPLEFDVVCAQKKKAQLALVAYMRAGYKVKISDLEGYSTRFLHGCRLHSQHP",
+    "full_length": 101,
+    "sequence_score": 0.5618,
+    "structure_score": 0.6175,
+    "combined_score": 0.5896,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0378",
+    "sequence": "PAYRGSGKRYSKWEKVRQKRLEASGQGLGAKPSEPTYDVDTPNCILSSECQTTKKRAESELLALTQNPRNLTIAFLKPKFLLRLERSLYRCRLLYSEQKA",
+    "full_length": 136,
+    "sequence_score": 0.5945,
+    "structure_score": 0.5848,
+    "combined_score": 0.5896,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0087",
+    "sequence": "AALCNALKQLPHSSVYYWGGIIPNKHVTIFKTKPTVLMDRFAVIVTARSAGRPLTVKIVPSEGDPGMISPAIRRFSISLREEG",
+    "full_length": 83,
+    "sequence_score": 0.5894,
+    "structure_score": 0.5893,
+    "combined_score": 0.5894,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0290",
+    "sequence": "DSLQVPGRLYLSAPTDVADALQFMGGFFSLNTVLTITTVGITMHVVQLASEFLKFGQITHRRPEELWDDSKNGGEKWAGNCGEEVSQEQKDSEWSDKYVQ",
+    "full_length": 180,
+    "sequence_score": 0.5955,
+    "structure_score": 0.5832,
+    "combined_score": 0.5894,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0458",
+    "sequence": "GVERLTDNLHGSRQPIHSQVSLAKGLGAAELHGIRNFPETHHRKALDSFKPGRLFAFNRDIPKDALLTRSH",
+    "full_length": 71,
+    "sequence_score": 0.6135,
+    "structure_score": 0.5651,
+    "combined_score": 0.5893,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0388",
+    "sequence": "MGDDSVECQELNLPGHDKIFGATLGERFDVREHSGNPNNLIYNNGKLFDDTDGSYESLLQNYFQLLEIVTHMVDFDEITCLSALS",
+    "full_length": 85,
+    "sequence_score": 0.588,
+    "structure_score": 0.5903,
+    "combined_score": 0.5892,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0100",
+    "sequence": "MLEPARGASESRIVYTSRDFKACGTNDYLEVLGSPYLMEYKPPRLGLLKWFKDDIRGSVQVIFEEEEKIGVSSKYKIQTVWVIIRIMPEMKQDNSKD",
+    "full_length": 97,
+    "sequence_score": 0.5713,
+    "structure_score": 0.6061,
+    "combined_score": 0.5887,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0391",
+    "sequence": "MSNCKDYGIGWLGIRLDVHVKLSGGRNCANSIACGERQRVGQATIISALACICKNPCEKVTNKGEPAVHIHSKVSKIVPDSSVTIWTRDQLPELRAEESD",
+    "full_length": 171,
+    "sequence_score": 0.5859,
+    "structure_score": 0.5909,
+    "combined_score": 0.5884,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0389",
+    "sequence": "MEHWPCSSTDVPLNGNEHKMCTQASFFYALRKVYERRREVAVSVRPIGTTIRWQLGDRRTGASYVEPHLTYQGDRSQQRLRWLNSAMKEAPSNLSLDWTE",
+    "full_length": 150,
+    "sequence_score": 0.5877,
+    "structure_score": 0.5887,
+    "combined_score": 0.5882,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0085",
+    "sequence": "MGKHPQTLIDSASVYLAMKYADNVTASFFLCDGEMFEHIGEGTKGDLRAFPHQKGGYMDFVKEAVDLVDTKNAPEFWIGMLQGKTGDIPSELLGGIVLSR",
+    "full_length": 135,
+    "sequence_score": 0.5919,
+    "structure_score": 0.5841,
+    "combined_score": 0.588,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0386",
+    "sequence": "KLIRAFEVHAFYLACRTPRAMTGSIRRTPEGAAGSIGLWIIGKATSEIVEEGSYTVIKGLLDETKFLQRVSRGLLAHENSLTVALLLSWKELQATYPGVD",
+    "full_length": 119,
+    "sequence_score": 0.5901,
+    "structure_score": 0.5859,
+    "combined_score": 0.588,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0283",
+    "sequence": "MVHGQRPGGGRVILSPAGERKFDTGQFVQPGTPEYKDMNQIGQRKVVARLADTGVKTDALAQSTIATRAILWHIVIIVTRCQPGKRVAHWLWPEFGLSGG",
+    "full_length": 107,
+    "sequence_score": 0.6021,
+    "structure_score": 0.5737,
+    "combined_score": 0.5879,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0473",
+    "sequence": "MTGKSDIMHVQVMDQKSSILIKERESSNFGGKILELREQPVTEWTCGRAKQIRRRATLGEAQKGIPVGYTTNRKKY",
+    "full_length": 76,
+    "sequence_score": 0.5989,
+    "structure_score": 0.5769,
+    "combined_score": 0.5879,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0197",
+    "sequence": "GGRKEQGIDNQAARTTVPGPGTEPRPNAFDTFLYALLFQSCSGHAFNNENFGGLIAKALGAKKHLCPLTKVEWPDIPQPLRYKEFSIAKDVSESLLSDKD",
+    "full_length": 151,
+    "sequence_score": 0.5885,
+    "structure_score": 0.5865,
+    "combined_score": 0.5875,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0288",
+    "sequence": "SLADYQKGKVVCKIEKVGHCVPIRGGTVTVIQEAQSNVAKVVTLRGTLTINQARNVDHAASISDKYLVWSTALTNEETEVKNVVTLNRHMVVVQSDIQDD",
+    "full_length": 136,
+    "sequence_score": 0.6,
+    "structure_score": 0.5751,
+    "combined_score": 0.5875,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0084",
+    "sequence": "SLYKDGIFSSQTRGFNAEFSHQPFSNILTNIAFVTIGRVTSNWGVNHAVMKDVILVNGDSFVTDNAKPGISHAKINSHINSYSVGEGVGVYKVQFLQDIF",
+    "full_length": 107,
+    "sequence_score": 0.5927,
+    "structure_score": 0.5819,
+    "combined_score": 0.5873,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0375",
+    "sequence": "MCKEIFVFNFFSKLQNNLMACALSILVKANGLDLICLQAYFRACGGADTAAEKAANDLRQIEAFAQRQTEQLYTALGANLLHESQCDSSEQGKVYLAAVD",
+    "full_length": 132,
+    "sequence_score": 0.5969,
+    "structure_score": 0.5767,
+    "combined_score": 0.5868,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0366",
+    "sequence": "MGEERQIENPVAHGSGQPKCFRLLMTLGLGLTDPVKDYVSGLPRFRPSSDAGEGNSPLFENIGSEQPAKIQREPRVGAHGKTKEHGYDYSDHPSRFSPVY",
+    "full_length": 127,
+    "sequence_score": 0.6095,
+    "structure_score": 0.5638,
+    "combined_score": 0.5867,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0382",
+    "sequence": "MKKEPDGELVLYETEGAVKVVIMGRIVTDIPQALDAADFAVKISSGGDALQALNVVKGGFILGPQRDQSYDENSKPYARKCRQGNGGSDDGTAALDQRIA",
+    "full_length": 147,
+    "sequence_score": 0.5911,
+    "structure_score": 0.5823,
+    "combined_score": 0.5867,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0098",
+    "sequence": "MYTAAILKESRLANAKATMGETRNLFLKTTTSDGKVPFPEFIAENEVQQIQAPPNVGTTLPAGGLMDTLQVTKKTITTCWLPLTHGNGLLGENTLCHHMT",
+    "full_length": 124,
+    "sequence_score": 0.5749,
+    "structure_score": 0.5982,
+    "combined_score": 0.5866,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0403",
+    "sequence": "MIGGPCNNIIAWQYKAKRPHAFSAIPPFGAEASLKRWGDPVAKIHSAYVALIHLPRAPMLATTESAAAGHRLLPFVLDMIGGRAGADPMLPIVFCEPPGM",
+    "full_length": 163,
+    "sequence_score": 0.5732,
+    "structure_score": 0.5988,
+    "combined_score": 0.586,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0390",
+    "sequence": "LSGSPSKHFVLSELESKSVMPLGTVTIYAEALHFDILSNWWTVTGVDLTLVNVDEVPSLYLQPETVETVMMGGDVQS",
+    "full_length": 77,
+    "sequence_score": 0.5872,
+    "structure_score": 0.5845,
+    "combined_score": 0.5858,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0385",
+    "sequence": "MTDYYPVPIKRTTPARSKGPKPVKECLNFLYGSKCVCPSALSPEVQWNQLLQVQVLSEEEKYLTEDEAKGRKKAEEHESPCMVVSVLR",
+    "full_length": 88,
+    "sequence_score": 0.5902,
+    "structure_score": 0.5808,
+    "combined_score": 0.5855,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0479",
+    "sequence": "MQNDQEIRAISIDRPSRKWSTTERNSPYLLYSDSTDIQNRVGSFFLGAAVGMALVMAMLEIMGYNNWLKLQGPACILLVARSVDNEKMSQDQSCLFEVPF",
+    "full_length": 115,
+    "sequence_score": 0.5852,
+    "structure_score": 0.5854,
+    "combined_score": 0.5853,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0075",
+    "sequence": "MELLAEEIFNSHNEFNGISLLTSYLGNSVQVKWSSVRGEAYDAEALGLTTGKSVETKDDKGLRELHQFFPAGELTFVGGNQGFESGMLGHLVDGVQTKEE",
+    "full_length": 143,
+    "sequence_score": 0.6018,
+    "structure_score": 0.5685,
+    "combined_score": 0.5852,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0292",
+    "sequence": "MWMIGTLQHVGACIDRLKNQHFHNNSNILVCTNKYEKRFKNAVLVSLSSVWLTAHALLGMDLIKMNSKWSDNNVVLLIIGYPHISHNCMETPLCLANLAL",
+    "full_length": 136,
+    "sequence_score": 0.5926,
+    "structure_score": 0.5775,
+    "combined_score": 0.5851,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0486",
+    "sequence": "MKSRDRGLDYSDSETSYVRRKRLGAPILNIVARHVPSEPDTWVCRLHSKQTGYAQSQLMPQALERALYDVYREVWTIGR",
+    "full_length": 79,
+    "sequence_score": 0.5793,
+    "structure_score": 0.5909,
+    "combined_score": 0.5851,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0206",
+    "sequence": "MFWLIRPIGESAGGATGTGSSSMCLAGFVTGFFNRQPWNAPGAAAGWQVPTYRELSDWAAFYPGDRVEQWHAVLGYHSELGRDPLMNAMTIRKADKYFSL",
+    "full_length": 125,
+    "sequence_score": 0.5725,
+    "structure_score": 0.5973,
+    "combined_score": 0.5849,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0094",
+    "sequence": "MERDLKSIKRRFKICNSRNEKDYRTNAEESLIGKSLSPEIFYKILGVGLLEGPQDRSKRYDICTPNWVSFLAKEVDESAPVFRDHRDTVSINLTLKCYDK",
+    "full_length": 109,
+    "sequence_score": 0.5846,
+    "structure_score": 0.5845,
+    "combined_score": 0.5846,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0280",
+    "sequence": "MTPVIVLKLLSGLQPSQSQASWTSIKLAILILVHVMFQKWQSLSTMTPKNDTF",
+    "full_length": 53,
+    "sequence_score": 0.6066,
+    "structure_score": 0.5621,
+    "combined_score": 0.5843,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0373",
+    "sequence": "MYYKIVNVVGTLQRSGKLDIRKTVPKRGGQRPHSSAKAAVAACLALLAISNKFCLAKKFGVCSHAFAFESCMSSQKY",
+    "full_length": 77,
+    "sequence_score": 0.5996,
+    "structure_score": 0.5686,
+    "combined_score": 0.5841,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0052",
+    "sequence": "MKVAMDVTAGMAVDDETTPGTEDAVGEVPRQKLPRAIREAQKDLADEKMQWNINYIFQKGNADIYTSPPRA",
+    "full_length": 71,
+    "sequence_score": 0.6209,
+    "structure_score": 0.5471,
+    "combined_score": 0.584,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0107",
+    "sequence": "MGLMLVSMELCKTGDSEFVKWTRWTTMQQMDMANYAMLLRHPAVSFETKSNAVTQVYRGGDFVDGGRQGNRPVSYKGLSEEVSTRLCANGRKFVAAEFPA",
+    "full_length": 173,
+    "sequence_score": 0.5618,
+    "structure_score": 0.6059,
+    "combined_score": 0.5838,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0200",
+    "sequence": "MGFILIGITFFTLSKWRVRAFNKGTEKFMAELAFFMGPDYRPPPTSRQPTAPLTRIPPRCNVECNPFAAADPELDVGPSKSLGNKIG",
+    "full_length": 87,
+    "sequence_score": 0.5849,
+    "structure_score": 0.5827,
+    "combined_score": 0.5838,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0305",
+    "sequence": "GGSEERGLWSRARKVAKIPTSYTQRYRPKATLPRRLITRAQQNPATDELEEITLLRLFTGFAAVARIKVFFVKTSSEKTPFILRPSLALCRERGHPSFTD",
+    "full_length": 161,
+    "sequence_score": 0.5763,
+    "structure_score": 0.5913,
+    "combined_score": 0.5838,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0214",
+    "sequence": "MLFKQIHVDYRKSDNGDGYRKVLLTIQDCKLTLEVDEHFYFRDANLLPTLKVKMCFEYTDQDFELPSTQRTSLPSALAVQECGAWITFVSGFIEINQHDA",
+    "full_length": 109,
+    "sequence_score": 0.5626,
+    "structure_score": 0.6047,
+    "combined_score": 0.5836,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0402",
+    "sequence": "MHIPLELVSEASLEGYPIIEGCWCDIPWSEDWMHQEASMRDFTMHINDNLKIPVLTTTIFLRVIGAERLKGLKVPASFSYQGLSRIMASSAIRAVFNLLV",
+    "full_length": 174,
+    "sequence_score": 0.5751,
+    "structure_score": 0.5919,
+    "combined_score": 0.5835,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0309",
+    "sequence": "MMGSAGAGGTLEVSMLRDEMCTPLAGVALDCLTTSLGHPEFKWIPPRYSLPAIGWRGAFDATNR",
+    "full_length": 64,
+    "sequence_score": 0.5706,
+    "structure_score": 0.5959,
+    "combined_score": 0.5832,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0194",
+    "sequence": "MEVATDRAMRFEAGTPLMQFHFLVHEVEGAVHPVDAFTSRWGRGHRDKNDAPWKRAASLLQNLYIRL",
+    "full_length": 67,
+    "sequence_score": 0.5931,
+    "structure_score": 0.5729,
+    "combined_score": 0.583,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0198",
+    "sequence": "MSARITTVMLGGGLLIARMPKSEEWLLRKPMPLKGTDVVNGSDNTYGLGEVLDVKSRTYIVCSMA",
+    "full_length": 65,
+    "sequence_score": 0.5877,
+    "structure_score": 0.5784,
+    "combined_score": 0.583,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0199",
+    "sequence": "MLPVTENRHVGSTIIEGIPIPIEEKVGNAQYLVGYIDNHPCAGQVARQLACDPALANVLLEPSIGINDAGLTQFGSDELTKYDPSILQKMVWLFCNFVPA",
+    "full_length": 146,
+    "sequence_score": 0.5858,
+    "structure_score": 0.5803,
+    "combined_score": 0.583,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0299",
+    "sequence": "MQAVKIRHYAHFERVWELENADRWQIAFTIDNRIAKSNTDLTVMSWSARNTGMIRSLGVIQTYASFHEYGGSEKNEREDVIKLNEMARNEPKKRAMVLRG",
+    "full_length": 164,
+    "sequence_score": 0.5847,
+    "structure_score": 0.5813,
+    "combined_score": 0.583,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0398",
+    "sequence": "IIDCYAKLPGLLDPCAGTIPYPQKQLLMDSLPYTRPGSPRLEAGGYGTIGTFGRIVQLPGKECPDYNLIPDGAPFVLAAGLAVDSGQGRSCLDMNNNSRL",
+    "full_length": 105,
+    "sequence_score": 0.5785,
+    "structure_score": 0.5875,
+    "combined_score": 0.583,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0092",
+    "sequence": "YVFLVHCTIRQLLNLHQFAHLRFVPITPRTFREDRLRHNIKPDSNSPRYNFRIGERASLVNKDKKKSERRRERQTYEWFLLD",
+    "full_length": 82,
+    "sequence_score": 0.5857,
+    "structure_score": 0.58,
+    "combined_score": 0.5829,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0484",
+    "sequence": "SSKRLPMNEMSFIYQNMSITSEKFPGSVSLEIWTEKMTTCYLIRGENFAFLLELLFTRSLPSGLDCIPSGTAPAQVPGSVISSAPGQNCRLSRERKVQLM",
+    "full_length": 141,
+    "sequence_score": 0.5819,
+    "structure_score": 0.5839,
+    "combined_score": 0.5829,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0303",
+    "sequence": "ILKAYTQAKSKGDRINVETEQPPQAIIYVVLPSKEETLTNALNHSLDRSYPMTLNSLPPITITIDGMNIFAWTQIARKHSSSEDESESISEVSGREQSAD",
+    "full_length": 177,
+    "sequence_score": 0.5777,
+    "structure_score": 0.5876,
+    "combined_score": 0.5827,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0104",
+    "sequence": "HKVDDYLERQSAFITMHFQGNESLNFKGRWLFYNQASLKYMAALRRTGRLFCLPMRQAAVHHWLSNEGPEENLNVIRKHFSEYITYWEEKGPAALEDTEE",
+    "full_length": 153,
+    "sequence_score": 0.5635,
+    "structure_score": 0.6018,
+    "combined_score": 0.5826,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0490",
+    "sequence": "KGRHVLSHVDLLWAINFKVDFLQTKNQPWPDPYAIIKIRNSKHNMVVRIDAFLTNTERRKPKIMIIDVYSNFPFYSQLMMNKMVLGEVFYKGFSVLFTLR",
+    "full_length": 173,
+    "sequence_score": 0.5737,
+    "structure_score": 0.5909,
+    "combined_score": 0.5823,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0103",
+    "sequence": "ESDSDQSLDPSMNSLQREWRRVTFVQEKKWAPADIDEIFWRQRERNEAELAYWYSYKNPLAQDNVIFTDHQTLLELNKLLMATRHLVAKAPLHQRLGSQG",
+    "full_length": 179,
+    "sequence_score": 0.5639,
+    "structure_score": 0.6004,
+    "combined_score": 0.5822,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0297",
+    "sequence": "SLIILIGDLEENYNMQMYYGLSISDDPALRGNARDILDRLIHCAMGLPLPDELFSVAFYLPLAAILVAIMDTIVILLAVYAWTLGLPLRGAAYSSQTVTA",
+    "full_length": 127,
+    "sequence_score": 0.5875,
+    "structure_score": 0.577,
+    "combined_score": 0.5822,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0193",
+    "sequence": "MSPDEAIWLESKPKSTFMTKVVALKFFALLEGDEIRSPILQAAIKPNKASENSTEPRQLGTSVDITGQTKTQKKNQEERFTDYDARWMIGGKGPPLETDN",
+    "full_length": 100,
+    "sequence_score": 0.5935,
+    "structure_score": 0.5708,
+    "combined_score": 0.5821,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0099",
+    "sequence": "MNSPGLHEAKEYLSPAYLNSVRTLTAVMRDDNGGIYNRWSMADKVTGRAQNKPKSLGYPWIHTDILPKFGVGGAPANPYREIWTLARRATTLGHLFPSSP",
+    "full_length": 154,
+    "sequence_score": 0.5743,
+    "structure_score": 0.5898,
+    "combined_score": 0.582,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0210",
+    "sequence": "MEDSGFPWAQTIKTYTGGPDNPVDVTQYGMLAPATDPCLIPFREGASTLTQEDKLWTAIPDAWLNQRLIGPSELKQSFLSIFEPPKEKSEGKQVLGAIQK",
+    "full_length": 154,
+    "sequence_score": 0.5664,
+    "structure_score": 0.5977,
+    "combined_score": 0.582,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0481",
+    "sequence": "MIAAITSVGYQITYPHHSITSNQEFSMAVESLAYQNDEFINTDVGMRQGDLYYVGVLRGGDHHDVCNDLQRK",
+    "full_length": 72,
+    "sequence_score": 0.5842,
+    "structure_score": 0.5793,
+    "combined_score": 0.5818,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0298",
+    "sequence": "MKDSEDRWIMQNLSGPTMPIVGRALLNPVFVQTTVDCVSLSSQAQSKALEPLYPAAARLCHGQINPQKEFLLVGDLEIQIRESGCEEKQEFPHKKLEQPR",
+    "full_length": 107,
+    "sequence_score": 0.5871,
+    "structure_score": 0.576,
+    "combined_score": 0.5815,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0304",
+    "sequence": "MHQSKCDRGVARICNRGLGVLRKTGACAAGRLLLISLMHTPEMVECLAAAPKVPDIIPQAMMNAIRAGGLFERLGSITGQVTHWEGYMRVAHRNAQAVFQ",
+    "full_length": 171,
+    "sequence_score": 0.5771,
+    "structure_score": 0.5856,
+    "combined_score": 0.5813,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0110",
+    "sequence": "LKKGDGFCKYELVIWVERGSIVLERVESGYYRIPKPNVTGGHGRGIYEFPNLYRVPAIHGKWEIRLASADQQATPIITITSKVPRADTLSTDWYNIEPSS",
+    "full_length": 117,
+    "sequence_score": 0.5532,
+    "structure_score": 0.6089,
+    "combined_score": 0.581,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0407",
+    "sequence": "GQAMTCATIRDPTPYISRIDMLDRDHKALWVHAINAHGEFESIKTGECSVLPLYWSQEDKTGLKYFAVAKLHASKKGTFCSAILSGECIEGKGSNRIAYV",
+    "full_length": 163,
+    "sequence_score": 0.5603,
+    "structure_score": 0.6018,
+    "combined_score": 0.581,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0482",
+    "sequence": "MPLVGTNIYIDLNTSSHQDRGSSLQLPDAQIAANPMMGLQGLNVRVGMKGSFIRDWVMPRTPLKPALKGLCKFTQCLMHCTVRGCCSALGGAGVRIHAYN",
+    "full_length": 146,
+    "sequence_score": 0.5832,
+    "structure_score": 0.5775,
+    "combined_score": 0.5804,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0208",
+    "sequence": "VNQWIDIIRDDPKGTAAYEPWKLQFSGVIYNALIVESSDKSQLQVIPFSALPRNLSNQLAPPFKTPTFKQMLSYLYRGCSCQMAECVEKTMIDAQKYMEE",
+    "full_length": 144,
+    "sequence_score": 0.5683,
+    "structure_score": 0.5917,
+    "combined_score": 0.58,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0409",
+    "sequence": "GPRKNEWVAGLYITSRGSASLRHLFGFYSLTSGLIFNKIADGYVDGEVLVDQQVAASVCPENKLEFKSGDKRYSIQGIHCYMPAITTEESNALGLRTHLC",
+    "full_length": 117,
+    "sequence_score": 0.5568,
+    "structure_score": 0.6032,
+    "combined_score": 0.58,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0296",
+    "sequence": "MNLIALTKNPPVRQTTIMGRGMRWYSGILTEKEKPQFLDGTARYQLARFCRK",
+    "full_length": 52,
+    "sequence_score": 0.5895,
+    "structure_score": 0.5703,
+    "combined_score": 0.5799,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0301",
+    "sequence": "CVLSSFVAAPYAGPDLSRKFFAGGRLMQKGLLSSLEARINPVHIGCPVIDDFVIHKSEGYSYAIHHPDSPRHRIASAPVGIGNDEVNEFSSYILRLLCGE",
+    "full_length": 139,
+    "sequence_score": 0.5816,
+    "structure_score": 0.5774,
+    "combined_score": 0.5795,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0293",
+    "sequence": "MAVNANIMLENDNEDFNLSANDFICKSSVPLSLPRVVPMQFILRCRSYVMI",
+    "full_length": 51,
+    "sequence_score": 0.5918,
+    "structure_score": 0.5666,
+    "combined_score": 0.5792,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0491",
+    "sequence": "MQINVNNKGQSSRKNAHKNRKAKGRYCGNVPFNIKLMYNKYNTTKVTCQKLLTNAKAWVDEDGKTTWASQSICTKIRQTTGRCAK",
+    "full_length": 85,
+    "sequence_score": 0.5731,
+    "structure_score": 0.5852,
+    "combined_score": 0.5791,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0207",
+    "sequence": "MAKNGCAEESLLSTFVNLRYVTIQTTVTSIQCCFSQMKSVLHELFAGQWKESAIFLVATYLQTVKSFKAGSSGVERSGADMQEPGTTPILQFKLPHDGSH",
+    "full_length": 142,
+    "sequence_score": 0.5721,
+    "structure_score": 0.5854,
+    "combined_score": 0.5788,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0308",
+    "sequence": "TPETAQACLLALPDTTTREILLEKFTMPNDDLDLVASNQHGPPHQNGAVVAEEYELRRSGSSYEMTHP",
+    "full_length": 68,
+    "sequence_score": 0.5731,
+    "structure_score": 0.5845,
+    "combined_score": 0.5788,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0489",
+    "sequence": "MPRPKCTPRHGTLQHFQLSAPGLVDDHNVTCECCTFLETEEEWSSKGNQKPINLDPGTVDRGGEKEVTRKRLEAELAASSLAQGRHQRSDKKIRVSWRPE",
+    "full_length": 102,
+    "sequence_score": 0.5743,
+    "structure_score": 0.5832,
+    "combined_score": 0.5788,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0478",
+    "sequence": "MCKRMVYGEPPLICLHLMLVKGVQQLVDELLRRQVDPESKLRVFLDIMNCLMGVYLFVSTVILLVMGSHYTQMDK",
+    "full_length": 75,
+    "sequence_score": 0.5928,
+    "structure_score": 0.5647,
+    "combined_score": 0.5787,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0078",
+    "sequence": "MDLPMRREWLFAAGSQLGEREIVDSGQLLNPVLRIPFFDAMVKVLHELGQVVNVLKTVSKALSDEAGQIPWC",
+    "full_length": 72,
+    "sequence_score": 0.6009,
+    "structure_score": 0.5559,
+    "combined_score": 0.5784,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0101",
+    "sequence": "MDPAPAPQVRFSTIFHHETTRLKRNKLHDVWSHHSLLFTKDWGTKWVSKRQENLQLCFLFTATNTPGRDTLILGAHRDIKLEFNICMYI",
+    "full_length": 89,
+    "sequence_score": 0.5668,
+    "structure_score": 0.5894,
+    "combined_score": 0.5781,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0203",
+    "sequence": "MLDSQAEIDEDDSTLLFSDCLLKLDPAHHENSAGPQKVTSVKLESLANRPVCPQPATEWLPSREVLAEVPSQYKLDECGRLLLDGEDKSFAHYRGNGQRP",
+    "full_length": 128,
+    "sequence_score": 0.5776,
+    "structure_score": 0.578,
+    "combined_score": 0.5778,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0396",
+    "sequence": "MGGFVLACNLAFSAPKPYFGNDSIELLVGGRTKSDGVDEQRDVISDQQFVLVWLKLLSCTSAGCVGKGVKWMQGGS",
+    "full_length": 76,
+    "sequence_score": 0.5787,
+    "structure_score": 0.5767,
+    "combined_score": 0.5777,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0195",
+    "sequence": "ISEDVMGDNWELENPKGEPIKLISKPCSSSIKVCNVGNTTLLVEAGAIRVITALYNKRGPANGAKIAIKI",
+    "full_length": 70,
+    "sequence_score": 0.5917,
+    "structure_score": 0.5634,
+    "combined_score": 0.5776,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0404",
+    "sequence": "MSTGPCHATDVVTENDELDWDIVMLQKASGPALDTARLKPMRGEFGDMLESREDGRFRTATNCYIAEPKDCEATYRTNHPIFVDFSLLDALTRWRGDL",
+    "full_length": 98,
+    "sequence_score": 0.5644,
+    "structure_score": 0.5909,
+    "combined_score": 0.5776,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0307",
+    "sequence": "MEVMVAFPVDGMLAGFGNGRKIEQIGVFHYIDDTSGWERNSLQGGARTKAAMSGIRRIVWEVTDKYVCDLDIESTMANIGQQLFEAAIYAFTSIVSPNNR",
+    "full_length": 102,
+    "sequence_score": 0.5757,
+    "structure_score": 0.5792,
+    "combined_score": 0.5774,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0487",
+    "sequence": "GADREIRHLQKHDLDAHTELIEAADLFTMNTDEDKLWLPLPTGPLIHPPGTHPA",
+    "full_length": 54,
+    "sequence_score": 0.5782,
+    "structure_score": 0.5765,
+    "combined_score": 0.5773,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0492",
+    "sequence": "MMEEKDDQSTLLRDGDQCLSFERKGEGKRPDSLPLKVIIYKWYSSLEGSAVSPCECESAAGYLPVGMAQQPRFWQGQNEGKIVKT",
+    "full_length": 85,
+    "sequence_score": 0.5697,
+    "structure_score": 0.5846,
+    "combined_score": 0.5771,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0311",
+    "sequence": "MSHSVRDVESKETCPETRWSFVKCCEFTLRRNSSSCVNPTHESASDLLDCRLLDSLESNGRKRNEHITFHCITECSATLHSRAENEITAPQKSKPFRLRT",
+    "full_length": 178,
+    "sequence_score": 0.5651,
+    "structure_score": 0.5887,
+    "combined_score": 0.5769,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0095",
+    "sequence": "TTKKVSQVTPHLNFIYLNKQLESRLGVQTRDQLVLWAEFHEDTVEFKPLFKFGIRLVRARYYAEEITGI",
+    "full_length": 69,
+    "sequence_score": 0.5837,
+    "structure_score": 0.5699,
+    "combined_score": 0.5768,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0412",
+    "sequence": "IARAEENEICADKGIGIGCPLVSVSGYAGNRFLTSFFEDEKMMFLDPIAEPIGLAWALVFHMLPFYVAPKSTVGQKVLGQIKTRIMVKVKQIGEQEVTAN",
+    "full_length": 151,
+    "sequence_score": 0.5542,
+    "structure_score": 0.5989,
+    "combined_score": 0.5766,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0494",
+    "sequence": "MDVMKYYGLDLLLSLLADDPMDIFNSVCKHDLPCIGHSYVIIEDERCSDTVHVGTQTLGMQIGREGSLSACNFEMCKLTNREDDYDDVGRCVSPVARTPG",
+    "full_length": 155,
+    "sequence_score": 0.5641,
+    "structure_score": 0.5887,
+    "combined_score": 0.5764,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0216",
+    "sequence": "YVRCMFGQQCAYSLLIYFISTPLAPSPTEQPSLLIPATSGAFITPKPPPAPPAPNREGMGQVAHFTVKCEFSPLGVPDPPEVDAVDLDSSNYLLYTQIVP",
+    "full_length": 164,
+    "sequence_score": 0.5575,
+    "structure_score": 0.5949,
+    "combined_score": 0.5762,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0480",
+    "sequence": "MFKPLHRHSIVTRLPHAPKLPWIYVLTLAMSWAQEIQRARPLITNSSPTQDPGRDTG",
+    "full_length": 57,
+    "sequence_score": 0.5844,
+    "structure_score": 0.5675,
+    "combined_score": 0.5759,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0397",
+    "sequence": "GPRKDVVVKESCPDNKSVTAKLIDSPTMENSKGVSVKMNVQIVLIHQEKQLVAKRRQQTHGGHGDK",
+    "full_length": 66,
+    "sequence_score": 0.5787,
+    "structure_score": 0.5729,
+    "combined_score": 0.5758,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0395",
+    "sequence": "MMFLALNDRREIDGVFGVAAAKVVDAEARMGATMLGCVLMGSSTWPMRAMSWFPSEWLNMLLDDVKTFKMEHDLEAVVVNDLFWSVELVQAIVALRRNGS",
+    "full_length": 106,
+    "sequence_score": 0.5795,
+    "structure_score": 0.5718,
+    "combined_score": 0.5757,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0310",
+    "sequence": "MMDFVNNWSYAAGTKYWKGFLVHKRAGFIEGRQRSRLVHVDQGELYKISRKSRSGSESDGNSGKLFPWHATVGASLVLAILIGGVPPTVFDLLIWREGDK",
+    "full_length": 159,
+    "sequence_score": 0.5704,
+    "structure_score": 0.5801,
+    "combined_score": 0.5753,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0212",
+    "sequence": "ISMSEARRSRQSEALIIYLVLDKYQAPFEAHAHMHVAYDDQLNTTEDDNRRINTGAANFVRPVSYYPYMVPPKVRKMYRYGLLPRHDNMFSLLFL",
+    "full_length": 95,
+    "sequence_score": 0.5653,
+    "structure_score": 0.5852,
+    "combined_score": 0.5752,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0493",
+    "sequence": "MREVWLQGPRNGKEDSRQNKLPVDLDDLLPPDPDPLYNVTPGPKYRISAPWVKRCLVNTQLTEHVISEQGPCILTQRLIKS",
+    "full_length": 81,
+    "sequence_score": 0.5679,
+    "structure_score": 0.582,
+    "combined_score": 0.575,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0204",
+    "sequence": "MKTENSPGTNCKIEYNVREAFLIYLADVRKKSSLWLAGVSQNGLYLCCAKDEELI",
+    "full_length": 55,
+    "sequence_score": 0.5762,
+    "structure_score": 0.5721,
+    "combined_score": 0.5742,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0314",
+    "sequence": "MEQNDYQEAITNIVIATLGRPIAANNWAACADGMLKVRNKGRYMAEGLRNNDPQAPLYEEHGRSWRADSVFESNRNPIFEYIAPNPFAGSFFYVSEDHQI",
+    "full_length": 104,
+    "sequence_score": 0.5526,
+    "structure_score": 0.5959,
+    "combined_score": 0.5742,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0316",
+    "sequence": "LQWIGGYSSWTILSPNHGEQNICGSNNCEECRSYIQQRQNDITLSSLAVKNINCLPNASGSMKIDFPIPQLPVVKPRAAKEKQDYPFLLYSSTVSTNRNH",
+    "full_length": 154,
+    "sequence_score": 0.5505,
+    "structure_score": 0.5976,
+    "combined_score": 0.5741,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0306",
+    "sequence": "MCRHGAHEAALHFIRLRSQHRDEIMFCLSIEVAAYFMIVAKIALKAVDRYQPVKNHTYSLILPEAKACHHHTKVENITFGL",
+    "full_length": 81,
+    "sequence_score": 0.5761,
+    "structure_score": 0.5713,
+    "combined_score": 0.5737,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0108",
+    "sequence": "YILQAAQVSEVPSIQEVMCQLFAYLRLLAWLDVPWLGVGGTKQYKWNKEYVCYLTLDLKPFYCPKGNPREAAGEDTASHWREELRFLYLVRWGGWQGYEN",
+    "full_length": 139,
+    "sequence_score": 0.5604,
+    "structure_score": 0.5867,
+    "combined_score": 0.5736,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0102",
+    "sequence": "NSSRVGLKELYILYGVLTDPQWHMVKLIDSNLSKIDLEYFPSISNCDLIQRILCCTFPLIMIGILQRLHRFKNPATIDQHAAALVRLMAPENRLADLICS",
+    "full_length": 132,
+    "sequence_score": 0.5642,
+    "structure_score": 0.5827,
+    "combined_score": 0.5735,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0400",
+    "sequence": "LKAIPFKESIYGNRFNFLGLFSPLHASRLLYEKTQALLGVLPLIKKFCEAVRCCGARF",
+    "full_length": 58,
+    "sequence_score": 0.5771,
+    "structure_score": 0.5698,
+    "combined_score": 0.5734,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0410",
+    "sequence": "MDKYDEAEGFPTDVTDVASCSWIWDSKRDSLMENFVKNYLEIGVFRQLPNKDTKTFLPFGFIHRAVITHALCFVSNY",
+    "full_length": 77,
+    "sequence_score": 0.5552,
+    "structure_score": 0.5909,
+    "combined_score": 0.573,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0413",
+    "sequence": "PILDPSCCEPGGDHPSTNLPPAWSGKDQGIINAISRFARMGESDEREISIAGFLEAKYLSRRNRFNYEDWLHDLAKGRRSPREILPRIFNQHAPEAQFTG",
+    "full_length": 112,
+    "sequence_score": 0.5538,
+    "structure_score": 0.5912,
+    "combined_score": 0.5725,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0496",
+    "sequence": "MASSVMATIVPSFLTWQALYETITIQNPRHLKISQCTIIDFWAINKYADYYLEACPFRGCLMVDDQLYSLLMFTDSAKLGQARGMIKAGSVLLQSKSQRM",
+    "full_length": 102,
+    "sequence_score": 0.5534,
+    "structure_score": 0.5917,
+    "combined_score": 0.5725,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0411",
+    "sequence": "EFFMTMTARLSWGQWPPRWYLGHPNLALPARRYLRLGGILTEAWNVFLFAPFLQLQFEYSFLFFDQTSNTIALIDFIGLIWLRAIRVFASHLEATGNQNP",
+    "full_length": 101,
+    "sequence_score": 0.555,
+    "structure_score": 0.5896,
+    "combined_score": 0.5723,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0205",
+    "sequence": "AWYRNIRYAEVSILGMFREALKEAQSYTKQHLTINQRRVRFMKLSLIFICRCSTLRRKLHFPGVSFHYKGLVLWETVRRRVHLVGLLLREYYFGNKKERN",
+    "full_length": 131,
+    "sequence_score": 0.5755,
+    "structure_score": 0.5687,
+    "combined_score": 0.5721,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0217",
+    "sequence": "PFKVLIVLITTCHYSNKANVTGIRELNFMGEQDTDGGVAIVEPQTSADILTSIQADALPSHDYYPVVVHV",
+    "full_length": 70,
+    "sequence_score": 0.5575,
+    "structure_score": 0.5864,
+    "combined_score": 0.5719,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0392",
+    "sequence": "IDTSSVNTPLLITSQSVSNVEMLAESEQLSTCFASLALMIYGPHVKEPLMSRIAL",
+    "full_length": 55,
+    "sequence_score": 0.5854,
+    "structure_score": 0.5579,
+    "combined_score": 0.5717,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0406",
+    "sequence": "MKWTLFFSQFFYRMEIPFALPTIAAQNQQKSDLRKFAPSCIRGWVESLFSPLWRLDKLRCQTVVHGGGE",
+    "full_length": 69,
+    "sequence_score": 0.5608,
+    "structure_score": 0.5827,
+    "combined_score": 0.5717,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0089",
+    "sequence": "MARKAVMGGIVALWTVTPLEIGADVTSAEEKANEMVTLSSYYIITFDEPEKMRPDALTQQGLVS",
+    "full_length": 64,
+    "sequence_score": 0.5869,
+    "structure_score": 0.5563,
+    "combined_score": 0.5716,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0405",
+    "sequence": "MHINPPGAPLNTSIYSNGQCPESYKKRLYADGKQEPPKISNIFLHLTCLLLVPVSDGDCFPSWPHDAGAYETLRLISGTLVVLCDVEFEASYDEPSVAIV",
+    "full_length": 161,
+    "sequence_score": 0.5613,
+    "structure_score": 0.5814,
+    "combined_score": 0.5713,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0485",
+    "sequence": "KLGVPLSPKPAQIEIFIMDAMTEVGEFLSILGDGIFEIRISTRIYKLLLHVVLRALKYWYQDIASVLVPATML",
+    "full_length": 73,
+    "sequence_score": 0.5798,
+    "structure_score": 0.5626,
+    "combined_score": 0.5712,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0302",
+    "sequence": "MIKQRTKTKSSYPLEQGVMFKCTRHLKRQVQRYISIKEVPYCLLGDVIQTNIETKAVKFESR",
+    "full_length": 62,
+    "sequence_score": 0.5802,
+    "structure_score": 0.562,
+    "combined_score": 0.5711,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0315",
+    "sequence": "MAPAYELVAQLTNNILISNVMNKLLYMDAVAFKFMGCLNASREKKVNKIKGSWLAQDTWTNQKEGRDRFGVNPAKSAWDLRTATTTFKLANDRAQCGPGG",
+    "full_length": 157,
+    "sequence_score": 0.5512,
+    "structure_score": 0.5901,
+    "combined_score": 0.5706,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0113",
+    "sequence": "MCTEETCDPKYEEKPPMQAYGPDCSEPLEFPNNYPDYRIWVEAGDTQAIIEWTALERGDPAGARLQMDSILEAMKRHYKKADQFISV",
+    "full_length": 87,
+    "sequence_score": 0.5425,
+    "structure_score": 0.5985,
+    "combined_score": 0.5705,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0408",
+    "sequence": "RIGMFRAFAVRLAWLHCAAPAARAQNFSPNFFMATSETLILLKSRIAMPVSITYRSIYFVALATTIAGAVPFLLKAHALAIRDVPGRQRAKIPHLTAHCC",
+    "full_length": 115,
+    "sequence_score": 0.5577,
+    "structure_score": 0.5821,
+    "combined_score": 0.5699,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0106",
+    "sequence": "MWARQTCRHREHKENGTTPHEEATKANVTCSYGIKLMSWQIIKIMSGTPLEGVELIGEESSTNSQSTGDPGNLAMVTQEE",
+    "full_length": 80,
+    "sequence_score": 0.5622,
+    "structure_score": 0.5767,
+    "combined_score": 0.5694,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0312",
+    "sequence": "MVEATHTMGRVESLIVMPMPILGRCDRNFVSKTRPNIRGQAAYYRVMLPALGIWYNRIIRWMCTSEICEGGGGNLARNPGKEDKRRPLVRKRN",
+    "full_length": 93,
+    "sequence_score": 0.5573,
+    "structure_score": 0.5816,
+    "combined_score": 0.5694,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0209",
+    "sequence": "MFWHRRAADANKTLPQGDTATGVLCVNGCVLLVRDAGEWGELKRAANRESCKSEIAMLAVFIM",
+    "full_length": 63,
+    "sequence_score": 0.5674,
+    "structure_score": 0.5692,
+    "combined_score": 0.5683,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0109",
+    "sequence": "FCAHFLHKRHQALWIPHLNFLSLSREKDSETSNEQAQLRNPMIVMGTPDGFKGGFVRGLPFGHLVTCSSTLRARKIV",
+    "full_length": 77,
+    "sequence_score": 0.5584,
+    "structure_score": 0.5772,
+    "combined_score": 0.5678,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0111",
+    "sequence": "MGQKKFFKRSPVLELQNDFRHNILMYDPKTEGYTAYDLEEEYCNRVPINENSQCQHIKDLVLPMPGNV",
+    "full_length": 68,
+    "sequence_score": 0.5474,
+    "structure_score": 0.5863,
+    "combined_score": 0.5669,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0114",
+    "sequence": "DGCYLYHNVLSSNTWQPMTDYQSWQRNSQDIEFNAATEPLQTFVLRDRPDLELLARGYCSHSVDCALTRGSSIMLAKTLTRHSGAHEFRLMACMVETTLA",
+    "full_length": 169,
+    "sequence_score": 0.536,
+    "structure_score": 0.5976,
+    "combined_score": 0.5668,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0112",
+    "sequence": "VLLENIVVLGTLAILCSYHGHILLGEHLVKEQKAFLYDMAVHELVCIRYAEGSEFLKQAERIWMILADLSPAPLAGKDHSQKIIEAKKPHYTGVYHRNLE",
+    "full_length": 164,
+    "sequence_score": 0.5459,
+    "structure_score": 0.5867,
+    "combined_score": 0.5663,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0495",
+    "sequence": "MWKSMVELLLFERLKRPSKILYKIKVEQDHRLGRKCKHLVKTCSEIKEFTNFPTKTVCTKAHKIRLNVVRPNKSESKQLPGTTCCGMSQNVHKSTENSLD",
+    "full_length": 161,
+    "sequence_score": 0.5604,
+    "structure_score": 0.5721,
+    "combined_score": 0.5663,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0218",
+    "sequence": "MGIAYADWALASLGYYLHPAKDPMTHSSENACAQYALSQCSGKANGQIRALKHKNKGRCNG",
+    "full_length": 61,
+    "sequence_score": 0.5437,
+    "structure_score": 0.585,
+    "combined_score": 0.5644,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0105",
+    "sequence": "MPVRVKGDRAVVGCESQEIAFKARIRIWTSSFLKHEQLRQFSDRVQFGHQNLWERLGRKLAQRDPKIKWARRVGRCMRTGYLHLRTMYDSIATYLHGGLV",
+    "full_length": 102,
+    "sequence_score": 0.5632,
+    "structure_score": 0.5653,
+    "combined_score": 0.5642,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0219",
+    "sequence": "LGSDEPAMQKRGLPVDLASCGGFGVTDNKTPCRYLCLFVYNTEIPVSGMHSEPWVDGPAGDLKIVSKIGEFTITINTVLKKLPFKCEGEGSCQFQVCALY",
+    "full_length": 117,
+    "sequence_score": 0.5193,
+    "structure_score": 0.6086,
+    "combined_score": 0.5639,
+    "target": "diagnostic"
+  },
+  {
+    "design_id": "DES_0415",
+    "sequence": "MLLALDGFTTGFVVANRGSSEPEEHMDLIHDLLEEERDAVCIYPYDKRQDVYRWAWPGFQPDRKKGQSYSWEFNNHFPGNFGDCRTHPA",
+    "full_length": 89,
+    "sequence_score": 0.5495,
+    "structure_score": 0.5768,
+    "combined_score": 0.5632,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0313",
+    "sequence": "FKEVIHCLFALSENGVFMKLNSIELDLMFRESRTERTCQPIGVGTNDRVGALLGVVLALCITNPIGNKSQLD",
+    "full_length": 72,
+    "sequence_score": 0.555,
+    "structure_score": 0.5695,
+    "combined_score": 0.5623,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0317",
+    "sequence": "MSPGQIRKSEKQGWMMRVLVVPLAARAATLCSRMLCRRVMCTALSAGMRFPQVPLHGYSCLNPKRCAQWWRAVGTRLSNPCAGGHA",
+    "full_length": 86,
+    "sequence_score": 0.5472,
+    "structure_score": 0.5773,
+    "combined_score": 0.5623,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0416",
+    "sequence": "AYQIDKEPIARMSTVGNKHNVINAFNFENNANGYVMKPKIFWLVQDGSMVNLAFPHGGIAGGVDL",
+    "full_length": 65,
+    "sequence_score": 0.5415,
+    "structure_score": 0.5821,
+    "combined_score": 0.5618,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0483",
+    "sequence": "IDGTPARTTAAARVPTIILINCFPGRLCGSASGPEPMPYCGAVHVDGGSR",
+    "full_length": 50,
+    "sequence_score": 0.5832,
+    "structure_score": 0.5401,
+    "combined_score": 0.5616,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0497",
+    "sequence": "GGAPTVTAWQFLSADDAAEFPANHESGCWQAAKRSIMIALLLHIATQWDAVHETLRKLWNSVLVSDEFVLYQCILTDGKHGHLNKPISPRLELHWDDVLL",
+    "full_length": 167,
+    "sequence_score": 0.5366,
+    "structure_score": 0.5866,
+    "combined_score": 0.5616,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0318",
+    "sequence": "MASAMYIDVRTLKKACERIFGKFVINEFASLVWWYRTSSCTAIENPIYGWCRDTPMTWQPNYGKQWNPMTKEKIDPLYRDVHSPKIDLLVGEDGGVELPW",
+    "full_length": 128,
+    "sequence_score": 0.527,
+    "structure_score": 0.596,
+    "combined_score": 0.5615,
+    "target": "enzyme"
+  },
+  {
+    "design_id": "DES_0115",
+    "sequence": "EWAAGRAELNTIRAVLGRSRQPHVDPGPMDGRKYQANVLHGRNAWVKLDEQAIKHGMPFEAESTPLDEGLPPALWTKAACPRWADGQWVAWTLSLVSSGP",
+    "full_length": 116,
+    "sequence_score": 0.5333,
+    "structure_score": 0.5878,
+    "combined_score": 0.5605,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0414",
+    "sequence": "SRIQHNKDLNNDDETNTVKPWKSCINKRGGKQTRRKYAALSQAVGEKNHLTNVQS",
+    "full_length": 55,
+    "sequence_score": 0.5507,
+    "structure_score": 0.5673,
+    "combined_score": 0.559,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0116",
+    "sequence": "MAVRRCLTGGQCLSFTTKRRITTRKMKDKLYVGGYPQTSIHCGGRQYPSVLVPSLVKCFERVMACTCIVGPCPDWKICYVNLNAAKTTLNQFDIDICVAQ",
+    "full_length": 118,
+    "sequence_score": 0.5298,
+    "structure_score": 0.5841,
+    "combined_score": 0.557,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0417",
+    "sequence": "SWRGFIGTVNVSAQEQSSQTLCASRMQSFPQPNEEKAPDQKTLRHFVTYGNFLCHFSFKQYIRDYNYTMGPRERCASNSQLGDEITAALNDGFAAIGLLY",
+    "full_length": 100,
+    "sequence_score": 0.5358,
+    "structure_score": 0.5779,
+    "combined_score": 0.5568,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0419",
+    "sequence": "DLLAPNEGKAYRSVLSHLPKIDINDGLQWNMFLTNFPIDYMDPSGSDKMGTRGCQTTPESENAICPANRYGGLLKKDYYNCTLTVYVLDACISEAAIRDD",
+    "full_length": 162,
+    "sequence_score": 0.5187,
+    "structure_score": 0.5944,
+    "combined_score": 0.5565,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0117",
+    "sequence": "YYMLQAMTADLQDKGVPEYNLSRGRHWMPEDKVMSAPSQHHQPDKEDFWKHRRSFYAMELLPKAFKDWEHEDHAVEMVFTEDFK",
+    "full_length": 84,
+    "sequence_score": 0.5169,
+    "structure_score": 0.5901,
+    "combined_score": 0.5535,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0499",
+    "sequence": "NLNTHELYCSTPLMKGTPMLMFDFAVCSRGLAPDSSDIHLIGSDYEINCSLVPARILVKPVKIGWNCGKGCIPKGKPSYEEYAIIAAAHHYKSYQGSLGR",
+    "full_length": 114,
+    "sequence_score": 0.5109,
+    "structure_score": 0.5868,
+    "combined_score": 0.5488,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0498",
+    "sequence": "SSLVAQLIDRLQKATQVQPQIGWDHELGVPAIAGAQDPVVRLGSIGSGLCTRLLLILHHHQAFRCLSCICAVIHQCRISQFPRQWWLAQGVPK",
+    "full_length": 93,
+    "sequence_score": 0.5319,
+    "structure_score": 0.561,
+    "combined_score": 0.5464,
+    "target": "antibody"
+  },
+  {
+    "design_id": "DES_0418",
+    "sequence": "FQLGNITMKSPQITKVHRADNATPQARRQYNNATRHETSQIVANIRILKCANCSNGH",
+    "full_length": 57,
+    "sequence_score": 0.5229,
+    "structure_score": 0.5618,
+    "combined_score": 0.5423,
+    "target": "antimicrobial"
+  },
+  {
+    "design_id": "DES_0118",
+    "sequence": "SLLAAESPEDQNTLLQAVRSYPRTVMMQANLMWGINLREQCCFDWTNINEPGRTPDVSNRVWGKFVRMF",
+    "full_length": 69,
+    "sequence_score": 0.4912,
+    "structure_score": 0.5925,
+    "combined_score": 0.5418,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0119",
+    "sequence": "CGYEDRYRKWSHRSRLGWKWGRRCSIDALKPPSVGAGALMVIVTWEKCVGLITETPRAVWWVDKKIGSVKSDGCKILEIVTTV",
+    "full_length": 83,
+    "sequence_score": 0.4816,
+    "structure_score": 0.5732,
+    "combined_score": 0.5274,
+    "target": "longevity"
+  },
+  {
+    "design_id": "DES_0319",
+    "sequence": "KRICGFCGGQPVCLIFDTCCQENFITPHFNRGLTAVVGSGIDDAYIKITELADNLADGNDHNK",
+    "full_length": 63,
+    "sequence_score": 0.4983,
+    "structure_score": 0.5474,
+    "combined_score": 0.5228,
+    "target": "enzyme"
+  }
+]
