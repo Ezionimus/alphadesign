@@ -10,6 +10,8 @@
 |---------|--------|
 | Generate novel protein sequences | ✅ **500 designs** (0.48—0.79 score) |
 | Correct masked LM scoring | ✅ Natural > Random (GFP=0.53, Random=0.29) |
+| **Structure-aware scoring (ESM-2 attention contacts)** | ✅ **NEW — predicts residue-residue contacts from ESM-2 attention** |
+| Contact map visualization | ✅ **30 top designs with heatmaps** |
 | Contest discovery | ✅ **$356M+** in live prizes tracked |
 | Patent draft generation | ✅ Provisional drafts ready |
 | 3D visualization dashboard | ✅ Three.js protein helix viewer |
